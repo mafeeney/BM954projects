@@ -1,0 +1,10 @@
+---
+title: "Project and Time Management"
+page-layout: full
+---
+
+[Project management guidelines](https://sipbs-compbiol.github.io/BM432/notebooks/03-data_management_workshop.html)
+
+You may find it helpful to use project planning tools such as [Trello](link), [Asana](), or .... 
+
+<strong>Reminder: Back up your work frequently!</strong>

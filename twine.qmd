@@ -1,0 +1,12 @@
+---
+title: "Science Communication Resources"
+page-layout: full
+---
+
+## Twine Resources 
+
+[Twine cookbook](https://twinery.org/cookbook/index.html)
+[How to use Twine and SugarCube to create interactive adventure games](https://opensource.com/article/18/2/twine-gaming)
+[A Total Beginner’s Guide to Twine 2.](http://www.adamhammond.com/twineguide/)
+[Harlowe manual](https://twine2.neocities.org/)
+

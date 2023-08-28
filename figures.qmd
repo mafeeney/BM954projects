@@ -1,0 +1,23 @@
+---
+title: "Preparing Figures"
+page-layout: full
+---
+
+### Figure Preparation
+
+[Data presentation and figure preparation](https://sipbs-compbiol.github.io/BM432/notebooks/04-data_presentation_workshop.html) (BM432 workshop 6 materials) 
+
+[Making model figures](./Making_model_figures_workshop.pptx) (slides for our discussion)
+
+Figure preparation checklist:  
+Determine what point you wish to convey with your figure and the most effective way of conveying that point (visualization)
+Remove any extraneous or distracting data that distracts from the main message of your figure
+Determine how large the figure needs to be: how much space will it take up on a page? Will it be easy for your reader to see key details if the figure is this size?
+Check that the figure is clear and not pixellated: will your reader be able to see all the important details? Is the resolution good enough?
+Check that the colour scheme you have chosen is colour-blind friendly and not visually jarring
+Check that any fonts used are legible at the size printed
+Figure titles should give a concise "take-home message" conveying the result(s) shown in the figure
+Figure legends should give enough detail about the experiment for the reader to understand what was done (the figure should be able to stand on its own)
+
+[Why You <i>Must</i> Plot Your Growth Data On Semi-log Graph Paper](https://schaechter.asmblog.org/schaechter/2018/07/why-you-must-plot-your-growth-data-on-semi-log-graph-paper.html)
+

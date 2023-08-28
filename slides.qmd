@@ -1,0 +1,9 @@
+---
+title: "Slide Preparation"
+page-layout: full
+---
+
+
+## Preparing your talk
+
+[Scientific presentations: a cheat sheet](https://blogs.nature.com/naturejobs/2017/01/11/scientific-presentations-a-cheat-sheet/) [Ten Simple Rules for Making Good Oral Presentations](https://doi.org/10.1371/journal.pcbi.0030077)

@@ -1,15 +1,12 @@
 ---
-title: "BM432projects"
-image: image.png
-about: 
-  template: marquee
-
-links:
-    - text: Twitter
-      href: https://twitter.com/Mostlymicrobia
-    - text: GitHub
-      href: https://github.com/mafeeney
-    - text: Email
-      href: morgan.feeney@strath.ac.uk
+title: "BM432 project resources (Dr. Feeney's project students)"
+page-layout: full
 ---
 
+Hello, and welcome! These resources are designed to assist you as you complete your final year honours thesis with Dr. Feeney, and should be read in conjunction with official BM432 materials available on the course MyPlace page.
+
+Please read through the [project expectations](expectations.qmd) document and the learning agreement before our first meeting, and come prepared to discuss any questions you have.
+
+Useful resources can be accessed via the sidebar. Please report any broken links to Dr. Feeney and contact her with any questions about these materials.
+
+![](image.png){fig-alt="image of a phylogenetic tree and several Petri plates with bacteria" fig-align="center"}

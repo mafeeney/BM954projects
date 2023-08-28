@@ -4,13 +4,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n\n\n\n\n\nNote\n\n\n\nNote that there are five types of callouts, including: `note`, `warning`, `important`, `tip`, and `caution`."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "BM432projects",
+    "title": "BM432 project resources (Dr. Feeney’s project students)",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello, and welcome! These resources are designed to assist you as you complete your final year honours thesis with Dr. Feeney, and should be read in conjunction with official BM432 materials available on the course MyPlace page.\nPlease read through the project expectations document and the learning agreement before our first meeting, and come prepared to discuss any questions you have.\nUseful resources can be accessed via the sidebar. Please report any broken links to Dr. Feeney and contact her with any questions about these materials."
   }
 ]

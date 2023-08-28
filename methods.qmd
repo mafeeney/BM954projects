@@ -1,0 +1,10 @@
+---
+title: "Writing a Methods Section"
+page-layout: full
+---
+
+### Writing your Methods Section
+
+Describe your experimental methods in enough detail that your reader could replicate the experiments Cite the appropriate literature (i.e. for any recipes, tools, protocols you have used) Do not include results or rationale for performing experiments Be clear and concise Ask a friend or colleague to read your methods section and give feedback Protip: Look at papers that have used similar methods: how are these methods sections written?
+
+[Annotated example of how to write a methods section](./methods_example.docx)
