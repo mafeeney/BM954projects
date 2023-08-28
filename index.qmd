@@ -1,11 +1,15 @@
 ---
 title: "BM432projects"
+image: image.png
+about: 
+  template: marquee
+
+links:
+    - text: Twitter
+      href: https://twitter.com/Mostlymicrobia
+    - text: GitHub
+      href: https://github.com/mafeeney
+    - text: Email
+      href: morgan.feeney@strath.ac.uk
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

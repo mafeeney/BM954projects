@@ -5,14 +5,36 @@ project:
 website:
   title: "BM432projects"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Intro"
+        contents:
+          - expectations.qmd
+          - management.qmd
+      - section: "Experimental Work"
+        contents:
+          - bioinformatics.qmd
+          - twine.qmd
+       - section: "Thesis preparation"
+         contents:
+          - writingtips.qmd
+          - figures.qmd
+          - methods.qmd
+       - section: "Presentations"
+         contents:
+          - slides.qmd
+          - talk.qmd    
 format:
   html:
-    theme: cosmo
+    theme: pulse
     css: styles.css
     toc: true
 
