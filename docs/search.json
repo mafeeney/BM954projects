@@ -12,5 +12,89 @@
     "title": "BM432 project resources (Dr. Feeney’s project students)",
     "section": "",
     "text": "Hello, and welcome! These resources are designed to assist you as you complete your final year honours thesis with Dr. Feeney, and should be read in conjunction with official BM432 materials available on the course MyPlace page.\nPlease read through the project expectations document and the learning agreement before our first meeting, and come prepared to discuss any questions you have.\nUseful resources can be accessed via the sidebar. Please report any broken links to Dr. Feeney and contact her with any questions about these materials."
+  },
+  {
+    "objectID": "management.html",
+    "href": "management.html",
+    "title": "Project and Time Management",
+    "section": "",
+    "text": "Back up your work!!!\n\n\n\nPlease make sure you back up your thesis work. IT issues such as computer failure are not considered grounds for an extension (and you don’t want to have to redo all your hard work anyway!) It is good practice to make sure you have at least three secure back-up copies of your work stored in different places."
+  },
+  {
+    "objectID": "management.html#links-to-useful-projecttime-management-resources",
+    "href": "management.html#links-to-useful-projecttime-management-resources",
+    "title": "Project and Time Management",
+    "section": "Links to useful Project/Time Management Resources",
+    "text": "Links to useful Project/Time Management Resources\nProject management guidelines\nYou may find it helpful to use project planning tools such as Trello, Asana, or ….\nReminder: Back up your work frequently!"
+  },
+  {
+    "objectID": "bioinformatics.html",
+    "href": "bioinformatics.html",
+    "title": "Bionformatics Resources",
+    "section": "",
+    "text": "Depending on your project, you may find some of the following resources useful:\nHow to Access Data from Public Databases Links to some key public databases. Please report any broken links to Dr. Feeney. Get Started with GitHub documentation\n\n\nSchniete, J. K., Selem-Mojica, N., Birke, A. S., Cruz-Morales, P., Hunter, I. S., Barona-Gomez, F., & Hoskisson, P. A. (2021). ActDES - a curated Actinobacterial Database for Evolutionary Studies. Microbial genomics, 7(1), mgen000498. https://doi.org/10.1099/mgen.0.000498 e-seminar explaining actDES: https://youtu.be/iSlrPdI4ohU actDES GitHub repository actDES FigSharer page\nPython script - https://github.com/PaulHoskisson/StrepEvo/blob/main/ActDES_python and https://www.youtube.com/watch?v=OdeuV9Iqw6M"
+  },
+  {
+    "objectID": "bioinformatics.html#bioinformatics-resources",
+    "href": "bioinformatics.html#bioinformatics-resources",
+    "title": "Bionformatics Resources",
+    "section": "",
+    "text": "Depending on your project, you may find some of the following resources useful:\nHow to Access Data from Public Databases Links to some key public databases. Please report any broken links to Dr. Feeney. Get Started with GitHub documentation\n\n\nSchniete, J. K., Selem-Mojica, N., Birke, A. S., Cruz-Morales, P., Hunter, I. S., Barona-Gomez, F., & Hoskisson, P. A. (2021). ActDES - a curated Actinobacterial Database for Evolutionary Studies. Microbial genomics, 7(1), mgen000498. https://doi.org/10.1099/mgen.0.000498 e-seminar explaining actDES: https://youtu.be/iSlrPdI4ohU actDES GitHub repository actDES FigSharer page\nPython script - https://github.com/PaulHoskisson/StrepEvo/blob/main/ActDES_python and https://www.youtube.com/watch?v=OdeuV9Iqw6M"
+  },
+  {
+    "objectID": "figures.html",
+    "href": "figures.html",
+    "title": "Preparing Figures",
+    "section": "",
+    "text": "Figure Preparation\nData presentation and figure preparation (BM432 workshop 6 materials)\nMaking model figures (slides for our discussion)\nFigure preparation checklist:\nDetermine what point you wish to convey with your figure and the most effective way of conveying that point (visualization) Remove any extraneous or distracting data that distracts from the main message of your figure Determine how large the figure needs to be: how much space will it take up on a page? Will it be easy for your reader to see key details if the figure is this size? Check that the figure is clear and not pixellated: will your reader be able to see all the important details? Is the resolution good enough? Check that the colour scheme you have chosen is colour-blind friendly and not visually jarring Check that any fonts used are legible at the size printed Figure titles should give a concise “take-home message” conveying the result(s) shown in the figure Figure legends should give enough detail about the experiment for the reader to understand what was done (the figure should be able to stand on its own)\nWhy You Must Plot Your Growth Data On Semi-log Graph Paper"
+  },
+  {
+    "objectID": "methods.html",
+    "href": "methods.html",
+    "title": "Writing a Methods Section",
+    "section": "",
+    "text": "Writing your Methods Section\nDescribe your experimental methods in enough detail that your reader could replicate the experiments Cite the appropriate literature (i.e. for any recipes, tools, protocols you have used) Do not include results or rationale for performing experiments Be clear and concise Ask a friend or colleague to read your methods section and give feedback Protip: Look at papers that have used similar methods: how are these methods sections written?\nAnnotated example of how to write a methods section"
+  },
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Slide Preparation",
+    "section": "",
+    "text": "Scientific presentations: a cheat sheet Ten Simple Rules for Making Good Oral Presentations"
+  },
+  {
+    "objectID": "slides.html#preparing-your-talk",
+    "href": "slides.html#preparing-your-talk",
+    "title": "Slide Preparation",
+    "section": "",
+    "text": "Scientific presentations: a cheat sheet Ten Simple Rules for Making Good Oral Presentations"
+  },
+  {
+    "objectID": "talk.html",
+    "href": "talk.html",
+    "title": "Preparing your talk",
+    "section": "",
+    "text": "Think about exactly what you want to convey (tell a story; keep it simple; 3 experiments max) Prepare figures for your slides Introduction: think about what your audience needs to know (context) to understand your work (what didn’t you know, at the beginning of this project?) For each experiment, explain: 1. what you were trying to do (aim) 2. how you did it (method) 3. what you found (results) 4. what your results mean (significance) - IN THAT ORDER Conclusions/significance: what have you learned? how have you contributed to the field? Can you make a figure showing this (model)? Go back through your talk and make sure it “flows” in a logical order Edit, proofread, improve"
+  },
+  {
+    "objectID": "twine.html",
+    "href": "twine.html",
+    "title": "Science Communication Resources",
+    "section": "",
+    "text": "Twine cookbook How to use Twine and SugarCube to create interactive adventure games A Total Beginner’s Guide to Twine 2. Harlowe manual"
+  },
+  {
+    "objectID": "twine.html#twine-resources",
+    "href": "twine.html#twine-resources",
+    "title": "Science Communication Resources",
+    "section": "",
+    "text": "Twine cookbook How to use Twine and SugarCube to create interactive adventure games A Total Beginner’s Guide to Twine 2. Harlowe manual"
+  },
+  {
+    "objectID": "writingtips.html",
+    "href": "writingtips.html",
+    "title": "General Writing Tips",
+    "section": "",
+    "text": "Writing\nPlease go through the Thesis submission checklist\nSlides for our Writing tutorial\nWriting checklist: 1. Identify key results (outline/bullet points) 2. Start writing by first making your figures (the “backbone” of your story) 3. Write the methods section (should cover every experiment presented in your figures/tables) 4. Write your results section, going through each of your results (figures). 4b. For each experiment, explain: 1. what you were trying to do (aim), 2. how you did it (method), 3. what you found (results), 4. what it means (significance) 5. Write your discussion (what do your results mean) 5b. Can you create a model figure illustrating your results and placing them in the context of what was previously known? 5c. Make sure that any information essential for understanding your results (context) was present in the introduction. In your discussion, have you gone back to address all the key points raised in your intro? 6. Proofread, edit, and improve your draft 7. Write an abstract and decide on a title\nWriting tips: Use a style guide, e.g. The Elements of Style How to write a first-class paper Ten simple rules for scientists: Improving your writing productivity Novelist Cormac McCarthy’s tips on how to write a great science pape Ten simple rules for structuring papers [Improving your scientific writing: a short guide"
   }
 ]
