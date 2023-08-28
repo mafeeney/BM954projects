@@ -3,8 +3,50 @@ title: "Project and Time Management"
 page-layout: full
 ---
 
-[Project management guidelines](https://sipbs-compbiol.github.io/BM432/notebooks/03-data_management_workshop.html)
+::: callout-important
+## Back up your work!!!
 
-You may find it helpful to use project planning tools such as [Trello](link), [Asana](), or .... 
+**Please** make sure you back up your thesis work. IT issues such as computer failure are **not** considered grounds for an extension (and you don't want to have to redo all your hard work anyway!) It is good practice to make sure you have at least three secure back-up copies of your work stored in different places.
+:::
 
-<strong>Reminder: Back up your work frequently!</strong>
+## Project Management Overview
+
+-   [Project management guidelines](https://sipbs-compbiol.github.io/BM432/notebooks/03-data_management_workshop.html) \[Notebooks on data and project management prepared by Dr. Pritchard and Dr. Feeney for the 2022 session of BM432\]. These include:
+
+    -   [01-Data Analysis in the Research Cycle](https://sipbs-compbiol.github.io/BM432/notebooks/03-01-data_analysis.html)
+
+    -   [02-Data and Project Management](https://sipbs-compbiol.github.io/BM432/notebooks/03-02-project_management.html)
+
+    -   [03-Reproducibility, Replicability, and FAIR Guidelines](https://sipbs-compbiol.github.io/BM432/notebooks/03-03-reproducibility.html)
+
+    -   [04-Keeping a Lab Notebook to Document Your Project](https://sipbs-compbiol.github.io/BM432/notebooks/03-04-keeping_a_lab_notebook.html)
+
+    -   [05-Reference Management](https://sipbs-compbiol.github.io/BM432/notebooks/03-05-reference_management.html)
+
+    -   [06-How to Use Reference Management Software](https://sipbs-compbiol.github.io/BM432/notebooks/03-06-using_a_reference_manager.html)
+
+    ## Lab notebooks how-to and resources
+
+-   [How to keep a lab notebook](https://www.science.org/content/article/how-keep-lab-notebook)
+
+-   [10 Tips For Organizing Your Lab Book](https://bitesizebio.com/11068/10-tips-for-organizing-your-lab-book/)
+
+-   [How to Keep a Lab Notebook for Bioinformatic Analyses](https://blog.addgene.org/how-to-keep-a-lab-notebook-for-bioinformatic-analyses)
+
+-   [Ten Simple Rules for a Computational Biologist's Laboratory Notebook](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004385)
+
+-   [Benchling](https://www.benchling.com/) (electronic lab notebooks)
+
+-   [10 File Management Tips to Keep Your Electronic Files Organized](https://www.liveabout.com/computer-file-management-tips-2948083)
+
+## Links to some useful Project/Time Management Resources
+
+-   You may find it helpful to use project planning tools such as [Trello](link), [Asana](), or similar tools that help to manage tasks/track completion/etc.
+
+-   [Pomodoro Timer](https://pomofocus.io/) ([explanation of the Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique))
+
+-   [Forest](https://www.forestapp.cc/) (focusing app)
+
+-   [EverNote](https://evernote.com/) (note-taking app)
+
+-   [8 Time Management Tips for Students](https://summer.harvard.edu/blog/8-time-management-tips-for-students/)

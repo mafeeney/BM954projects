@@ -3,8 +3,34 @@ title: "Writing a Methods Section"
 page-layout: full
 ---
 
-### Writing your Methods Section
+Check out this [annotated example of how to write a methods section](./methods_example.docx) for an example of a generally good methods section and some key points.
 
-Describe your experimental methods in enough detail that your reader could replicate the experiments Cite the appropriate literature (i.e. for any recipes, tools, protocols you have used) Do not include results or rationale for performing experiments Be clear and concise Ask a friend or colleague to read your methods section and give feedback Protip: Look at papers that have used similar methods: how are these methods sections written?
+## Tips for Writing a Great Methods Section
 
-[Annotated example of how to write a methods section](./methods_example.docx)
+-   Describe your experimental methods in **enough detail that your reader could replicate the experiments**.
+
+-   Your methods section is **not** a protocol (a step-by-step list of everything that was done.) You may assume that your reader is a competent scientist with the skills to perform basic lab calculations, techniques, etc.
+
+-   Cite the appropriate literature (i.e. for any recipes, tools, protocols you have used).
+
+-   Do not include results or rationale for performing experiments (these belong elsewhere in your thesis).
+
+-   Be clear and concise; eliminate unnecessary words and steps.
+
+-   Make sure that your methods section includes **all** of the materials and methods you used in your thesis (This includes any bioinformatics methods such as BLAST!)
+
+-   Ask a friend or colleague to read your methods section and give feedback.
+
+::: callout-tip
+## Protip: Look at papers that have used similar methods: how are these methods sections written?
+
+You want to make sure that your methods section generally follows the conventions in your field, so that readers will be able to understand it more easily.
+
+A few examples of specific conventions:
+
+-   for wet-lab projects, centrifuge speeds are always given in xg, not in rpm or rcf
+
+-   for sci comm projects, the design of your intervention/survey belongs in the methods section
+
+-   for bioinformatics projects, always include the version number of any software used and details of parameters, etc.
+:::

@@ -3,30 +3,92 @@ title: "General Writing Tips"
 page-layout: full
 ---
 
-### Writing
+# General Thesis Writing Guidance
 
-Please go through the [Thesis submission checklist](./Thesis_submission_checklist.docx)
+Please go through the [Thesis submission checklist](./Thesis_submission_checklist.docx) and ensure that your thesis meets all the guidelines before submitting it.
 
 Slides for our [Writing tutorial](./Writing_Tutorial.pptx)
 
-Writing checklist: 
-1. Identify key results (outline/bullet points)
-2. Start writing by first making your figures (the "backbone" of your story)
-3. Write the methods section (should cover every experiment presented in your figures/tables)
-4. Write your results section, going through each of your results (figures). 
-4b. For each experiment, explain: 1. what you were trying to do (aim),  2. how you did it (method),  3. what you found (results), 4. what it means (significance)
-5. Write your discussion (what do your results mean)
-5b. Can you create a model figure illustrating your results and placing them in the context of what was previously known?
- 5c. Make sure that any information essential for understanding your results (context) was present in the introduction. In your discussion, have you gone back to address all the key points raised in your intro?
- 6. Proofread, edit, and improve your draft
- 7. Write an abstract and decide on a title
- 
- 
- Writing tips: 
- Use a style guide, e.g. [The Elements of Style](http://www.gutenberg.org/ebooks/37134)
- [How to write a first-class paper](https://www.nature.com/articles/d41586-018-02404-4)
- [Ten simple rules for scientists: Improving your writing productivity](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006379)
- [Novelist Cormac McCarthy’s tips on how to write a great science pape](https://www.nature.com/articles/d41586-019-02918-5)
- [Ten simple rules for structuring papers](https://doi.org/10.1371/journal.pcbi.1005619)
-[[Improving your scientific writing: a short guide](https://lijunsun.github.io/files/ScientificWritingV39.pdf)
- 
+## Writing checklist:
+
+1.  Identify key results (outline/bullet points)
+
+2.  Start writing by first making your figures (the "backbone" of your story)
+
+3.  Write the methods section (make sure you cover every experiment presented in your figures/tables)
+
+4.  Write your results section, going through each of your results (figures) in a logical order.
+
+    ::: callout-important
+    ## Organize your thoughts logically 
+
+    For each experiment, explain:
+
+    1.  your aim (the reason why you did the experiment)
+
+    2.  the method (how you did the experiment)
+
+    3.   the results (what you found)
+
+    4.  the significance (what the results mean)
+
+    \--always in that order!!
+    :::
+
+5.  Write your discussion (what do your results mean?)
+
+    ::: callout-important
+    ## Writing a Good Discussion Section 
+
+    Can you create a model figure illustrating your results and placing them in the context of what was previously known?
+
+    Make sure that any information essential for understanding your results (context) was present in the introduction. In your discussion, have you gone back to address all the key points raised in your intro?
+
+    Make sure you do not just reiterate/rehash the points raised in your results section. Instead, make sure you put your results in the broader context (what is known in the literature? How do your results relate to other systems/types of cells/situations/etc.?)
+    :::
+
+6.  Proofread, edit, and improve your draft based on feedback.
+
+7.  Write an abstract and decide on a title
+
+::: callout-tip
+## Some Common Scientific Writing Mistakes and How to Avoid Them
+
+*Problem:* Lack of attention to sentence structure
+
+*Example:* Some students have really excellent ideas and are putting those ideas in their theses and making sure that they reference other people's ideas from the literature correctly and using reference management software in appropriate ways and including a list of references at the end of their thesis. So great.
+
+*Solution:* Be ruthless about editing your sentences until each sentence contains just one idea (the example above contained at least 4 separate ideas). It may help to read your writing aloud, as in the above example: take note of where you would naturally pause to take a breath.
+
+At one end of the extreme, you have long, convoluted sentences that try to do too much (the first sentence in the example). At the other end, you have another type of grammatical disaster - beware sentence fragments.
+
+------------------------------------------------------------------------
+
+*Problem*: Use of scientific jargon and/or excessive acronyms
+
+*Example:* We spun down the cells and washed them with PBS.
+
+*Solution*: "spun down the cells" is something you might say colloquially (and that's fine), However, in formal scientific language, you would say that the cells were centrifuged. Avoid colloquialisms and make sure you always define abbreviations (like PBS) at the first use.
+
+------------------------------------------------------------------------
+
+*Problem*:
+:::
+
+## Links to some helpful writing tips/guides: 
+
+-   Use a style guide, e.g. [The Elements of Style](http://www.gutenberg.org/ebooks/37134)
+
+-   [How to write a first-class paper](https://www.nature.com/articles/d41586-018-02404-4)
+
+-   [Ten simple rules for scientists: Improving your writing productivity](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006379)
+
+-   [Novelist Cormac McCarthy's tips on how to write a great science pape](https://www.nature.com/articles/d41586-019-02918-5)
+
+-   [Ten simple rules for structuring papers](https://doi.org/10.1371/journal.pcbi.1005619)
+
+-   [Improving your scientific writing: a short guide](https://lijunsun.github.io/files/ScientificWritingV39.pdf)
+
+-   [Some tips for scientific writing](https://kucharski.substack.com/p/some-tips-for-scientific-writing)
+
+-   [Ten Simple (Empirical) Rules for Writing Science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004205)
