@@ -4,4 +4,4 @@ page-layout: full
 ---
 
 
-Think about exactly what you want to convey (tell a story; keep it simple; 3 experiments max) Prepare figures for your slides Introduction: think about what your audience needs to know (context) to understand your work (what didn't you know, at the beginning of this project?) For each experiment, explain: 1. what you were trying to do (aim) 2. how you did it (method) 3. what you found (results) 4. what your results mean (significance) - IN THAT ORDER Conclusions/significance: what have you learned? how have you contributed to the field? Can you make a figure showing this (model)? Go back through your talk and make sure it "flows" in a logical order Edit, proofread, improve
+

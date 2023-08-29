@@ -39,7 +39,6 @@ website:
       - section: "Presentations"
         contents:
           - slides.qmd
-          - talk.qmd    
 format:
   html:
     theme: pulse

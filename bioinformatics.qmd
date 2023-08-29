@@ -3,20 +3,46 @@ title: "Bionformatics Resources"
 page-layout: full
 ---
 
-## Bioinformatics Resources
+## General Bioinformatics Resources
 
-Depending on your project, you may find some of the following resources useful: 
+Depending on your project, you may find some of the following resources useful - please note that this is by no means an exhaustive list, just a starting point for your work - there are many more helpful resources out there. Feel free to discuss with Dr. Feeney if you have any questions.
 
-[How to Access Data from Public Databases](https://sipbs-compbiol.github.io/BM432/notebooks/02-03-public_databases.html)
-[Links to some key public databases](https://sipbs-compbiol.github.io/BM432/notebooks/database_list.html). Please report any broken links to Dr. Feeney. 
-[Get Started with GitHub documentation](https://docs.github.com/en/get-started)
+-   [How to Access Data from Public Databases](https://sipbs-compbiol.github.io/BM432/notebooks/02-03-public_databases.html)
+
+-   [Links to some key public databases](https://sipbs-compbiol.github.io/BM432/notebooks/database_list.html).
+
+-   [Get Started with GitHub documentation](https://docs.github.com/en/get-started)
+
+-   [Galaxy Video Lectures](https://www.youtube.com/c/galaxyproject)
+
+    ### Useful tools/websites
+
+-   [Interactive Tree of Life (iTOL)](https://itol.embl.de/)
+
+-   [ExPASy resource portal](https://www.expasy.org/)
+
+-   [JalView](https://www.jalview.org/) (multiple sequence alignment editing, visualisation and analysis)
+
+-   [PyMol](https://pymol.org/2/) (3D molecular visualisation)
+
+## Streptomyces/actinomycetes resources
+
+-   [StrepDB](StrepDB:%20http://strepdb.streptomyces.org.uk/cgi-bin/dc3.pl?accession=AL645882&start=4291472&end=4302043&iorm=map&width=900)
+
+-   [Tables of Streptomyces coelicolor reciprocal BLASTP hits](https://streptomyces.org.uk/actinoblast/)
+
+-   [antiSMASH](https://antismash.secondarymetabolites.org/#!/start)
+
+-   [ActinoBase](https://actinobase.org/index.php/Main_Page)
 
 ### actDES resources
 
-Schniete, J. K., Selem-Mojica, N., Birke, A. S., Cruz-Morales, P., Hunter, I. S., Barona-Gomez, F., & Hoskisson, P. A. (2021). ActDES - a curated Actinobacterial Database for Evolutionary Studies. Microbial genomics, 7(1), mgen000498. https://doi.org/10.1099/mgen.0.000498
-e-seminar explaining actDES: https://youtu.be/iSlrPdI4ohU
-[actDES GitHub repository](https://github.com/nselem/ActDES)
-[actDES FigSharer page](https://microbiology.figshare.com/articles/dataset/ActDES-_a_Curated_Actinobacterial_Database_for_Evolutionary_Studies/13143407/1)
+-   Schniete, J. K., Selem-Mojica, N., Birke, A. S., Cruz-Morales, P., Hunter, I. S., Barona-Gomez, F., & Hoskisson, P. A. (2021). ActDES - a curated Actinobacterial Database for Evolutionary Studies. Microbial genomics, 7(1), mgen000498. https://doi.org/10.1099/mgen.0.000498
 
-Python script - https://github.com/PaulHoskisson/StrepEvo/blob/main/ActDES_python and https://www.youtube.com/watch?v=OdeuV9Iqw6M
+-   [e-seminar explaining actDES](https://youtu.be/iSlrPdI4ohU)
 
+-   [actDES GitHub repository](https://github.com/nselem/ActDES)
+
+-   [actDES FigShare page](https://microbiology.figshare.com/articles/dataset/ActDES-_a_Curated_Actinobacterial_Database_for_Evolutionary_Studies/13143407/1)
+
+-   [actDES Python script](https://github.com/PaulHoskisson/StrepEvo/blob/main/ActDES_python) and [YouTube walkthrough](https://www.youtube.com/watch?v=OdeuV9Iqw6M)

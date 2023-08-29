@@ -3,10 +3,30 @@ title: "Science Communication Resources"
 page-layout: full
 ---
 
-## Twine Resources 
+## General Science Communication Resources
 
-[Twine cookbook](https://twinery.org/cookbook/index.html)
-[How to use Twine and SugarCube to create interactive adventure games](https://opensource.com/article/18/2/twine-gaming)
-[A Total Beginner’s Guide to Twine 2.](http://www.adamhammond.com/twineguide/)
-[Harlowe manual](https://twine2.neocities.org/)
+-   [Science Communication Resources](https://500womenscientists.org/science-communication-resources)
 
+-   [Ten simple rules for scientists engaging in science communication](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011251)
+
+-   [Ten simple rules for drawing scientific comics](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005845)
+
+-   [Ten Simple Rules for Effective Online Outreach](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003906)
+
+-   [How to Eliminate Jargon From Science Communication](https://asm.org/Articles/Policy/2021/October-21/How-to-Eliminate-Jargon-From-Science-Communication)
+
+-   [Writing Survey Questions](https://www.pewresearch.org/our-methods/u-s-surveys/writing-survey-questions/)
+
+## Twine Resources
+
+-   [Twine](https://twinery.org/)
+
+-   [Twine cookbook](https://twinery.org/cookbook/index.html)
+
+-   [How to use Twine and SugarCube to create interactive adventure games](https://opensource.com/article/18/2/twine-gaming)
+
+-   [A Total Beginner's Guide to Twine 2.](http://www.adamhammond.com/twineguide/)
+
+-   [Harlowe manual](https://twine2.neocities.org/)
+
+-   [Interactive Fiction Community Forum](https://intfiction.org/c/authoring/twine/46)

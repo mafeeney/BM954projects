@@ -9,7 +9,29 @@ Please go through the [Thesis submission checklist](./Thesis_submission_checklis
 
 Slides for our [Writing tutorial](./Writing_Tutorial.pptx)
 
-## Writing checklist:
+::: callout-tip
+### Morgan's Top Tips for Writing a Great Thesis, Starting from Day One
+
+-   Read broadly & think critically. You will often get great ideas from reading papers outside your field, or be able to make connections to other systems/organisms/etc. (Plus, you'll be able to use it as extra reading in your exams!)
+
+-   Organise your references as you go along. Use reference management software
+
+-   Write clearly and concisely
+
+-   Pay attention to sentence and paragraph structure
+
+-   Be specific & say what you mean
+
+-   Use figures where appropriate
+
+-   Proofread
+
+-   Cite appropriate references using a correct style
+
+-   Pay attention to the instructions and the assessment criteria (available on Myplace)
+:::
+
+## Writing checklist - for when you are ready to sit down and start writing
 
 1.  Identify key results (outline/bullet points)
 
@@ -20,7 +42,7 @@ Slides for our [Writing tutorial](./Writing_Tutorial.pptx)
 4.  Write your results section, going through each of your results (figures) in a logical order.
 
     ::: callout-important
-    ## Organize your thoughts logically 
+    ## Organize your thoughts logically
 
     For each experiment, explain:
 
@@ -28,7 +50,7 @@ Slides for our [Writing tutorial](./Writing_Tutorial.pptx)
 
     2.  the method (how you did the experiment)
 
-    3.   the results (what you found)
+    3.  the results (what you found)
 
     4.  the significance (what the results mean)
 
@@ -38,7 +60,7 @@ Slides for our [Writing tutorial](./Writing_Tutorial.pptx)
 5.  Write your discussion (what do your results mean?)
 
     ::: callout-important
-    ## Writing a Good Discussion Section 
+    ## Writing a Good Discussion Section
 
     Can you create a model figure illustrating your results and placing them in the context of what was previously known?
 
@@ -52,11 +74,11 @@ Slides for our [Writing tutorial](./Writing_Tutorial.pptx)
 7.  Write an abstract and decide on a title
 
 ::: callout-tip
-## Some Common Scientific Writing Mistakes and How to Avoid Them
+## Three Common Scientific Writing Mistakes and How to Avoid Them
 
 *Problem:* Lack of attention to sentence structure
 
-*Example:* Some students have really excellent ideas and are putting those ideas in their theses and making sure that they reference other people's ideas from the literature correctly and using reference management software in appropriate ways and including a list of references at the end of their thesis. So great.
+*Example:* "Some students have really excellent ideas and are putting those ideas in their theses and making sure that they reference other people's ideas from the literature correctly and using reference management software in appropriate ways and including a list of references at the end of their thesis. So great."
 
 *Solution:* Be ruthless about editing your sentences until each sentence contains just one idea (the example above contained at least 4 separate ideas). It may help to read your writing aloud, as in the above example: take note of where you would naturally pause to take a breath.
 
@@ -66,16 +88,24 @@ At one end of the extreme, you have long, convoluted sentences that try to do to
 
 *Problem*: Use of scientific jargon and/or excessive acronyms
 
-*Example:* We spun down the cells and washed them with PBS.
+*Example:* "We spun down the cells and washed them with PBS."
 
 *Solution*: "spun down the cells" is something you might say colloquially (and that's fine), However, in formal scientific language, you would say that the cells were centrifuged. Avoid colloquialisms and make sure you always define abbreviations (like PBS) at the first use.
 
 ------------------------------------------------------------------------
 
-*Problem*:
+*Problem*: Lack of precision and/or attention to detail
+
+*Example:* "The genes in E. coli were translated and cheY was well conserved."
+
+*Solution:* Pay careful attention to conventions in your field and precise usage of terms. Ask a friend or colleague to look over your writing and make sure that it conveys your intended meaning.
+
+Here, gene and species names should be italicized by convention (N.B. *cheY* refers to the gene, CheY refers to the protein). "Translated" is mis-used (remember that genes are transcribed). Finally, the sentence is, overall, frustratingly vague (which genes? what does "well conserved" mean?).
+
+A better and more meaningful version: "The genes involved in chemotaxis in *E. coli* were expressed under these experimental conditions (mid-logarithmic phase in MOPS minimal medium at 37° C). *cheY* was well-conserved, with homologs found in 99.4% of all analysed *E. coli* genomes.)
 :::
 
-## Links to some helpful writing tips/guides: 
+## Links to some helpful writing tips/guides:
 
 -   Use a style guide, e.g. [The Elements of Style](http://www.gutenberg.org/ebooks/37134)
 

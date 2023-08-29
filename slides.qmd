@@ -1,9 +1,48 @@
 ---
-title: "Slide Preparation"
+title: "Preparing your presentation"
 page-layout: full
 ---
 
+## Preparing for your talk: checklist
 
-## Preparing your talk
+1.  Think about exactly what you want to convey (tell a story; keep it simple; 3 experiments max)
 
-[Scientific presentations: a cheat sheet](https://blogs.nature.com/naturejobs/2017/01/11/scientific-presentations-a-cheat-sheet/) [Ten Simple Rules for Making Good Oral Presentations](https://doi.org/10.1371/journal.pcbi.0030077)
+2.  Prepare figures for your slides (the "backbone" of your talk)
+
+    ::: callout-tip
+    Note that the figures for your slides will rarely, if ever, be the same figures you present in your thesis. You may need to simplify figures for your talk so that they can be easily understood by your audience (presenting too much data on a single slide is generally overwhelming and ensures that your audience is reading the slide instead of listening to you.)
+    :::
+
+3.  Introduction: think about what your audience needs to know (context) to understand your work (what didn't you know, at the beginning of this project?)
+
+4.  For each experiment, explain: 1. what you were trying to do (aim) 2. how you did it (method) 3. what you found (results) 4. what your results mean (significance) - IN THAT ORDER
+
+5.  Conclusions/significance: what have you learned? how have you contributed to the field? Can you make a figure showing this (model)?
+
+6.  Go back through your talk and make sure it "flows" in a logical order
+
+7.  Edit, proofread, improve your slides. Ask for feedback and incorporate it.
+
+8.  Practice, practice, practice!
+
+9.  Repeat steps 7 and 8 iteratively until you are happy with your presentation and feel confident in your delivery.
+
+## Some presentation guides/resources
+
+-   [Giving a Scientific Presentation](https://sipbs-compbiol.github.io/BM432/notebooks/07-01-presentations-intro.html) \[Prepared for BM432 in 2022\]
+
+    -   [07-01: Presentations - Intro](https://sipbs-compbiol.github.io/BM432/notebooks/07-01-presentations-intro.html)
+
+    -   [07-02: Presentations - Content](https://sipbs-compbiol.github.io/BM432/notebooks/07-02-presentations-content.html)
+
+    -   [07-03: Presentations - Figures](https://sipbs-compbiol.github.io/BM432/notebooks/07-03-presentations-figures.html)
+
+    -   [07-04: Presentations - Aesthetics](https://sipbs-compbiol.github.io/BM432/notebooks/07-04-presentations-aesthetics.html)
+
+    -   [07-05: Presentations - Slide Preparation](https://sipbs-compbiol.github.io/BM432/notebooks/07-05-slide-preparation.html)
+
+    -   [07-06: Presentations - Delivery](https://sipbs-compbiol.github.io/BM432/notebooks/07-06-presentation-delivery.html)
+
+-   [Scientific presentations: a cheat sheet](https://blogs.nature.com/naturejobs/2017/01/11/scientific-presentations-a-cheat-sheet/)
+
+-   [Ten Simple Rules for Making Good Oral Presentations](https://doi.org/10.1371/journal.pcbi.0030077)
