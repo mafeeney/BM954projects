@@ -1,9 +1,0 @@
----
-title: "About"
----
-
-About this site
-
-::: callout-note
-Note that there are five types of callouts, including: \`note\`, \`warning\`, \`important\`, \`tip\`, and \`caution\`.
-:::

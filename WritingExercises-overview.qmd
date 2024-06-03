@@ -1,0 +1,36 @@
+---
+title: "General Writing Tips"
+page-layout: full
+---
+
+# Writing Exercises
+
+Rationale - Why we will do a weekly writing exercise and why you should participate
+
+1.  [Exercise 1](./WritingExercises/WritingExercise1.pptx): Recognising good/bad academic writing
+
+2.  [Exercise 2](./WritingExercises/WritingExercise2.pptx): Paragraph structure (Strunk & White Principle 8)
+
+3.  Use definite, specific, concrete language 
+
+4.  Omit needless words
+
+5.  Active voice vs. passive voice
+
+6.  Write a method
+
+7.  Describe an experiment
+
+8.  Write a figure legend
+
+9.  Edit for clarity
+
+10. Write an abstract
+
+11. Write/edit a title
+
+## Exercise 1
+
+Intended Learning Outcomes:
+
+[More writing tips and some links to helpful resources](writingtips.qmd)

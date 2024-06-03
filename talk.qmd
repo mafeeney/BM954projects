@@ -1,7 +1,0 @@
----
-title: "Preparing your talk"
-page-layout: full
----
-
-
-

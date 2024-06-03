@@ -23,13 +23,13 @@ page-layout: full
 
 9.  Figure legends should give enough detail about the experiment for the reader to understand what was done (the figure should be able to stand on its own)
 
-[Guidance on writing good figure titles and legends (with examples)](./FigureTitleLegend.docx)
+[Guidance on writing good figure titles and legends (with examples)](./assets/FigureTitleLegend.docx)
 
 ## Guides/Important Info for Figure Preparation
 
 -   Refer back to the [Data presentation and figure preparation](https://sipbs-compbiol.github.io/BM432/notebooks/04-data_presentation_workshop.html) (BM432 workshop 6 materials) as needed.
 
--   [Making model figures](./Making_model_figures_workshop.pptx) (slides for our discussion)
+-   [Making model figures](./assets/Making_model_figures_workshop.pptx) (slides for our discussion)
 
 -   [Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128)
 

@@ -1,0 +1,8 @@
+---
+title: "Writing Exercise 1"
+format: 
+  revealjs: default
+  pdf: default
+---
+
+sdfsdfsd

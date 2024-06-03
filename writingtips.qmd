@@ -122,3 +122,5 @@ A better and more meaningful version: "The genes involved in chemotaxis in *E. c
 -   [Some tips for scientific writing](https://kucharski.substack.com/p/some-tips-for-scientific-writing)
 
 -   [Ten Simple (Empirical) Rules for Writing Science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004205)
+
+-   [SIMPLIFY Science Writing](https://schaechter.asmblog.org/schaechter/2024/04/simplify-science-writing.html)

@@ -3,7 +3,7 @@ title: "Writing a Methods Section"
 page-layout: full
 ---
 
-Check out this [annotated example of how to write a methods section](./methods_example.docx) for an example of a generally good methods section and some key points.
+Check out this [annotated example of how to write a methods section](./assets/methods_example.docx) for an example of a generally good methods section and some key points.
 
 ## Tips for Writing a Great Methods Section
 
