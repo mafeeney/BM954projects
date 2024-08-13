@@ -35,6 +35,7 @@ website:
       - section: "Thesis preparation"
         contents:
           - writingtips.qmd
+          - WritingExercises-overview.qmd
           - figures.qmd
           - methods.qmd
       - section: "Presentations"
