@@ -27,6 +27,7 @@ website:
         contents:
           - expectations.qmd
           - management.qmd
+          - schedule.qmd
       - section: "Experimental Work"
         contents:
           - bioinformatics.qmd
@@ -44,6 +45,4 @@ format:
     theme: pulse
     css: styles.css
     toc: true
-
-editor: visual
 
