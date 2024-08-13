@@ -7,8 +7,6 @@ page-layout: full
 
 Please go through the [Thesis submission checklist](./Thesis_submission_checklist.docx) and ensure that your thesis meets all the guidelines before submitting it.
 
-Slides for our [Writing tutorial](./Writing_Tutorial.pptx)
-
 ::: callout-tip
 ### Morgan's Top Tips for Writing a Great Thesis, Starting from Day One
 
