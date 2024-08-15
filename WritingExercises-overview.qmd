@@ -1,36 +1,79 @@
 ---
-title: "General Writing Tips"
+title: "Writing Exercises (overview)"
 page-layout: full
 ---
 
 # Writing Exercises
 
-Rationale - Why we will do a weekly writing exercise and why you should participate
+## Introduction and Rationale
 
-1.  [Exercise 1](./WritingExercises/WritingExercise1.pptx): Recognising good/bad academic writing
+A great deal of academic writing is, to put it quite simply, very bad. It may be unnecessarily verbose, confusing, or unclear. Or, it may be written with no reference to the reader’s likely background knowledge or experience, leaving ideas that are quite clear in the writer’s mind inaccessible for most readers. Worst of all, it may indeed sometimes be written in a deliberately deceptive way - as Calvin says, inflating weak ideas and obscuring poor reasoning (Figure 1). All of these writing “sins” should be avoided.
 
-2.  [Exercise 2](./WritingExercises/WritingExercise2.pptx): Paragraph structure (Strunk & White Principle 8)
+![](images/writing.png){fig-alt="Calvin and Hobbes cartoon" fig-align="center" fig-scap='Figure 1. Scientific writing. Image credit: Calvin and Hobbes, Bill Watterson.'}
 
-3.  Use definite, specific, concrete language 
+Writing well is a skill that all scientists must develop with practice and through incorporating feedback from readers into their writing practice. Just as you would not expect to win a marathon or paint a masterpiece on the first attempt, you cannot expect your writing to be flawless when you first begin. Constant practice is essential.
 
-4.  Omit needless words
+We will therefore give you the opportunity to practice your writing skills in the following set of exercises during your final year project. You do not need to read through the exercises or complete them in advance of our group meetings; however, the slides/documents for each exercise are provided below for your reference.
 
-5.  Active voice vs. passive voice
+The “Principles of Composition” exercises are largely based on Strunk &amp; White’s The Elements of Style, which is an excellent resource (available <a href="http://www.gutenberg.org/ebooks/37134">online</a> or at your friendly university library). In addition to the principles of composition we will be discussing, Strunk &amp; White contains sections on grammar and spelling, which may be helpful. However, there are many other style guides and writing resources available which you may wish to consult (see (add link here) for an inexhaustive list).
 
-6.  Write a method
+In addition to the weekly writing exercises we will work through in our group meetings, I have provided a set of exercises that aim to help you with various other aspects of scientific writing (add link here). You are encouraged to work through these in your own time.
 
-7.  Describe an experiment
+Finally, please note that writing well and easily is a matter of constant practice (Figure 2). Try to make an effort to write a little every day; and whenever you write, evaluate your own writing, and seek out feedback on ways that you can improve. These are skills that you will find useful not just for writing your honours thesis, but throughout your studies and in your future career.
 
-8.  Write a figure legend
+![](images/writing2.png){fig-alt="PhD Comics cartoon about the difficulty of writing" fig-align="center" fig-scap='Figure 2. Writing shouldn’t be so hard. Image credit: PhD Comics.'}
 
-9.  Edit for clarity
+1.  [Writing exercise 01](./assets/WritingExercises/Exercise01.docx): Evaluating Scientific Writing
 
-10. Write an abstract
+2.  [Writing exercise 02](./assets/WritingExercises/Exercise02.docx): Paragraph Structure; using topic sentences and organizing the logical flow of information in a paragraph
 
-11. Write/edit a title
+3.  [Writing exercise 03](./assets/WritingExercises/Exercise03.docx): Use definite, specific, concrete language; Put statements in positive form
 
-## Exercise 1
+4.  [Writing exercise 04](./assets/WritingExercises/Exercise04.docx): Omit needless words; tips for succinct, concise writing
 
-Intended Learning Outcomes:
+5.  [Writing exercise 05](./assets/WritingExercises/Exercise05.docx): Active vs. passive voice and choice of verb tenses
 
-[More writing tips and some links to helpful resources](writingtips.qmd)
+6.  [Writing exercise 06](./assets/WritingExercises/Exercise06.docx): Use of transition words/phrases
+
+7.  [Writing exercise 07](./assets/WritingExercises/Exercise07.docx): Sentence structure considerations (use parallel construction, keep related words together, place emphasis at the end of sentences)
+
+8.  [Writing exercise 08](./assets/WritingExercises/Exercise08.docx): Avoiding jargon, acronyms, and abbreviations
+
+9.  [Writing exercise 09](./assets/WritingExercises/Exercise09.docx): Word choice considerations
+
+10. 
+
+11. 
+
+## Editing Your Writing
+
+1. Check for technical errors
+* Are the statements correct and accurate?
+* Check formatting – italicize species names, get chemical formulae correct, etc.
+* Check for any typos, misspellings, commonly confused words (e.g., there/their, its/it's, affect/effect)
+
+
+
+Is everything the reader needs to know to understand it included? (Or, are there extraneous, distracting details that should be deleted?)
+
+Is the language clear and precise? Does it make logical sense?
+
+## Concluding Thoughts
+
+One of the best ways to improve your writing is to read broadly and pay attention to the way that papers are written. Take note of which writing techniques are effective and which are less so, and then apply these ideas to your own writing.
+
+
+
+
+
+* Tschowri N, Schumacher MA, Schlimpert S, Chinnam NB, Findlay KC, Brennan RG, Buttner MJ. Tetrameric c-di-GMP mediates effective transcription factor dimerization to control Streptomyces development. Cell. 2014 Aug 28;158(5):1136-1147.
+
+* Kuznedelov, K., Minakhin, L., Niedziela-Majka, A., Dove, S., Rogulja, D., Nickels, B., . . . Severinov, K. (2002). A Role for Interaction of the RNA Polymerase Flap Domain with the σ Subunit in Promoter Recognition.&nbsp;<em>Science,</em>&nbsp;<em>295</em>(5556), 855-857.
+
+* Chen, X., Schauder, S., Potier, N., Van Dorsselaer, A., Pelczer, I., Bassler, B. L., &amp; Hughson, F. M. (2002).&nbsp;<em>Structural identification of a bacterial quorum-sensing signal containing boron. Nature, 415(6871), 545–549.</em>
+
+
+
+
+
+

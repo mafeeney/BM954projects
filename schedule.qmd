@@ -1,3 +1,8 @@
+---
+title: "Project Schedule"
+page-layout: full
+---
+
 This [project schedule](/assets/ProjectSchedule.docx) is intended as a guide to help you manage your time during your final year honours project. You should feel free to modify it as needed to best support your learning needs (for example, by adding additional key dates such as personal project milestones or modifying the suggested activities to better fit your schedule and needs).
 
 You are expected to attend all meetings/group meetings. You should have completed any indicated activities for that meeting (listed in “What you should do to prepare”). You should also come prepared with any questions (e.g., about papers you have read, results from your experimental work, general questions about good scientific practices, etc.)
