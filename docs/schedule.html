@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.353">
+<meta name="generator" content="quarto-1.4.554">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -45,7 +45,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -54,8 +60,10 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -67,9 +75,9 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">BM432 project resources</span>
     </a>
@@ -81,36 +89,36 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto tools-wide">
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools tools-wide">
     <a href="https://twitter.com/Mostlymicrobia" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter"></i></a>
     <a href="https://github.com/mafeeney" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
     <a href="./morgan.feeney@strath.ac.uk" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-envelope"></i></a>
 </div>
-          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Project Schedule</li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
-      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./expectations.html">Intro</a></li><li class="breadcrumb-item"><a href="./schedule.html">Project Schedule</a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
@@ -137,6 +145,12 @@ ul.task-list li input[type="checkbox"] {
   <div class="sidebar-item-container"> 
   <a href="./management.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Project and Time Management</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./schedule.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Project Schedule</span></a>
   </div>
 </li>
       </ul>
@@ -181,6 +195,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./WritingExercises-overview.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Writing Exercises (overview)</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./figures.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Preparing Figures</span></a>
   </div>
@@ -213,22 +233,22 @@ ul.task-list li input[type="checkbox"] {
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-right" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./expectations.html">Intro</a></li><li class="breadcrumb-item"><a href="./schedule.html">Project Schedule</a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title">Project Schedule</h1>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-right">
 
     
   
@@ -236,404 +256,15 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
 
-<p>The project schedule below is intended as a guide to help you manage your time during your final year honours project. You should feel free to print a copy and edit/modify it as needed to best support your learning needs (for example, by adding additional key dates such as personal project milestones or modifying some of the suggested activities to better fit your schedule and needs).</p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Important
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>You are expected to attend all meetings/group meetings. You should have completed any indicated activities for that meeting (listed in orange “What you should do to prepare”). You should also come prepared with any questions (e.g., about papers you have read, results from your experimental work, general questions about good scientific practices, etc.)</p>
-</div>
-</div>
-<p>Note that the resources provided (e.g., papers listed in the project descriptor, resources linked for each week) are only intended as a starting point (and should be used in conjunction with the resources presented in the BM432 workshops). You are expected to search the literature independently (this is part of your project performance mark.) You are also strongly encouraged to seek out additional resources to support your learning and development as a researcher (e.g.&nbsp;time management apps/resources, ggplot2 tutorials, additional writing tips/guidance….)</p>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Tip
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>You should make certain that you understand the points listed in the green “Comprehension check” for each week and you should read the indicated resources/search the literature/check with Dr.&nbsp;Feeney for further guidance if you are not sure about any point.</p>
-</div>
-</div>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Important
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Please be sure to check the BM432 MyPlace page for any updates to official deadlines.</p>
-</div>
-</div>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Week</th>
-<th>Week Overview/Activities</th>
-<th>Meeting Details</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1</td>
-<td><p><strong>Suggested activities for this week:</strong></p>
-<ul>
-<li><p>Begin reading papers listed in the project descriptor</p></li>
-<li><p>Begin literature search</p></li>
-</ul>
-<div class="callout callout-style-simple callout-warning">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-body-container">
-<p><strong>What you should do to prepare for the group meeting:</strong></p>
-<ul>
-<li>Read the Project expectations and learning agreement documents and note any questions you may have</li>
-<li>Reread the project descriptor</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="callout callout-style-simple callout-tip">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-body-container">
-<p><strong>Comprehension check</strong></p>
-<ul>
-<li><p>Do you understand the project descriptor and can you identify appropriate keywords to begin your literature search?</p></li>
-<li><p>Do you have a plan for reference management and how you will store/organise your notes?</p></li>
-<li><p>Are you aware of the resources offered by the Strathclyde Library for <a href="https://www.strath.ac.uk/professionalservices/library/researchrevise/referencing/">referencing</a> and <a href="https://www.strath.ac.uk/studywithus/strathlife/academicsupport/">academic practices</a>?</p></li>
-<li><p>Have you looked through the list of <a href="https://mafeeney.github.io/BM432projects/management.html">suggested resources for project and time management</a>?</p></li>
-</ul>
-</div>
-</div>
-</div></td>
-<td><p><strong>Week 1 Group meeting</strong></p>
-<p><strong>Time, location, TBD</strong></p>
-<p><strong>Meeting agenda</strong></p>
-<ol type="1">
-<li><p>Introductions</p></li>
-<li><p>Discuss project description and aims</p></li>
-<li><p>Project resources – overview and questions</p></li>
-<li><p>Writing exercise #1</p></li>
-<li><p>Any questions/AOB</p></li>
-</ol></td>
-</tr>
-<tr class="even">
-<td>2</td>
-<td><p><strong>Suggested activities for this week</strong></p>
-<ul>
-<li><p>Continue literature search/reading papers</p></li>
-<li><p>As you read, pay attention to how well (or not) papers are written. Take notes on e.g.&nbsp;well-written methods sections in order to better inform your own writing practices</p></li>
-</ul>
-<div class="callout callout-style-simple callout-warning">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-body-container">
-<p><strong>What you should do to prepare for the group meeting:</strong></p>
-<ul>
-<li>Read the Project expectations and learning agreement documents and note any questions you may have</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="callout callout-style-simple callout-tip">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-body-container">
-<p><strong>Comprehension check:</strong></p>
-<ul>
-<li><p>Do you understand the structure of a scientific paper and know how to critically read one?</p></li>
-<li><p>Are you using appropriate strategies (keywords and filters) for searching the literature? Are there any key papers that you might be missing?</p></li>
-<li><p>What do you think are some of the unanswered questions in the literature? How does the aim of your project compare with these?</p></li>
-</ul>
-</div>
-</div>
-</div></td>
-<td><p><strong>Week 2 Group meeting</strong></p>
-<p><strong>Time, location, TBD</strong></p>
-<p><strong>Meeting agenda</strong></p>
-<ol type="1">
-<li><p>Journal club – MF to lead paper discussion</p></li>
-<li><p>Writing exercise #2</p></li>
-<li><p>Explanation of week 3 task (mini-journal club)</p></li>
-<li><p>Any questions/AOB</p></li>
-</ol></td>
-</tr>
-<tr class="odd">
-<td>3</td>
-<td><p><strong>Suggested activities for this week</strong></p>
-<ul>
-<li><p>Continue literature search/reading papers</p></li>
-<li><p>Start outlining thesis introduction</p></li>
-</ul>
-<div class="callout callout-style-simple callout-warning">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-body-container">
-<p><strong>What you should do to prepare for the group meeting:</strong></p>
-<ul>
-<li><p>Ask MF to approve paper choice for week 3 journal club</p></li>
-<li><p>Come prepared to lead a mini-discussion of your selected paper</p></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="callout callout-style-simple callout-tip">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-body-container">
-<p><strong>Comprehension check:</strong></p>
-<ul>
-<li><p>Do you understand what makes a good and useful outline? check out some resources for writing outlines such as <a href="https://owl.purdue.edu/owl/general_writing/the_writing_process/developing_an_outline/how_to_outline.html">how to outline</a> and <a href="https://learningcenters.rutgers.edu/resources/importance-outlining">the importance of outlining</a></p></li>
-<li><p>For your selected paper for our mini journal club: Do you understand the aim of the paper? Can you describe the experimental methods and the results? Are the authors’ conclusions supported by the data?</p></li>
-</ul>
-</div>
-</div>
-</div></td>
-<td><p><strong>Week 3 Group meeting</strong></p>
-<p><strong>Time, location, TBD</strong></p>
-<p><strong>Meeting agenda</strong></p>
-<ol type="1">
-<li><p>Mini-journal club – each student to lead a short discussion of their chosen paper</p></li>
-<li><p>Writing exercise #3</p></li>
-<li><p>Explanation of week 4 task (detailed intro outline)</p></li>
-<li><p>Any questions/AOB</p></li>
-</ol></td>
-</tr>
-<tr class="even">
-<td>4</td>
-<td><p><strong>Suggested activities for this week</strong></p>
-<ul>
-<li><p>Continue literature search/reading papers</p></li>
-<li><p>Start outlining thesis introduction/ start writing thesis introduction</p></li>
-</ul>
-<div class="callout callout-style-simple callout-warning">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-body-container">
-<p><strong>What you should do to prepare for the group meeting:</strong></p>
-<ul>
-<li>Write a detailed outline for your thesis introduction, and bring this to the group meeting to share</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="callout callout-style-simple callout-tip">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-body-container">
-<p><strong>Comprehension check:</strong></p>
-<ul>
-<li><p>Have you read through, and do you understand, MF’s <a href="https://mafeeney.github.io/BM432projects/writingtips.html">general writing tips</a>?</p></li>
-<li><p>Do you understand how to logically structure a paragraph? As you begin to write, are you organising your introduction in a logical way?</p></li>
-<li><p>Are you using a correct citation style?</p></li>
-</ul>
-</div>
-</div>
-</div></td>
-<td><p><strong>Week 4 Group meeting</strong></p>
-<p><strong>Time, location, TBD</strong></p>
-<p><strong>Meeting agenda</strong></p>
-<ol type="1">
-<li><p>Feedback on detailed outlines</p></li>
-<li><p>Discussion of introduction structure and scientific writing (principles of composition)</p></li>
-<li><p>Writing exercise #4</p></li>
-<li><p>Explanation of week 5 task (model figure/flow diagram)</p></li>
-<li><p>Any questions/AOB</p></li>
-</ol></td>
-</tr>
-<tr class="odd">
-<td>5</td>
-<td><p><strong>Suggested activities for this week</strong></p>
-<ul>
-<li><p>Continue literature search/reading papers</p></li>
-<li><p>Start/continue writing thesis introduction</p></li>
-</ul>
-<div class="callout callout-style-simple callout-warning">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-body-container">
-<p><strong>What you should do to prepare for the group meeting:</strong></p>
-<ul>
-<li>Identify at least one model figure/flow diagram from the papers you have been reading and bring a printed copy to the meeting to discuss</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="callout callout-style-simple callout-tip">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-body-container">
-<p><strong>Comprehension check:</strong></p>
-<ul>
-<li><p>Do you understand the hypothesis and aims of your project? Can you explain these in your own words?</p></li>
-<li><p>Have you looked at the Thesis Submission checklist and do you understand how your introduction should be formatted?</p></li>
-<li><p>Do you understand what kind of feedback you can expect on your thesis intro and do you have a plan for how you can act on this feedback?</p></li>
-</ul>
-</div>
-</div>
-</div></td>
-<td><p><strong>Week 5 Group meeting</strong></p>
-<p><strong>Time, location, TBD</strong></p>
-<p><strong>Meeting agenda</strong></p>
-<ol type="1">
-<li><p>Discussion of model figures and flow diagrams (how, when, and why to use them)</p></li>
-<li><p>Project planning discussion</p></li>
-<li><p>Writing exercise #5</p></li>
-<li><p>Any questions/AOB</p></li>
-</ol></td>
-</tr>
-<tr class="even">
-<td>6-10?</td>
-<td><div class="callout callout-style-simple callout-important">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-body-container">
-<p><strong>DRAFT</strong> introduction due <strong>DATE</strong></p>
-</div>
-</div>
-</div>
-<p><strong>Experimental work begins</strong></p>
-<p><strong>Suggested activities for these weeks</strong></p>
-<ul>
-<li><p>Make a detailed plan for how you will execute your experimental work, and discuss this with MF</p></li>
-<li><p>Carry out experimental work for your thesis</p></li>
-<li><p>Be sure to record all pertinent details needed for your methods section/begin drafting methods</p></li>
-<li><p>Read through the feedback on your draft introduction and then contact MF to schedule a meeting to discuss it</p></li>
-<li><p>Begin editing your introduction</p></li>
-</ul>
-<div class="callout callout-style-simple callout-warning">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-body-container">
-<p><strong>What you should do to prepare for the weekly group meetings:</strong></p>
-<ul>
-<li><p>Come prepared to discuss your results from the previous week</p></li>
-<li><p>Be prepared to discuss/troubleshoot your experiments</p></li>
-<li><p>Think about potential next steps/future experiments</p></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="callout callout-style-simple callout-tip">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-body-container">
-<p><strong>Comprehension check:</strong></p>
-<ul>
-<li><p>Do you have a data management plan ready for your project work?</p></li>
-<li><p>Do you understand what details you should be recording in order to <a href="https://mafeeney.github.io/BM432projects/methods.html">write your methods section</a>? Have you paid attention to the methods sections of relevant papers to see what level of detail is generally required?</p></li>
-<li><p>Do you understand how to prepare a figure for scientific writing? Have you read through MF’s figure <a href="https://mafeeney.github.io/BM432projects/figures.html">preparation checklist</a>?</p></li>
-<li><p>Do you understand what feedback is and how to use feedback to improve your writing?</p></li>
-</ul>
-</div>
-</div>
-</div></td>
-<td><p><strong>Week 6-9 group meetings</strong></p>
-<p><strong>Time, location, TBD</strong></p>
-<p><strong>Meeting agenda</strong></p>
-<ol type="1">
-<li><p>Discussion of results/progress since the previous meeting</p></li>
-<li><p>Discuss next steps</p></li>
-<li><p>Writing exercise</p></li>
-<li><p>Any questions/AOB</p></li>
-</ol>
-<p><strong>Individual meetings to discuss feedback on draft introductions (week 6-7):</strong> e-mail MF to arrange a meeting</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong>Suggested activities for this week</strong></p>
-<p>Read MF’s <a href="https://mafeeney.github.io/BM432projects/slides.html">presentation preparation resources</a></p>
-<div class="callout callout-style-simple callout-warning">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-body-container">
-<p><strong>What you should do to prepare for the meeting:</strong></p>
-<ul>
-<li><p>Prepare a draft of your slides for your project presentation</p></li>
-<li><p>Rehearse your presentation 2-3x (you should have a good idea of what you want to say for each slide</p></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="callout callout-style-simple callout-tip">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-body-container">
-<p><strong>Comprehension check:</strong></p>
-<p>What questions do you think your audience is likely to ask?</p>
-</div>
-</div>
-</div></td>
-<td><p><strong>Practice presentation meeting</strong></p>
-<p><strong>Time, location, TBD</strong></p>
-<p><strong>Meeting agenda</strong></p>
-<ol type="1">
-<li><p>Practice presentations and Q&amp;A</p></li>
-<li><p>Feedback on draft slides</p></li>
-<li><p>Any questions/AOB</p></li>
-</ol></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><div class="callout callout-style-simple callout-important">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-body-container">
-<p><strong>Powerpoint slides for presentation due</strong> <strong>DATE</strong></p>
-</div>
-</div>
-</div></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+
+<p>This <a href=".\assets/ProjectSchedule.docx">project schedule</a> is intended as a guide to help you manage your time during your final year honours project. You should feel free to modify it as needed to best support your learning needs (for example, by adding additional key dates such as personal project milestones or modifying the suggested activities to better fit your schedule and needs).</p>
+<p>You are expected to attend all meetings/group meetings. You should have completed any indicated activities for that meeting (listed in “What you should do to prepare”). You should also come prepared with any questions (e.g., about papers you have read, results from your experimental work, general questions about good scientific practices, etc.)</p>
+<p>Note that the resources provided (e.g., papers listed in the project descriptor, resources linked for each week) are only intended as a <u>starting point</u>. You are expected to search the literature independently (this is part of your project performance mark.) You are also strongly encouraged to seek out additional resources to support your learning and development as a researcher (e.g.&nbsp;time management apps/resources, ggplot2 tutorials, additional writing tips/guidance….)</p>
+<p>You should make certain that you understand the points listed in the “Comprehension check” for each week and you should read the indicated resources/search the literature/check with Dr.&nbsp;Feeney for further guidance if you are not sure about any point.</p>
+<p>Please be sure to check the BM432 MyPlace page regularly for any updates to official deadlines.</p>
 
 
 
@@ -717,10 +348,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -730,8 +378,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -743,7 +400,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -787,6 +567,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -812,6 +593,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -872,6 +679,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 
