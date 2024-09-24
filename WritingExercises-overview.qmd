@@ -1,5 +1,5 @@
 ---
-title: "Writing Exercises (overview)"
+title: "Writing Exercises"
 page-layout: full
 ---
 
@@ -49,13 +49,13 @@ Finally, please note that writing well and easily is a matter of constant practi
 
 You are encouraged to work through the following exercises independently, but please don't hesitate to discuss them with Dr. Feeney if you have any questions.
 
+1. [Additional exercise 01](./assets/WritingExercises/AdditionalExercises01.docx): Paragraph structure
+
+1. [Additional exercise 02](./assets/WritingExercises/AdditionalExercises02.docx): Sentence structure/form (more practice with some of Strunk & White's Principles of Composition)
+
 ## Concluding Thoughts
 
 One of the best ways to improve your writing is to read broadly and pay attention to the way that papers are written. Take note of which writing techniques are effective and which are less so, and then apply these ideas to your own writing.
-
-
-
-
 
 * Tschowri N, Schumacher MA, Schlimpert S, Chinnam NB, Findlay KC, Brennan RG, Buttner MJ. Tetrameric c-di-GMP mediates effective transcription factor dimerization to control Streptomyces development. Cell. 2014 Aug 28;158(5):1136-1147.
 
