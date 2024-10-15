@@ -32,6 +32,7 @@ website:
         contents:
           - bioinformatics.qmd
           - twine.qmd
+          - RStudio.qmd
       - section: "Thesis preparation"
         contents:
           - writingtips.qmd

@@ -1,0 +1,20 @@
+---
+title: "R Studio Resources"
+page-layout: full
+---
+
+## General R Studio Resources/Getting Started
+
+Depending on your project, you may find the following resources useful - please note that this is by no means an exhaustive list, just a starting point - there are many other helpful resources out there. While you do not necessarily need to use R/R Studio for your data analysis, you will likely find that being able to work in R is an important transferable skill and important for your future career. Feel free to discuss with Dr. Feeney if you have any questions.
+
+-   [Getting Started](https://moderndive.github.io/moderndive_labs/static/previous_versions/v0.1.2/2-getting-started.html) (ModernDive)
+
+-   [R for Data Science](https://r4ds.hadley.nz/) (2nd edition)
+
+-   [Introduction to ggplot2](https://ggplot2.tidyverse.org/articles/ggplot2.html)
+
+-   [ggplot2 tutorial](https://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
+
+
+
+
