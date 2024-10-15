@@ -1,47 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mafeeney.github.io/BM432projects/writingtips.html</loc>
-    <lastmod>2024-10-10T15:55:24.714Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mafeeney.github.io/BM432projects/index.html</loc>
-    <lastmod>2024-10-10T15:55:24.714Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mafeeney.github.io/BM432projects/schedule.html</loc>
-    <lastmod>2024-10-10T15:55:24.714Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mafeeney.github.io/BM432projects/management.html</loc>
-    <lastmod>2024-10-10T15:55:24.714Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mafeeney.github.io/BM432projects/WritingExercises-overview.html</loc>
-    <lastmod>2024-10-10T15:55:24.650Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mafeeney.github.io/BM432projects/bioinformatics.html</loc>
-    <lastmod>2024-10-10T15:55:24.674Z</lastmod>
+    <loc>https://mafeeney.github.io/BM432projects/slides.html</loc>
+    <lastmod>2024-10-15T14:45:47.027Z</lastmod>
   </url>
   <url>
     <loc>https://mafeeney.github.io/BM432projects/methods.html</loc>
-    <lastmod>2024-10-10T15:55:24.714Z</lastmod>
+    <lastmod>2024-10-15T14:45:47.027Z</lastmod>
   </url>
   <url>
-    <loc>https://mafeeney.github.io/BM432projects/figures.html</loc>
-    <lastmod>2024-10-10T15:55:24.710Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mafeeney.github.io/BM432projects/slides.html</loc>
-    <lastmod>2024-10-10T15:55:24.714Z</lastmod>
+    <loc>https://mafeeney.github.io/BM432projects/bioinformatics.html</loc>
+    <lastmod>2024-10-15T14:45:46.993Z</lastmod>
   </url>
   <url>
     <loc>https://mafeeney.github.io/BM432projects/twine.html</loc>
-    <lastmod>2024-10-10T15:55:24.714Z</lastmod>
+    <lastmod>2024-10-15T14:45:47.027Z</lastmod>
   </url>
   <url>
     <loc>https://mafeeney.github.io/BM432projects/expectations.html</loc>
-    <lastmod>2024-10-10T15:55:24.710Z</lastmod>
+    <lastmod>2024-10-15T14:45:47.023Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mafeeney.github.io/BM432projects/index.html</loc>
+    <lastmod>2024-10-15T14:45:47.027Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mafeeney.github.io/BM432projects/figures.html</loc>
+    <lastmod>2024-10-15T14:45:47.023Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mafeeney.github.io/BM432projects/management.html</loc>
+    <lastmod>2024-10-15T14:45:47.027Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mafeeney.github.io/BM432projects/RStudio.html</loc>
+    <lastmod>2024-10-15T14:45:46.942Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mafeeney.github.io/BM432projects/WritingExercises-overview.html</loc>
+    <lastmod>2024-10-15T14:45:46.942Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mafeeney.github.io/BM432projects/writingtips.html</loc>
+    <lastmod>2024-10-15T14:45:47.027Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mafeeney.github.io/BM432projects/schedule.html</loc>
+    <lastmod>2024-10-15T14:45:47.027Z</lastmod>
   </url>
 </urlset>
