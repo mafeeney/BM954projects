@@ -55,7 +55,7 @@ You are encouraged to work through the following exercises independently, but pl
 
 3. [Additional exercise 03](./assets/WritingExercises/AdditionalExercises03.docx): Hypotheses --- [Additional exercise 03 with Brucella hypothesis examples discussed in our meeting](./assets/WritingExercises/AdditionalExercises03-withBrucella-hypoth-examples.docx)
 
-4. [Additional exercise 04](./assets/WritingExercises/AdditionalExercises04.docx): Structuring your introduction
+4. [Additional exercise 04](./assets/WritingExercises/AdditionalExercises04.docx): Structuring your introduction --- [example outline for antimycin biosynthesis paper](./assets/WritingExercises/antimycin-intro-outline.docx)
 
 ## Concluding Thoughts
 
