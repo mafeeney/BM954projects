@@ -41,6 +41,7 @@ Depending on your project, you may find some of the following resources useful -
 
 - [Phage tutorial 1](./assets/Galaxy_instructions_annotate_phage_genome.docx)
 
+- [Phage tutorial 2](./assets/Galaxy_instructions_phylogenetic_tree.docx)
 
 ## actDES resources
 
