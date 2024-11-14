@@ -43,6 +43,8 @@ Depending on your project, you may find some of the following resources useful -
 
 - [Phage tutorial 2](./assets/Galaxy_instructions_phylogenetic_tree.docx)
 
+- [Phage tutorial 3](./assets/Galaxy_instructions_downstream_analyses.docx)
+
 ## actDES resources
 
 -   Schniete, J. K., Selem-Mojica, N., Birke, A. S., Cruz-Morales, P., Hunter, I. S., Barona-Gomez, F., & Hoskisson, P. A. (2021). ActDES - a curated Actinobacterial Database for Evolutionary Studies. Microbial genomics, 7(1), mgen000498. https://doi.org/10.1099/mgen.0.000498
