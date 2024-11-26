@@ -359,7 +359,7 @@
     "href": "RStudio.html",
     "title": "R Studio Resources",
     "section": "",
-    "text": "Depending on your project, you may find the following resources useful - please note that this is by no means an exhaustive list, just a starting point - there are many other helpful resources out there. While you do not necessarily need to use R/R Studio for your data analysis, you will likely find that being able to work in R is an important transferable skill and important for your future career. Feel free to discuss with Dr. Feeney if you have any questions.\n\nGetting Started (ModernDive)\nR for Data Science (2nd edition)\nIntroduction to ggplot2\nggplot2 tutorial",
+    "text": "Depending on your project, you may find the following resources useful - please note that this is by no means an exhaustive list, just a starting point - there are many other helpful resources out there. While you do not necessarily need to use R/R Studio for your data analysis, you will likely find that being able to work in R is an important transferable skill and important for your future career. Feel free to discuss with Dr. Feeney if you have any questions.\n\nGetting Started (ModernDive)\nR for Data Science (2nd edition)\nIntroduction to ggplot2\nggplot2 tutorial\n\n\n\n\nRdemo1.R: R script used for demo 1\nRdemo1.csv: .csv data file used for demo 1\nRdemo2.R: R script used for demo 2\nRdemo2.csv: .csv data file used for demo 2",
     "crumbs": [
       "Home",
       "Experimental Work",
@@ -371,7 +371,7 @@
     "href": "RStudio.html#general-r-studio-resourcesgetting-started",
     "title": "R Studio Resources",
     "section": "",
-    "text": "Depending on your project, you may find the following resources useful - please note that this is by no means an exhaustive list, just a starting point - there are many other helpful resources out there. While you do not necessarily need to use R/R Studio for your data analysis, you will likely find that being able to work in R is an important transferable skill and important for your future career. Feel free to discuss with Dr. Feeney if you have any questions.\n\nGetting Started (ModernDive)\nR for Data Science (2nd edition)\nIntroduction to ggplot2\nggplot2 tutorial",
+    "text": "Depending on your project, you may find the following resources useful - please note that this is by no means an exhaustive list, just a starting point - there are many other helpful resources out there. While you do not necessarily need to use R/R Studio for your data analysis, you will likely find that being able to work in R is an important transferable skill and important for your future career. Feel free to discuss with Dr. Feeney if you have any questions.\n\nGetting Started (ModernDive)\nR for Data Science (2nd edition)\nIntroduction to ggplot2\nggplot2 tutorial\n\n\n\n\nRdemo1.R: R script used for demo 1\nRdemo1.csv: .csv data file used for demo 1\nRdemo2.R: R script used for demo 2\nRdemo2.csv: .csv data file used for demo 2",
     "crumbs": [
       "Home",
       "Experimental Work",
