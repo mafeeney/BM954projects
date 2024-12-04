@@ -57,6 +57,8 @@ You are encouraged to work through the following exercises independently, but pl
 
 4. [Additional exercise 04](./assets/WritingExercises/AdditionalExercises04.docx): Structuring your introduction --- [example outline for antimycin biosynthesis paper](./assets/WritingExercises/antimycin-intro-outline.docx)
 
+4. [Additional exercise 05](./assets/WritingExercises/AdditionalExercises05.docx): Writing a methods section
+
 ## Concluding Thoughts
 
 One of the best ways to improve your writing is to read broadly and pay attention to the way that papers are written. Take note of which writing techniques are effective and which are less so, and then apply these ideas to your own writing.
