@@ -57,7 +57,10 @@ You are encouraged to work through the following exercises independently, but pl
 
 4. [Additional exercise 04](./assets/WritingExercises/AdditionalExercises04.docx): Structuring your introduction --- [example outline for antimycin biosynthesis paper](./assets/WritingExercises/antimycin-intro-outline.docx)
 
-4. [Additional exercise 05](./assets/WritingExercises/AdditionalExercises05.docx): Writing a methods section
+5. [Additional exercise 05](./assets/WritingExercises/AdditionalExercises05.docx): Writing a methods section
+
+6. [Additional exercise 06](./assets/WritingExercises/AdditionalExercises06.docx): Figure Narrative
+
 
 ## Concluding Thoughts
 
