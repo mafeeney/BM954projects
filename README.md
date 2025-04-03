@@ -1,3 +1,3 @@
-# BM432projects
+# BM954projects
 
-Resources for Dr. Feeney's project students (University of Strathclyde, BM432). 
+Resources for Dr. Feeney's project students (University of Strathclyde, BM954). 
