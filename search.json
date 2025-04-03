@@ -36,162 +36,6 @@
     ]
   },
   {
-    "objectID": "expectations.html",
-    "href": "expectations.html",
-    "title": "Project Expectations",
-    "section": "",
-    "text": "This may be your first time working on a scientific project, and/or your first time producing a scientific document (thesis). These guidelines are here to give you an idea of what to expect, and should be read in conjunction with the BM432 learning agreement (available on the module MyPlace page.) Please read through these expectations and bring any questions or concerns that you would like to discuss with Dr. Feeney to our first meeting.\n\nScience:\n\nMaintain a lab notebook, either on paper or electronically. Human memory is fallible! Your notebook should be thorough and legible – if you come back to it in a month’s time, you should be able to reconstruct what you did.\n\nFor each experiment, please write: Objective Background Methods, including deviations from established methods Results Conclusion\n\nFiles should be saved with clear, concise file names and saved where you can find them again. Back up your work frequently and in more than one place – you do not want to lose all of your data!\nAt the end of the project, I expect you to provide me with the raw data files from your work: e.g. for a phylogenetic tree, I expect the .fasta file containing all of the sequences, the multiple sequence alignment of the sequences, and the .newick file for the tree. This is so that projects can be continued/expanded in future years.\n\n\n\nTeamwork/collegiality:\n\nScience is a team effort and it benefits from people working together in groups – we can accomplish more together than one person working alone can.\nListen respectfully to each other, learn from each other, and contribute as you can.\nBe respectful of others’ different life experiences, learn from them when appropriate, and contribute when appropriate. Do not insult or put down people who share their experiences. Harassment, sexism, racism, or exclusionary comments are not appropriate and prevent people from participating in science.\nRecognize that every person will bring strengths and weaknesses with them. Highlight each others strengths, and help each other overcome our weaknesses.\nIf you find that you have made a mistake: listen, offer a genuine apology, and commit to learning and doing better.\n\n\n\nKindness:\n\nBe kind to yourself. Be mindful of your limits, and aware of the fact that you are still in the middle of a global pandemic – give yourself credit for the hard work that you’re doing every day.\nBe kind to others. Give them the benefit of the doubt when needed; remember that online communication often misses nuance or meaning. Remember that everyone is struggling right now and may not be able to be their best selves.\nBe patient. Science can be hard work – things take longer to accomplish, particularly at first; you may need to repeat experiments or start over with a new dataset. This is all part of the process – you are making progress, even though it may not be readily apparent.\n\n\n\nCommunication:\n\nClear, open, honest communication – I cannot help if you don’t let me know that there’s a problem.\nMeetings at least once a week in person or via Zoom (individual and/or group meetings). Zoom etiquette: turning your camera, microphone on/off is completely up to you, no pressure either way.\nBetween meetings, I’m available by e-mail to answer questions or you can schedule a drop-in Zoom (depending on our schedules).\nDon’t be afraid to ask for help:\n\nMe (…this is literally my job!)\nEach other\nThe micro group\nAsk questions in your lectures/open office sessions\nTwitter (a great place to crowdsource science questions)\n\nHow to ask for help: … after Google, reading papers, looking at manuals and FAQs has proven unhelpful!\n\nBe detailed and specific! (“I tried it and it didn’t work” is not a useful question).\nExplain what you were trying to do, exactly how you tried to do it, exactly what happened (e.g. what error message you got) – include screenshots if they help to illustrate the problem. This will save a lot of time and back-and-forth e-mails\n\nTake ownership of your project: I am here to help and to guide you, but this is not my thesis (I have already done one!) Come prepared to meetings Think independently and critically Read broadly All of the above contributes to your project performance mark\nDon’t be afraid to tell me that I’m wrong:\n\nYour data may well contradict my hypotheses or ideas\nYou might find something in the literature that I wasn’t aware of\nYou may well have insights and clever thoughts that I won’t have\nDoing science is about being able to challenge the accepted dogma and prove ideas wrong\n\n\n\n\nWhat you can expect from me:\n\nKindness, team-work, and collegiality\nAdvice and guidance on planning and carrying out your experiments\nGuidance on how to write a scientific document\nFeedback on drafts and practice presentation\nGood communication\nE-mail responses within 24h (I will do my absolute best)\nFeedback on project performance\nReferences (no need to ask for permission, but I do appreciate as much notice as possible)\n\n\n\n\n\n\n\nA few tips and suggestions for success\n\n\n\n\nTake care of yourself (a healthy mind requires a healthy body)\nStay organized Set yourself deadlines (but be flexible when need be)\nDon’t feel the need to write your draft in one go – it’s much better to work on it a little bit every day (marathon, not a sprint)\nBreak it down into small tasks\nGet into the habit of writing at least a few sentences daily\nTake breaks and let your mind rest/process ideas (take a walk, wash the dishes, drink some tea).\nTake breaks from the screen.\nWhen you read papers, and go to seminars/journal clubs: pay attention to the way that other people explain their science (what works? what doesn’t?)",
-    "crumbs": [
-      "Home",
-      "Intro",
-      "Project Expectations"
-    ]
-  },
-  {
-    "objectID": "twine.html",
-    "href": "twine.html",
-    "title": "Science Communication Resources",
-    "section": "",
-    "text": "Science Communication Resources\nTen simple rules for scientists engaging in science communication\nTen simple rules for drawing scientific comics\nTen Simple Rules for Effective Online Outreach\nHow to Eliminate Jargon From Science Communication\nWriting Survey Questions",
-    "crumbs": [
-      "Home",
-      "Experimental Work",
-      "Science Communication Resources"
-    ]
-  },
-  {
-    "objectID": "twine.html#general-science-communication-resources",
-    "href": "twine.html#general-science-communication-resources",
-    "title": "Science Communication Resources",
-    "section": "",
-    "text": "Science Communication Resources\nTen simple rules for scientists engaging in science communication\nTen simple rules for drawing scientific comics\nTen Simple Rules for Effective Online Outreach\nHow to Eliminate Jargon From Science Communication\nWriting Survey Questions",
-    "crumbs": [
-      "Home",
-      "Experimental Work",
-      "Science Communication Resources"
-    ]
-  },
-  {
-    "objectID": "twine.html#twine-resources",
-    "href": "twine.html#twine-resources",
-    "title": "Science Communication Resources",
-    "section": "Twine Resources",
-    "text": "Twine Resources\n\nTwine\nTwine cookbook\nHow to use Twine and SugarCube to create interactive adventure games\nA Total Beginner’s Guide to Twine 2.\nHarlowe manual\nInteractive Fiction Community Forum",
-    "crumbs": [
-      "Home",
-      "Experimental Work",
-      "Science Communication Resources"
-    ]
-  },
-  {
-    "objectID": "slides.html",
-    "href": "slides.html",
-    "title": "Preparing your presentation",
-    "section": "",
-    "text": "Think about exactly what you want to convey (tell a story; keep it simple; 3 experiments max)\nPrepare figures for your slides (the “backbone” of your talk)\n\n\n\n\n\n\nTip\n\n\n\nNote that the figures for your slides will rarely, if ever, be the same figures you present in your thesis. You may need to simplify figures for your talk so that they can be easily understood by your audience (presenting too much data on a single slide is generally overwhelming and ensures that your audience is reading the slide instead of listening to you.)\n\n\nIntroduction: think about what your audience needs to know (context) to understand your work (what didn’t you know, at the beginning of this project?)\nFor each experiment, explain: 1. what you were trying to do (aim) 2. how you did it (method) 3. what you found (results) 4. what your results mean (significance) - IN THAT ORDER\nConclusions/significance: what have you learned? how have you contributed to the field? Can you make a figure showing this (model)?\nGo back through your talk and make sure it “flows” in a logical order\nEdit, proofread, improve your slides. Ask for feedback and incorporate it.\nPractice, practice, practice!\nRepeat steps 7 and 8 iteratively until you are happy with your presentation and feel confident in your delivery.",
-    "crumbs": [
-      "Home",
-      "Presentations",
-      "Preparing your presentation"
-    ]
-  },
-  {
-    "objectID": "slides.html#preparing-for-your-talk-checklist",
-    "href": "slides.html#preparing-for-your-talk-checklist",
-    "title": "Preparing your presentation",
-    "section": "",
-    "text": "Think about exactly what you want to convey (tell a story; keep it simple; 3 experiments max)\nPrepare figures for your slides (the “backbone” of your talk)\n\n\n\n\n\n\nTip\n\n\n\nNote that the figures for your slides will rarely, if ever, be the same figures you present in your thesis. You may need to simplify figures for your talk so that they can be easily understood by your audience (presenting too much data on a single slide is generally overwhelming and ensures that your audience is reading the slide instead of listening to you.)\n\n\nIntroduction: think about what your audience needs to know (context) to understand your work (what didn’t you know, at the beginning of this project?)\nFor each experiment, explain: 1. what you were trying to do (aim) 2. how you did it (method) 3. what you found (results) 4. what your results mean (significance) - IN THAT ORDER\nConclusions/significance: what have you learned? how have you contributed to the field? Can you make a figure showing this (model)?\nGo back through your talk and make sure it “flows” in a logical order\nEdit, proofread, improve your slides. Ask for feedback and incorporate it.\nPractice, practice, practice!\nRepeat steps 7 and 8 iteratively until you are happy with your presentation and feel confident in your delivery.",
-    "crumbs": [
-      "Home",
-      "Presentations",
-      "Preparing your presentation"
-    ]
-  },
-  {
-    "objectID": "slides.html#some-presentation-guidesresources",
-    "href": "slides.html#some-presentation-guidesresources",
-    "title": "Preparing your presentation",
-    "section": "Some presentation guides/resources",
-    "text": "Some presentation guides/resources\n\nGiving a Scientific Presentation [Prepared for BM432 in 2022]\n\n07-01: Presentations - Intro\n07-02: Presentations - Content\n07-03: Presentations - Figures\n07-04: Presentations - Aesthetics\n07-05: Presentations - Slide Preparation\n07-06: Presentations - Delivery\n\nScientific presentations: a cheat sheet\nTen Simple Rules for Making Good Oral Presentations",
-    "crumbs": [
-      "Home",
-      "Presentations",
-      "Preparing your presentation"
-    ]
-  },
-  {
-    "objectID": "figures.html",
-    "href": "figures.html",
-    "title": "Preparing Figures",
-    "section": "",
-    "text": "Determine what point you wish to convey with your figure and the most effective way of conveying that point\nRemove any extraneous or distracting data that distracts from the main message of your figure\nDetermine how large the figure needs to be: how much space will it take up on a page?\nWill it be easy for your reader to see key details if the figure is this size?\nCheck that the figure is clear and not pixellated: will your reader be able to see all the important details? Is the resolution good enough?\nCheck that the colour scheme you have chosen is colour-blind friendly and not visually jarring\nCheck that any fonts used are legible at the size printed\nFigure titles should give a concise “take-home message” conveying the result(s) shown in the figure\nFigure legends should give enough detail about the experiment for the reader to understand what was done (the figure should be able to stand on its own)\n\nGuidance on writing good figure titles and legends (with examples)",
-    "crumbs": [
-      "Home",
-      "Thesis preparation",
-      "Preparing Figures"
-    ]
-  },
-  {
-    "objectID": "figures.html#figure-preparation-checklist",
-    "href": "figures.html#figure-preparation-checklist",
-    "title": "Preparing Figures",
-    "section": "",
-    "text": "Determine what point you wish to convey with your figure and the most effective way of conveying that point\nRemove any extraneous or distracting data that distracts from the main message of your figure\nDetermine how large the figure needs to be: how much space will it take up on a page?\nWill it be easy for your reader to see key details if the figure is this size?\nCheck that the figure is clear and not pixellated: will your reader be able to see all the important details? Is the resolution good enough?\nCheck that the colour scheme you have chosen is colour-blind friendly and not visually jarring\nCheck that any fonts used are legible at the size printed\nFigure titles should give a concise “take-home message” conveying the result(s) shown in the figure\nFigure legends should give enough detail about the experiment for the reader to understand what was done (the figure should be able to stand on its own)\n\nGuidance on writing good figure titles and legends (with examples)",
-    "crumbs": [
-      "Home",
-      "Thesis preparation",
-      "Preparing Figures"
-    ]
-  },
-  {
-    "objectID": "figures.html#guidesimportant-info-for-figure-preparation",
-    "href": "figures.html#guidesimportant-info-for-figure-preparation",
-    "title": "Preparing Figures",
-    "section": "Guides/Important Info for Figure Preparation",
-    "text": "Guides/Important Info for Figure Preparation\n\nRefer back to the Data presentation and figure preparation (BM432 workshop 6 materials) as needed.\nMaking model figures (slides for our discussion)\nBeyond Bar and Line Graphs: Time for a New Data Presentation Paradigm\nRead Ten Simple Rules for Better Figures\nDigital Images Are Data: And Should Be Treated as Such\nTen common statistical mistakes to watch out for when writing or reviewing a manuscript\nFundamentals of graphic design—essential tools for effective visual science communication\n11 Graphic Design Tips to Create Images Like a Pro",
-    "crumbs": [
-      "Home",
-      "Thesis preparation",
-      "Preparing Figures"
-    ]
-  },
-  {
-    "objectID": "figures.html#other-useful-resources",
-    "href": "figures.html#other-useful-resources",
-    "title": "Preparing Figures",
-    "section": "Other Useful Resources",
-    "text": "Other Useful Resources\n\nBiorender\nImageJ Basics\nCoblis — Color Blindness Simulator\nData visualization with ggplot2 :: Cheat Sheet\n\n\n\n\n\n\n\nA few points about specific figure types (a.k.a. some of Morgan’s pet peeves)\n\n\n\n\nWhy You Must Plot Your Growth Data On Semi-log Graph Paper\nMake sure you include a scale on any images that need them (e.g., micrographs, phylogenetic trees)\nBy convention, figure titles and legends are presented below the corresponding figure, while table titles are presented above the corresponding table.\nMake sure your text is formatted correctly within your figure (e.g., species names should be italicized, gene and protein names should be formatted correctly)",
-    "crumbs": [
-      "Home",
-      "Thesis preparation",
-      "Preparing Figures"
-    ]
-  },
-  {
-    "objectID": "methods.html",
-    "href": "methods.html",
-    "title": "Writing a Methods Section",
-    "section": "",
-    "text": "Check out this annotated example of how to write a methods section for an example of a generally good methods section and some key points.",
-    "crumbs": [
-      "Home",
-      "Thesis preparation",
-      "Writing a Methods Section"
-    ]
-  },
-  {
-    "objectID": "methods.html#tips-for-writing-a-great-methods-section",
-    "href": "methods.html#tips-for-writing-a-great-methods-section",
-    "title": "Writing a Methods Section",
-    "section": "Tips for Writing a Great Methods Section",
-    "text": "Tips for Writing a Great Methods Section\n\nDescribe your experimental methods in enough detail that your reader could replicate the experiments.\nYour methods section is not a protocol (a step-by-step list of everything that was done.) You may assume that your reader is a competent scientist with the skills to perform basic lab calculations, techniques, etc.\nCite the appropriate literature (i.e. for any recipes, tools, protocols you have used).\nDo not include results or rationale for performing experiments (these belong elsewhere in your thesis).\nBe clear and concise; eliminate unnecessary words and steps.\nMake sure that your methods section includes all of the materials and methods you used in your thesis (This includes any bioinformatics methods such as BLAST!)\nAsk a friend or colleague to read your methods section and give feedback.\n\n\n\n\n\n\n\nProtip: Look at papers that have used similar methods: how are these methods sections written?\n\n\n\nYou want to make sure that your methods section generally follows the conventions in your field, so that readers will be able to understand it more easily.\nA few examples of specific conventions:\n\nfor wet-lab projects, centrifuge speeds are always given in xg, not in rpm or rcf\nfor sci comm projects, the design of your intervention/survey belongs in the methods section\nfor bioinformatics projects, always include the version number of any software used and details of parameters, etc.",
-    "crumbs": [
-      "Home",
-      "Thesis preparation",
-      "Writing a Methods Section"
-    ]
-  },
-  {
     "objectID": "bioinformatics.html",
     "href": "bioinformatics.html",
     "title": "Bionformatics Resources",
@@ -264,6 +108,78 @@
     ]
   },
   {
+    "objectID": "RStudio.html",
+    "href": "RStudio.html",
+    "title": "R Studio Resources",
+    "section": "",
+    "text": "Depending on your project, you may find the following resources useful - please note that this is by no means an exhaustive list, just a starting point - there are many other helpful resources out there. While you do not necessarily need to use R/R Studio for your data analysis, you will likely find that being able to work in R is an important transferable skill and important for your future career. Feel free to discuss with Dr. Feeney if you have any questions.\n\nGetting Started (ModernDive)\nR for Data Science (2nd edition)\nIntroduction to ggplot2\nggplot2 tutorial\n\n\n\n\nRdemo1.R: R script used for demo 1\nRdemo1.csv: .csv data file used for demo 1\nRdemo2.R: R script used for demo 2\nRdemo2.csv: .csv data file used for demo 2",
+    "crumbs": [
+      "Home",
+      "Experimental Work",
+      "R Studio Resources"
+    ]
+  },
+  {
+    "objectID": "RStudio.html#general-r-studio-resourcesgetting-started",
+    "href": "RStudio.html#general-r-studio-resourcesgetting-started",
+    "title": "R Studio Resources",
+    "section": "",
+    "text": "Depending on your project, you may find the following resources useful - please note that this is by no means an exhaustive list, just a starting point - there are many other helpful resources out there. While you do not necessarily need to use R/R Studio for your data analysis, you will likely find that being able to work in R is an important transferable skill and important for your future career. Feel free to discuss with Dr. Feeney if you have any questions.\n\nGetting Started (ModernDive)\nR for Data Science (2nd edition)\nIntroduction to ggplot2\nggplot2 tutorial\n\n\n\n\nRdemo1.R: R script used for demo 1\nRdemo1.csv: .csv data file used for demo 1\nRdemo2.R: R script used for demo 2\nRdemo2.csv: .csv data file used for demo 2",
+    "crumbs": [
+      "Home",
+      "Experimental Work",
+      "R Studio Resources"
+    ]
+  },
+  {
+    "objectID": "expectations.html",
+    "href": "expectations.html",
+    "title": "Project Expectations",
+    "section": "",
+    "text": "This may be your first time working on a scientific project, and/or your first time producing a scientific document (thesis). These guidelines are here to give you an idea of what to expect, and should be read in conjunction with the BM432 learning agreement (available on the module MyPlace page.) Please read through these expectations and bring any questions or concerns that you would like to discuss with Dr. Feeney to our first meeting.\n\nScience:\n\nMaintain a lab notebook, either on paper or electronically. Human memory is fallible! Your notebook should be thorough and legible – if you come back to it in a month’s time, you should be able to reconstruct what you did.\n\nFor each experiment, please write: Objective Background Methods, including deviations from established methods Results Conclusion\n\nFiles should be saved with clear, concise file names and saved where you can find them again. Back up your work frequently and in more than one place – you do not want to lose all of your data!\nAt the end of the project, I expect you to provide me with the raw data files from your work: e.g. for a phylogenetic tree, I expect the .fasta file containing all of the sequences, the multiple sequence alignment of the sequences, and the .newick file for the tree. This is so that projects can be continued/expanded in future years.\n\n\n\nTeamwork/collegiality:\n\nScience is a team effort and it benefits from people working together in groups – we can accomplish more together than one person working alone can.\nListen respectfully to each other, learn from each other, and contribute as you can.\nBe respectful of others’ different life experiences, learn from them when appropriate, and contribute when appropriate. Do not insult or put down people who share their experiences. Harassment, sexism, racism, or exclusionary comments are not appropriate and prevent people from participating in science.\nRecognize that every person will bring strengths and weaknesses with them. Highlight each others strengths, and help each other overcome our weaknesses.\nIf you find that you have made a mistake: listen, offer a genuine apology, and commit to learning and doing better.\n\n\n\nKindness:\n\nBe kind to yourself. Be mindful of your limits, and aware of the fact that you are still in the middle of a global pandemic – give yourself credit for the hard work that you’re doing every day.\nBe kind to others. Give them the benefit of the doubt when needed; remember that online communication often misses nuance or meaning. Remember that everyone is struggling right now and may not be able to be their best selves.\nBe patient. Science can be hard work – things take longer to accomplish, particularly at first; you may need to repeat experiments or start over with a new dataset. This is all part of the process – you are making progress, even though it may not be readily apparent.\n\n\n\nCommunication:\n\nClear, open, honest communication – I cannot help if you don’t let me know that there’s a problem.\nMeetings at least once a week in person or via Zoom (individual and/or group meetings). Zoom etiquette: turning your camera, microphone on/off is completely up to you, no pressure either way.\nBetween meetings, I’m available by e-mail to answer questions or you can schedule a drop-in Zoom (depending on our schedules).\nDon’t be afraid to ask for help:\n\nMe (…this is literally my job!)\nEach other\nThe micro group\nAsk questions in your lectures/open office sessions\nTwitter (a great place to crowdsource science questions)\n\nHow to ask for help: … after Google, reading papers, looking at manuals and FAQs has proven unhelpful!\n\nBe detailed and specific! (“I tried it and it didn’t work” is not a useful question).\nExplain what you were trying to do, exactly how you tried to do it, exactly what happened (e.g. what error message you got) – include screenshots if they help to illustrate the problem. This will save a lot of time and back-and-forth e-mails\n\nTake ownership of your project: I am here to help and to guide you, but this is not my thesis (I have already done one!) Come prepared to meetings Think independently and critically Read broadly All of the above contributes to your project performance mark\nDon’t be afraid to tell me that I’m wrong:\n\nYour data may well contradict my hypotheses or ideas\nYou might find something in the literature that I wasn’t aware of\nYou may well have insights and clever thoughts that I won’t have\nDoing science is about being able to challenge the accepted dogma and prove ideas wrong\n\n\n\n\nWhat you can expect from me:\n\nKindness, team-work, and collegiality\nAdvice and guidance on planning and carrying out your experiments\nGuidance on how to write a scientific document\nFeedback on drafts and practice presentation\nGood communication\nE-mail responses within 24h (I will do my absolute best)\nFeedback on project performance\nReferences (no need to ask for permission, but I do appreciate as much notice as possible)\n\n\n\n\n\n\n\nA few tips and suggestions for success\n\n\n\n\nTake care of yourself (a healthy mind requires a healthy body)\nStay organized Set yourself deadlines (but be flexible when need be)\nDon’t feel the need to write your draft in one go – it’s much better to work on it a little bit every day (marathon, not a sprint)\nBreak it down into small tasks\nGet into the habit of writing at least a few sentences daily\nTake breaks and let your mind rest/process ideas (take a walk, wash the dishes, drink some tea).\nTake breaks from the screen.\nWhen you read papers, and go to seminars/journal clubs: pay attention to the way that other people explain their science (what works? what doesn’t?)",
+    "crumbs": [
+      "Home",
+      "Intro",
+      "Project Expectations"
+    ]
+  },
+  {
+    "objectID": "twine.html",
+    "href": "twine.html",
+    "title": "Science Communication Resources",
+    "section": "",
+    "text": "Science Communication Resources\nTen simple rules for scientists engaging in science communication\nTen simple rules for drawing scientific comics\nTen Simple Rules for Effective Online Outreach\nHow to Eliminate Jargon From Science Communication\nWriting Survey Questions",
+    "crumbs": [
+      "Home",
+      "Experimental Work",
+      "Science Communication Resources"
+    ]
+  },
+  {
+    "objectID": "twine.html#general-science-communication-resources",
+    "href": "twine.html#general-science-communication-resources",
+    "title": "Science Communication Resources",
+    "section": "",
+    "text": "Science Communication Resources\nTen simple rules for scientists engaging in science communication\nTen simple rules for drawing scientific comics\nTen Simple Rules for Effective Online Outreach\nHow to Eliminate Jargon From Science Communication\nWriting Survey Questions",
+    "crumbs": [
+      "Home",
+      "Experimental Work",
+      "Science Communication Resources"
+    ]
+  },
+  {
+    "objectID": "twine.html#twine-resources",
+    "href": "twine.html#twine-resources",
+    "title": "Science Communication Resources",
+    "section": "Twine Resources",
+    "text": "Twine Resources\n\nTwine\nTwine cookbook\nHow to use Twine and SugarCube to create interactive adventure games\nA Total Beginner’s Guide to Twine 2.\nHarlowe manual\nInteractive Fiction Community Forum",
+    "crumbs": [
+      "Home",
+      "Experimental Work",
+      "Science Communication Resources"
+    ]
+  },
+  {
     "objectID": "WritingExercises-overview.html",
     "href": "WritingExercises-overview.html",
     "title": "Writing Exercises",
@@ -297,6 +213,85 @@
       "Home",
       "Thesis preparation",
       "Writing Exercises"
+    ]
+  },
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Preparing your presentation",
+    "section": "",
+    "text": "Think about exactly what you want to convey (tell a story; keep it simple; 3 experiments max)\nPrepare figures for your slides (the “backbone” of your talk)\n\n\n\n\n\n\nTip\n\n\n\nNote that the figures for your slides will rarely, if ever, be the same figures you present in your thesis. You may need to simplify figures for your talk so that they can be easily understood by your audience (presenting too much data on a single slide is generally overwhelming and ensures that your audience is reading the slide instead of listening to you.)\n\n\nIntroduction: think about what your audience needs to know (context) to understand your work (what didn’t you know, at the beginning of this project?)\nFor each experiment, explain: 1. what you were trying to do (aim) 2. how you did it (method) 3. what you found (results) 4. what your results mean (significance) - IN THAT ORDER\nConclusions/significance: what have you learned? how have you contributed to the field? Can you make a figure showing this (model)?\nGo back through your talk and make sure it “flows” in a logical order\nEdit, proofread, improve your slides. Ask for feedback and incorporate it.\nPractice, practice, practice!\nRepeat steps 7 and 8 iteratively until you are happy with your presentation and feel confident in your delivery.",
+    "crumbs": [
+      "Home",
+      "Presentations",
+      "Preparing your presentation"
+    ]
+  },
+  {
+    "objectID": "slides.html#preparing-for-your-talk-checklist",
+    "href": "slides.html#preparing-for-your-talk-checklist",
+    "title": "Preparing your presentation",
+    "section": "",
+    "text": "Think about exactly what you want to convey (tell a story; keep it simple; 3 experiments max)\nPrepare figures for your slides (the “backbone” of your talk)\n\n\n\n\n\n\nTip\n\n\n\nNote that the figures for your slides will rarely, if ever, be the same figures you present in your thesis. You may need to simplify figures for your talk so that they can be easily understood by your audience (presenting too much data on a single slide is generally overwhelming and ensures that your audience is reading the slide instead of listening to you.)\n\n\nIntroduction: think about what your audience needs to know (context) to understand your work (what didn’t you know, at the beginning of this project?)\nFor each experiment, explain: 1. what you were trying to do (aim) 2. how you did it (method) 3. what you found (results) 4. what your results mean (significance) - IN THAT ORDER\nConclusions/significance: what have you learned? how have you contributed to the field? Can you make a figure showing this (model)?\nGo back through your talk and make sure it “flows” in a logical order\nEdit, proofread, improve your slides. Ask for feedback and incorporate it.\nPractice, practice, practice!\nRepeat steps 7 and 8 iteratively until you are happy with your presentation and feel confident in your delivery.",
+    "crumbs": [
+      "Home",
+      "Presentations",
+      "Preparing your presentation"
+    ]
+  },
+  {
+    "objectID": "slides.html#some-presentation-guidesresources",
+    "href": "slides.html#some-presentation-guidesresources",
+    "title": "Preparing your presentation",
+    "section": "Some presentation guides/resources",
+    "text": "Some presentation guides/resources\n\nGiving a Scientific Presentation [Prepared for BM432 in 2022]\n\n07-01: Presentations - Intro\n07-02: Presentations - Content\n07-03: Presentations - Figures\n07-04: Presentations - Aesthetics\n07-05: Presentations - Slide Preparation\n07-06: Presentations - Delivery\n\nScientific presentations: a cheat sheet\nTen Simple Rules for Making Good Oral Presentations",
+    "crumbs": [
+      "Home",
+      "Presentations",
+      "Preparing your presentation"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BM432 project resources (Dr. Feeney’s project students)",
+    "section": "",
+    "text": "Hello, and welcome! These resources are designed to assist you as you complete your final year honours thesis with Dr. Feeney, and should be read in conjunction with official BM432 materials available on the course MyPlace page.\nPlease read through the project expectations document and the learning agreement before our first meeting, and come prepared to discuss any questions you have.\nUseful resources can be accessed via the sidebar. Please report any broken links to Dr. Feeney and contact her with any questions about these materials."
+  },
+  {
+    "objectID": "methods.html",
+    "href": "methods.html",
+    "title": "Writing a Methods Section",
+    "section": "",
+    "text": "Check out this annotated example of how to write a methods section for an example of a generally good methods section and some key points.",
+    "crumbs": [
+      "Home",
+      "Thesis preparation",
+      "Writing a Methods Section"
+    ]
+  },
+  {
+    "objectID": "methods.html#tips-for-writing-a-great-methods-section",
+    "href": "methods.html#tips-for-writing-a-great-methods-section",
+    "title": "Writing a Methods Section",
+    "section": "Tips for Writing a Great Methods Section",
+    "text": "Tips for Writing a Great Methods Section\n\nDescribe your experimental methods in enough detail that your reader could replicate the experiments.\nYour methods section is not a protocol (a step-by-step list of everything that was done.) You may assume that your reader is a competent scientist with the skills to perform basic lab calculations, techniques, etc.\nCite the appropriate literature (i.e. for any recipes, tools, protocols you have used).\nDo not include results or rationale for performing experiments (these belong elsewhere in your thesis).\nBe clear and concise; eliminate unnecessary words and steps.\nMake sure that your methods section includes all of the materials and methods you used in your thesis (This includes any bioinformatics methods such as BLAST!)\nAsk a friend or colleague to read your methods section and give feedback.\n\n\n\n\n\n\n\nProtip: Look at papers that have used similar methods: how are these methods sections written?\n\n\n\nYou want to make sure that your methods section generally follows the conventions in your field, so that readers will be able to understand it more easily.\nA few examples of specific conventions:\n\nfor wet-lab projects, centrifuge speeds are always given in xg, not in rpm or rcf\nfor sci comm projects, the design of your intervention/survey belongs in the methods section\nfor bioinformatics projects, always include the version number of any software used and details of parameters, etc.",
+    "crumbs": [
+      "Home",
+      "Thesis preparation",
+      "Writing a Methods Section"
+    ]
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Project Schedule",
+    "section": "",
+    "text": "This project schedule is intended as a guide to help you manage your time during your final year honours project. You should feel free to modify it as needed to best support your learning needs (for example, by adding additional key dates such as personal project milestones or modifying the suggested activities to better fit your schedule and needs).\nYou are expected to attend all meetings/group meetings. You should have completed any indicated activities for that meeting (listed in “What you should do to prepare”). You should also come prepared with any questions (e.g., about papers you have read, results from your experimental work, general questions about good scientific practices, etc.)\nNote that the resources provided (e.g., papers listed in the project descriptor, resources linked for each week) are only intended as a starting point. You are expected to search the literature independently (this is part of your project performance mark.) You are also strongly encouraged to seek out additional resources to support your learning and development as a researcher (e.g. time management apps/resources, ggplot2 tutorials, additional writing tips/guidance….)\nYou should make certain that you understand the points listed in the “Comprehension check” for each week and you should read the indicated resources/search the literature/check with Dr. Feeney for further guidance if you are not sure about any point.\nPlease be sure to check the BM432 MyPlace page regularly for any updates to official deadlines.",
+    "crumbs": [
+      "Home",
+      "Intro",
+      "Project Schedule"
     ]
   },
   {
@@ -336,46 +331,51 @@
     ]
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Project Schedule",
+    "objectID": "figures.html",
+    "href": "figures.html",
+    "title": "Preparing Figures",
     "section": "",
-    "text": "This project schedule is intended as a guide to help you manage your time during your final year honours project. You should feel free to modify it as needed to best support your learning needs (for example, by adding additional key dates such as personal project milestones or modifying the suggested activities to better fit your schedule and needs).\nYou are expected to attend all meetings/group meetings. You should have completed any indicated activities for that meeting (listed in “What you should do to prepare”). You should also come prepared with any questions (e.g., about papers you have read, results from your experimental work, general questions about good scientific practices, etc.)\nNote that the resources provided (e.g., papers listed in the project descriptor, resources linked for each week) are only intended as a starting point. You are expected to search the literature independently (this is part of your project performance mark.) You are also strongly encouraged to seek out additional resources to support your learning and development as a researcher (e.g. time management apps/resources, ggplot2 tutorials, additional writing tips/guidance….)\nYou should make certain that you understand the points listed in the “Comprehension check” for each week and you should read the indicated resources/search the literature/check with Dr. Feeney for further guidance if you are not sure about any point.\nPlease be sure to check the BM432 MyPlace page regularly for any updates to official deadlines.",
+    "text": "Determine what point you wish to convey with your figure and the most effective way of conveying that point\nRemove any extraneous or distracting data that distracts from the main message of your figure\nDetermine how large the figure needs to be: how much space will it take up on a page?\nWill it be easy for your reader to see key details if the figure is this size?\nCheck that the figure is clear and not pixellated: will your reader be able to see all the important details? Is the resolution good enough?\nCheck that the colour scheme you have chosen is colour-blind friendly and not visually jarring\nCheck that any fonts used are legible at the size printed\nFigure titles should give a concise “take-home message” conveying the result(s) shown in the figure\nFigure legends should give enough detail about the experiment for the reader to understand what was done (the figure should be able to stand on its own)\n\nGuidance on writing good figure titles and legends (with examples)",
     "crumbs": [
       "Home",
-      "Intro",
-      "Project Schedule"
+      "Thesis preparation",
+      "Preparing Figures"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "BM432 project resources (Dr. Feeney’s project students)",
+    "objectID": "figures.html#figure-preparation-checklist",
+    "href": "figures.html#figure-preparation-checklist",
+    "title": "Preparing Figures",
     "section": "",
-    "text": "Hello, and welcome! These resources are designed to assist you as you complete your final year honours thesis with Dr. Feeney, and should be read in conjunction with official BM432 materials available on the course MyPlace page.\nPlease read through the project expectations document and the learning agreement before our first meeting, and come prepared to discuss any questions you have.\nUseful resources can be accessed via the sidebar. Please report any broken links to Dr. Feeney and contact her with any questions about these materials."
-  },
-  {
-    "objectID": "RStudio.html",
-    "href": "RStudio.html",
-    "title": "R Studio Resources",
-    "section": "",
-    "text": "Depending on your project, you may find the following resources useful - please note that this is by no means an exhaustive list, just a starting point - there are many other helpful resources out there. While you do not necessarily need to use R/R Studio for your data analysis, you will likely find that being able to work in R is an important transferable skill and important for your future career. Feel free to discuss with Dr. Feeney if you have any questions.\n\nGetting Started (ModernDive)\nR for Data Science (2nd edition)\nIntroduction to ggplot2\nggplot2 tutorial\n\n\n\n\nRdemo1.R: R script used for demo 1\nRdemo1.csv: .csv data file used for demo 1\nRdemo2.R: R script used for demo 2\nRdemo2.csv: .csv data file used for demo 2",
+    "text": "Determine what point you wish to convey with your figure and the most effective way of conveying that point\nRemove any extraneous or distracting data that distracts from the main message of your figure\nDetermine how large the figure needs to be: how much space will it take up on a page?\nWill it be easy for your reader to see key details if the figure is this size?\nCheck that the figure is clear and not pixellated: will your reader be able to see all the important details? Is the resolution good enough?\nCheck that the colour scheme you have chosen is colour-blind friendly and not visually jarring\nCheck that any fonts used are legible at the size printed\nFigure titles should give a concise “take-home message” conveying the result(s) shown in the figure\nFigure legends should give enough detail about the experiment for the reader to understand what was done (the figure should be able to stand on its own)\n\nGuidance on writing good figure titles and legends (with examples)",
     "crumbs": [
       "Home",
-      "Experimental Work",
-      "R Studio Resources"
+      "Thesis preparation",
+      "Preparing Figures"
     ]
   },
   {
-    "objectID": "RStudio.html#general-r-studio-resourcesgetting-started",
-    "href": "RStudio.html#general-r-studio-resourcesgetting-started",
-    "title": "R Studio Resources",
-    "section": "",
-    "text": "Depending on your project, you may find the following resources useful - please note that this is by no means an exhaustive list, just a starting point - there are many other helpful resources out there. While you do not necessarily need to use R/R Studio for your data analysis, you will likely find that being able to work in R is an important transferable skill and important for your future career. Feel free to discuss with Dr. Feeney if you have any questions.\n\nGetting Started (ModernDive)\nR for Data Science (2nd edition)\nIntroduction to ggplot2\nggplot2 tutorial\n\n\n\n\nRdemo1.R: R script used for demo 1\nRdemo1.csv: .csv data file used for demo 1\nRdemo2.R: R script used for demo 2\nRdemo2.csv: .csv data file used for demo 2",
+    "objectID": "figures.html#guidesimportant-info-for-figure-preparation",
+    "href": "figures.html#guidesimportant-info-for-figure-preparation",
+    "title": "Preparing Figures",
+    "section": "Guides/Important Info for Figure Preparation",
+    "text": "Guides/Important Info for Figure Preparation\n\nRefer back to the Data presentation and figure preparation (BM432 workshop 6 materials) as needed.\nMaking model figures (slides for our discussion)\nBeyond Bar and Line Graphs: Time for a New Data Presentation Paradigm\nRead Ten Simple Rules for Better Figures\nDigital Images Are Data: And Should Be Treated as Such\nTen common statistical mistakes to watch out for when writing or reviewing a manuscript\nFundamentals of graphic design—essential tools for effective visual science communication\n11 Graphic Design Tips to Create Images Like a Pro",
     "crumbs": [
       "Home",
-      "Experimental Work",
-      "R Studio Resources"
+      "Thesis preparation",
+      "Preparing Figures"
+    ]
+  },
+  {
+    "objectID": "figures.html#other-useful-resources",
+    "href": "figures.html#other-useful-resources",
+    "title": "Preparing Figures",
+    "section": "Other Useful Resources",
+    "text": "Other Useful Resources\n\nBiorender\nImageJ Basics\nCoblis — Color Blindness Simulator\nData visualization with ggplot2 :: Cheat Sheet\n\n\n\n\n\n\n\nA few points about specific figure types (a.k.a. some of Morgan’s pet peeves)\n\n\n\n\nWhy You Must Plot Your Growth Data On Semi-log Graph Paper\nMake sure you include a scale on any images that need them (e.g., micrographs, phylogenetic trees)\nBy convention, figure titles and legends are presented below the corresponding figure, while table titles are presented above the corresponding table.\nMake sure your text is formatted correctly within your figure (e.g., species names should be italicized, gene and protein names should be formatted correctly)",
+    "crumbs": [
+      "Home",
+      "Thesis preparation",
+      "Preparing Figures"
     ]
   }
 ]
