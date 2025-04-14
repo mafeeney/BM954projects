@@ -3,12 +3,28 @@ title: "Project Schedule"
 page-layout: full
 ---
 
-This [project schedule](/assets/ProjectSchedule.docx) is intended as a guide to help you manage your time during your final year honours project. You should feel free to modify it as needed to best support your learning needs (for example, by adding additional key dates such as personal project milestones or modifying the suggested activities to better fit your schedule and needs).
+Every project is different, and thus, the schedule for each project will be different. The general expectation within SIPBS is that these projects should be treated like full-time jobs (e.g., you should be working from 9-5 M-F on them); however, there may be some scope for flexibility in working times/schedules, depending on your project needs. 
+
+You are expected to plan and be responsible for your own time. Some weeks may be busier than others, in terms of experimental work - on quieter weeks, you can spend your time wisely by reading the literature, working on your draft, analysing data, etc. 
+
+::: callout-tip
+
+Key to being able to successfully execute a project is the ability to *plan ahead*. You are strongly encouraged to come up with a draft schedule for your project in week 1, and to share/discuss this with Dr. Feeney (for feedback and suggestions on how to improve it. 
+
+When planning your work, you should be particularly aware of the time that it takes to execute an experiment and analyse the data: e.g., if you are incubating cells, they will take time to grow; if you are using a survey, you will need time to process and analyse the data after it has been collected.
+
+You may find it useful to use e.g., a [Gantt Chart](https://www.apm.org.uk/resources/find-a-resource/gantt-chart/) to plan your project, although this is not required. 
+
+:::
 
 You are expected to attend all meetings/group meetings. You should have completed any indicated activities for that meeting (listed in “What you should do to prepare”). You should also come prepared with any questions (e.g., about papers you have read, results from your experimental work, general questions about good scientific practices, etc.)
 
-Note that the resources provided (e.g., papers listed in the project descriptor, resources linked for each week) are only intended as a <u>starting point</u>. You are expected to search the literature independently (this is part of your project performance mark.) You are also strongly encouraged to seek out additional resources to support your learning and development as a researcher (e.g. time management apps/resources, ggplot2 tutorials, additional writing tips/guidance….)
+Note that the resources provided (e.g., papers listed in the project descriptor, resources linked in this website) are only intended as a <u>starting point</u>. You are expected to search the literature *independently* (this is part of your project performance mark.) You are also strongly encouraged to seek out additional resources to support your learning and development as a researcher (e.g. time management apps/resources, ggplot2 tutorials, additional writing tips/guidance….)
 
-You should make certain that you understand the points listed in the “Comprehension check” for each week and you should read the indicated resources/search the literature/check with Dr. Feeney for further guidance if you are not sure about any point.
+Please be sure to check the BM954 MyPlace page regularly for any updates to official deadlines.
 
-Please be sure to check the BM432 MyPlace page regularly for any updates to official deadlines.
+::: callout-important
+
+You *must* agree on deadlines for the submission of drafts with Dr. Feeney *in advance*. When considering this, take into account the fact that you will need time to incorporate Dr. Feeney's feedback before the final submission of your thesis. 
+
+:::

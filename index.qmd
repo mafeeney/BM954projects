@@ -1,11 +1,18 @@
 ---
-title: "BM432 project resources (Dr. Feeney's project students)"
+title: "BM954 project resources (Dr. Feeney's project students)"
 page-layout: full
 ---
 
-Hello, and welcome! These resources are designed to assist you as you complete your final year honours thesis with Dr. Feeney, and should be read in conjunction with official BM432 materials available on the course MyPlace page.
+Hello, and welcome! These resources are designed to assist you as you complete your MSc thesis with Dr. Feeney, and should be read in conjunction with official BM954 materials available on the course MyPlace page.
 
-Please read through the [project expectations](expectations.qmd) document and the learning agreement before our first meeting, and come prepared to discuss any questions you have.
+::: callout-note
+
+You may be here because you are doing your project work under Dr. Feeney's supervision, or because you are doing an industrial placement project as part of the IBioIC MSc in industrial biotechnology, and Dr. Feeney is your academic supervisor for that project.
+
+For students doing an industrial placement, you are welcome to make use of any of the resources on these pages; however, you should refer any questions about your project work, methods, and day-to-day questions about your project, to your industrial supervisor. 
+:::
+
+Please read through the [project expectations](expectations.qmd) document before our first meeting, and come prepared to discuss any questions you have.
 
 Useful resources can be accessed via the sidebar. Please report any broken links to Dr. Feeney and contact her with any questions about these materials.
 

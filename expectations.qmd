@@ -3,13 +3,13 @@ title: "Project Expectations"
 page-layout: full
 ---
 
-This may be your first time working on a scientific project, and/or your first time producing a scientific document (thesis). These guidelines are here to give you an idea of what to expect, and should be read in conjunction with the BM432 learning agreement (available on the module MyPlace page.) Please read through these expectations and bring any questions or concerns that you would like to discuss with Dr. Feeney to our first meeting.
+This may be your first time working on a scientific project, and/or your first time producing a scientific document (thesis). These guidelines are here to give you an idea of what to expect, and should be read in conjunction with the BM954 guidance (available on the module MyPlace page.) Please read through these expectations and bring any questions or concerns that you would like to discuss with Dr. Feeney to our first meeting.
 
 ### Science:
 
 -   Maintain a lab notebook, either on paper or electronically. Human memory is fallible! Your notebook should be thorough and legible -- if you come back to it in a month's time, you should be able to reconstruct what you did.
 
-    -   For each experiment, please write: Objective Background Methods, including deviations from established methods Results Conclusion
+    -   For each experiment, please write the Objective, Background, Methods (including deviations from established methods), Results, and Conclusion (Your future self will thank you for doing this!)
 
 -   Files should be saved with clear, concise file names and saved where you can find them again. **Back up your work frequently and in more than one place** -- you do not want to lose all of your data!
 
@@ -29,7 +29,7 @@ This may be your first time working on a scientific project, and/or your first t
 
 ### Kindness:
 
--   Be kind to yourself. Be mindful of your limits, and aware of the fact that you are still in the middle of a global pandemic -- give yourself credit for the hard work that you're doing every day.
+-   Be kind to yourself. Be mindful of your limits, and aware of the fact that you are still in the middle of a global pandemic/distressing news cycles -- give yourself credit for the hard work that you're doing every day.
 
 -   Be kind to others. Give them the benefit of the doubt when needed; remember that online communication often misses nuance or meaning. Remember that everyone is struggling right now and may not be able to be their best selves.
 
@@ -39,7 +39,7 @@ This may be your first time working on a scientific project, and/or your first t
 
 -   Clear, open, honest communication -- I cannot help if you don't let me know that there's a problem.
 
--   Meetings at least once a week in person or via Zoom (individual and/or group meetings). Zoom etiquette: turning your camera, microphone on/off is completely up to you, no pressure either way.
+-   Meetings at least once a week. The standard for meetings is that they are to be in person, on campus. In rare exceptions, meetings may be held via Zoom/Teams. [Online meeting etiquette: turning your camera, microphone on/off is completely up to you, no pressure either way.]
 
 -   Between meetings, I'm available by e-mail to answer questions or you can schedule a drop-in Zoom (depending on our schedules).
 
@@ -53,7 +53,7 @@ This may be your first time working on a scientific project, and/or your first t
 
     -   Ask questions in your lectures/open office sessions
 
-    -   Twitter (a great place to crowdsource science questions)
+    -   Twitter/BlueSky/etc. (you will often find interested experts in the field on social media, happy to chat about their favourite subject! *Don't* be a bother/expect them to do your work for you, but *do* engage politely and respectfully.)
 
 -   **How to ask for help**: ... after Google, reading papers, looking at manuals and FAQs has proven unhelpful!
 
@@ -89,14 +89,14 @@ This may be your first time working on a scientific project, and/or your first t
 
 -   Feedback on project performance
 
--   References (no need to ask for permission, but I do appreciate as much notice as possible)
+-   References when you are applying for jobs/PhDs/etc. in the future (please do give me some advance notice of these, as it helps me to plan my work and make sure that the reference is submitted on time)
 
 ::: callout-tip
 ### A few tips and suggestions for success
 
 -   Take care of yourself (a healthy mind requires a healthy body)
 
--   Stay organized Set yourself deadlines (but be flexible when need be)
+-   Stay organized. Set yourself deadlines (but be flexible when need be)
 
 -   Don't feel the need to write your draft in one go -- it's much better to work on it a little bit every day (marathon, not a sprint)
 

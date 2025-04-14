@@ -3,15 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "BM432 project resources"
+  title: "BM954 project resources"
   navbar:
     background: primary
-    left:
-      - href: index.qmd
-        text: Home
     tools:
-      - icon: twitter
-        href: https://twitter.com/Mostlymicrobia
       - icon: github
         href: https://github.com/mafeeney
       - icon: envelope
@@ -23,13 +18,15 @@ website:
     foreground: primary 
     search: true
     contents:
-      - section: "Intro"
+      - section: "Getting Started"
         contents:
           - expectations.qmd
           - management.qmd
           - schedule.qmd
+          - literature.qmd
       - section: "Experimental Work"
         contents:
+          - experimentaldesign.qmd
           - bioinformatics.qmd
           - twine.qmd
           - RStudio.qmd
@@ -39,6 +36,7 @@ website:
           - WritingExercises-overview.qmd
           - figures.qmd
           - methods.qmd
+          - AI.qmd
       - section: "Presentations"
         contents:
           - slides.qmd

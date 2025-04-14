@@ -15,7 +15,9 @@ Depending on your project, you may find the following resources useful - please 
 
 -   [ggplot2 tutorial](https://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
 
-### Files used in Morgan's R Studio tutorials
+### Files used in Morgan's R Studio tutorials 
+
+Demos for AY 2024-2025 projects
 
 - [Rdemo1.R](./assets/Rdemo1.csv): R script used for demo 1
 
@@ -26,4 +28,7 @@ Depending on your project, you may find the following resources useful - please 
 - [Rdemo2.csv](./assets/Rdemo1.csv): .csv data file used for demo 2
 
 
+### Additional tutorials
+
+- link Leighton's stuff here
 

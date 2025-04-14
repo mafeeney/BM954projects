@@ -23,13 +23,19 @@ page-layout: full
 
 9.  Figure legends should give enough detail about the experiment for the reader to understand what was done (the figure should be able to stand on its own)
 
+::: callout-tip
+
+When you have prepared your figure, go back through this checklist and ask yourself if you have addressed every point here. You may find it helpful to ask a friend or colleague to look at your figure and give you feedback: does it make sense to them? is anything missing, or could the figure be improved in some way?
+
+:::
+
 [Guidance on writing good figure titles and legends (with examples)](./assets/FigureTitleLegend.docx)
 
-## Guides/Important Info for Figure Preparation
+## Recommended Reading on Figure Preparation
 
--   Refer back to the [Data presentation and figure preparation](https://sipbs-compbiol.github.io/BM432/notebooks/04-data_presentation_workshop.html) (BM432 workshop 6 materials) as needed.
+-   You will very likely helpful to read through the workshop materials used in BM432 on [Data presentation and figure preparation](https://sipbs-compbiol.github.io/BM432/notebooks/04-data_presentation_workshop.html).
 
--   [Making model figures](./assets/Making_model_figures_workshop.pptx) (slides for our discussion)
+-   [Making model figures](./assets/Making_model_figures_workshop.pptx) (slides for discussing the use of model figures)
 
 -   [Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128)
 
@@ -60,7 +66,8 @@ page-layout: full
 
 -   Make sure you include a scale on any images that need them (e.g., micrographs, phylogenetic trees)
 
--   By convention, figure titles and legends are presented **below** the corresponding figure, while table titles are presented **above** the corresponding table.
+-   By convention, figure titles and legends are presented **below** the corresponding figure, while table titles are presented **above** the corresponding table.
 
 -   Make sure your text is formatted correctly within your figure (e.g., species names should be italicized, gene and protein names should be formatted correctly)
+
 :::

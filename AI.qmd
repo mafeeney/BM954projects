@@ -1,0 +1,17 @@
+---
+title: "Notes on the use of generative AI"
+page-layout: full
+---
+
+::: callout-important
+
+You should make certain you have read, and understood, the university's policy on the use of generative AI in coursework. 
+
+:::
+
+You may be tempted to use generative AI in writing your thesis, or in helping to generate ideas, polish drafts, perform data analysis tasks, etc. etc. 
+
+The purpose of this section is not to terrify you about the dangers of AI, or convince you that it is inherently evil (it is not), but to make sure that you are aware of the inherent limitations in AI relevant for the tasks you are doing in your project, and the potential dangers of AI use (and misuse). 
+
+Because generative AI draws on large language models, which , it has inherent limitations and biases which often result in poor performance for academic work. 
+

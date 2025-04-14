@@ -17,13 +17,13 @@ Depending on your project, you may find some of the following resources useful -
 
 ## Useful tools/websites
 
--   [Interactive Tree of Life (iTOL)](https://itol.embl.de/)
+-   [Interactive Tree of Life (iTOL)](https://itol.embl.de/): Useful for visualising phylogenetic trees, and editing their presentation
 
--   [ExPASy resource portal](https://www.expasy.org/)
+-   [ExPASy resource portal](https://www.expasy.org/): A suite of different bioinformatic resources
 
--   [JalView](https://www.jalview.org/) (multiple sequence alignment editing, visualisation and analysis)
+-   [JalView](https://www.jalview.org/): multiple sequence alignment editing, visualisation and analysis
 
--   [PyMol](https://pymol.org/2/) (3D molecular visualisation)
+-   [PyMol](https://pymol.org/2/): 3D molecular visualisation
 
 ## Streptomyces/actinomycetes resources
 
@@ -39,13 +39,13 @@ Depending on your project, you may find some of the following resources useful -
 
 - [Actinobacteriophage Database](https://phagesdb.org/)
 
-- [Phage tutorial 1](./assets/Galaxy_instructions_annotate_phage_genome.docx)
+- [Phage tutorial 1](./assets/Galaxy_instructions_annotate_phage_genome.docx): In this first tutorial, we go through how to create and name a new history in Galaxy, identify and import phage genome sequences into Galaxy, and annotate and examine the imported phage genomes
 
-- [Phage tutorial 2](./assets/Galaxy_instructions_phylogenetic_tree.docx)
+- [Phage tutorial 2](./assets/Galaxy_instructions_phylogenetic_tree.docx): In this tutorial, we work through how to create a phylogenetic tree for a gene/protein of interest
 
-- [Phage tutorial 3](./assets/Galaxy_instructions_downstream_analyses.docx)
+- [Phage tutorial 3](./assets/Galaxy_instructions_downstream_analyses.docx): in this tutorial, we go through some of the possible downstream analyses that can be done once you have identified gene(s) or protein(s) of interest in your phage genome, including: BLAST analysis, structural prediction/analysis, analysis of physicochemical properties, and codon usage calculations
 
-- [Phage tutorial 4](./assets/Galaxy_instructions_hostside.docx)
+- [Phage tutorial 4](./assets/Galaxy_instructions_hostside.docx): This tutorial looks at different ways of analysing the host genomes, including BLAST analysis, searching for CRISPR-Cas systems and other antiphage defenses, and analysis of secondary (specialised) metabolite production
 
 ## actDES resources
 
@@ -58,3 +58,7 @@ Depending on your project, you may find some of the following resources useful -
 -   [actDES FigShare page](https://microbiology.figshare.com/articles/dataset/ActDES-_a_Curated_Actinobacterial_Database_for_Evolutionary_Studies/13143407/1)
 
 -   [actDES Python script](https://github.com/PaulHoskisson/StrepEvo/blob/main/ActDES_python) and [YouTube walkthrough](https://www.youtube.com/watch?v=OdeuV9Iqw6M)
+
+## Additional selected tutorials
+
+- links to Leighton's stuff here

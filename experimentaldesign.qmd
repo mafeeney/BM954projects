@@ -1,0 +1,30 @@
+---
+title: "Experimental Design"
+page-layout: full
+---
+
+During the course of your thesis work, you will likely be carrying out a number of different experiments. These may take different forms: e.g., a wet lab experiment might involve disrupting a gene to test its function; a science communication experiment might involve using a survey to assess whether a particular piece of science communication is effective or not; a bioinformatics experiment might involve using a multiple sequence alignment tool to test whether a particular amino acid residue in a protein is well-conserved amongst a set of homologous proteins. 
+
+Regardless of the type of experiment, you will want to make sure that you are carrying it out to the best of your ability. You need, for example, to ensure that you are using the most appropriate technique and including any appropriate controls. 
+
+Good experimental design requires critical thought. You are *not* expected to blindly do experiments "because Dr. Feeney said so" or "because so-and-so did it this way". Instead, you should make certain that you are thinking about your experiments and making the best and most appropriate choices. 
+
+::: callout-tip
+## Morgan's top tips for good experimental design
+
+* Controls, controls, controls. Do you have an appropriate positive control and negative control (if appropriate for this type of experiment)? 
+
+* Will you be able to correctly interpret the results of your experiment, or might you be misled by false positives/false negatives/other errors? 
+
+* Make sure you have a clear hypothesis/aim, and that your experiment is actually able to test that hypothesis/achieve that aim. 
+
+* Change one thing at a time. Don't overcomplicate things, or try to do too much at once - simpler is generally better.
+
+* Have a plan for data analysis and statistical analysis *before you begin* - this should not be an afterthought. 
+
+:::
+
+The other pages in this section contain various resources for the different types of experiments you might be carrying out as part of your project (e.g., bioinformatics, science communication, etc.) - but as always, this is not meant to be taken as an exhaustive list. You are advised to read broadly, think deeply about your experiments, and discuss your experimental design in detail with Dr. Feeney. 
+
+Suggested reading about experimental design:
+

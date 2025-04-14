@@ -3,6 +3,17 @@ title: "Project and Time Management"
 page-layout: full
 ---
 
+Organising your project work, and managing your time effectively, may seem like very basic skills that require no guidance/help. However, both are fundamental and underpin not only your work in this project, but will likely be important for your work/career going forward. It is possible to improve your project and time management skills (and thus become a more effective worker) - but this takes attention and focus.
+
+::: callout-note
+
+Remember, your project performance mark contributes to your overall mark for the BM954 module. This includes your ability to manage your project independently, meet deadlines, come prepared to meetings, etc.
+
+:::
+
+This section is not intended to be a comprehensive guide to project and time management, but does provide a curated set of resources that may help you get started. 
+
+
 ::: callout-important
 ## Back up your work!!!
 
@@ -41,7 +52,7 @@ page-layout: full
 
 ## Links to some useful Project/Time Management Resources
 
--   You may find it helpful to use project planning tools such as [Trello](link), [Asana](), or similar tools that help to manage tasks/track completion/etc.
+-   You may find it helpful to use project planning tools such as [Trello](https://trello.com/), [Asana](https://asana.com/), or similar tools that help to manage tasks/track completion/etc.
 
 -   [Pomodoro Timer](https://pomofocus.io/) ([explanation of the Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique))
 
