@@ -28,3 +28,11 @@ The other pages in this section contain various resources for the different type
 
 Suggested reading about experimental design:
 
+* [MP968: Experimental Design Workshop](https://sipbs-compbiol.github.io/MP968-Workshop_Experimental_Design/): Dr Pritchard's workshop, which includes a very useful introduction to thinking about statistics in the context of experimental design (also contains references for further reading on the topic)
+
+* [Let's Experiment : A Guide for Scientists Working at the Bench](https://courses.ibiology.org/catalog/LE/SP/): An IBiology course (requires signup, but free)
+
+* Casadevall A, Fang FC. 2016. Rigorous science: a how-to guide. mBio 7(6):e01902-16. doi:10.1128/mBio.01902-16.
+
+*  Ruxton, Graeme D., and Nick. Colegrave. Experimental Design for the Life Sciences. 2nd ed. Oxford; New York: Oxford University Press, 2006. Print. [Available in the Strathclyde library]
+

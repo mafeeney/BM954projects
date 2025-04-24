@@ -7,11 +7,59 @@ page-layout: full
 
 You should make certain you have read, and understood, the university's policy on the use of generative AI in coursework. 
 
+* [Generative Artifical Intelligence and Copyright](https://guides.lib.strath.ac.uk/copyrightandgen-ai/coursework)
+
+* [Student FAQs](https://www.strath.ac.uk/professionalservices/educationenhancement/qualityassurance/useofgen-aiinlearningassessment/)
+
 :::
 
 You may be tempted to use generative AI in writing your thesis, or in helping to generate ideas, polish drafts, perform data analysis tasks, etc. etc. 
 
 The purpose of this section is not to terrify you about the dangers of AI, or convince you that it is inherently evil (it is not), but to make sure that you are aware of the inherent limitations in AI relevant for the tasks you are doing in your project, and the potential dangers of AI use (and misuse). 
 
-Because generative AI draws on large language models, which , it has inherent limitations and biases which often result in poor performance for academic work. 
+Because generative AI draws on large language models, which essentially rely on statistical relationships between words in their training set, it has inherent limitations and biases which often result in poor performance for academic work. 
 
+For example, a query about the famous, classic "PaJaMo" paper[^Pardee AB, Jacob F, Monod J. 1959. The genetic control and cytoplasmic expression of “inducibility” in the synthesis of β-galactosidase by E. coli. J Mol Biol 1:165–178.] (which our 3rd year students study in Fundamental Microbiology), produces the following AI overview[^on a Google query, 24 April 2025]:
+
+>**AI Overview**
+>The PaJaMo paper, published by Arthur Pardee, François Jacob, and Jacques Monod, demonstrated that the lac operon is regulated by a repressor protein. This "repressor" binds to a specific region of the DNA (the operator) and prevents the expression of the lac genes, effectively turning them off. The paper also showed that the inducer (lactose) can bind to the repressor, causing it to release from the operator and allowing gene expression to proceed. 
+>**Here's a more detailed explanation:**
+>**The lac operon:**
+>The lac operon is a group of genes in bacteria that are responsible for the metabolism of lactose. 
+>**Negative regulation:**
+>The PaJaMo experiment showed that the lac operon is negatively regulated, meaning that a repressor protein is responsible for turning the genes off. 
+>**The repressor:**
+>The lacI gene encodes a repressor protein that binds to the operator region of the lac operon. 
+>**The inducer (lactose):**
+>The inducer, lactose, binds to the repressor protein and causes it to release from the operator, allowing the lac genes to be expressed. 
+>**Diploid analysis:**
+>The PaJaMo experiment used diploid analysis, where cells with two copies of the chromosome were studied. This allowed them to determine the dominance and recessiveness of mutations in the lacI gene, leading to the discovery of the repressor. 
+
+At first glance, this *might* appear to be a plausible summary - at least, it contains content about the *lac* operon, and appears to be largely in agreement with modern knowledge of how the Lac repressor works. 
+
+However, closer reading will show that this text is actually blatantly and flagrantly incorrect. 
+
+For example:
+
+* Pardee, Jacob, and Monod, did **not** demonstrate that the lac operon was regulated by a repressor protein - in fact, they explicitly ask "What is the chemical nature of the repressor?". It was not shown to be a protein until much later[^Gilbert W, Müller-Hill B. Isolation of the lac repressor. Proc Natl Acad Sci U S A. 1966;56(6):1891-1898. doi:10.1073/pnas.56.6.1891] 
+
+* Likewise, it did **not** demonstrate that the inducer binds to the repressor.
+
+* The summary also contains numerous other errors, from failure to correctly format gene names, to claiming that the *lac* operon is "in bacteria" generally (whereas we now understand it to be specifically found only in certain species of bacteria, such as *Escherichia coli*), to claiming that the paper used diploid analysis (where it actually used **merodiploid** analysis). 
+
+::: callout-important
+
+If you do use AI tools during the course of your thesis project, you must ensure that you understand their limitations. You do not want to submit a thesis that contains blatantly incorrect information - firstly, because this is bad scientific/academic practice, but secondly, because your marks in the end will be consistent with this poor practice. 
+
+[If I were marking the PaJaMo paper summary above, according to the University Marking Scheme, I would mark it as a 20: 
+
+Clear fail: Weak demonstration of the learning outcomes
+The work is very weak or shows a decided lack of effort. The work demonstrates
+- Very poor or confused knowledge and understanding, with reference to only a few key words, phrases or key ideas
+- No argument or one based on irrelevant and erroneous content
+- Irrelevant content and extensive omissions
+- Weaknesses of presentation and/or logic and/or evidence
+- Inadequate evidence of learning
+- Incomplete or inadequately presented references, if any]
+
+:::

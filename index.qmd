@@ -16,4 +16,4 @@ Please read through the [project expectations](expectations.qmd) document before
 
 Useful resources can be accessed via the sidebar. Please report any broken links to Dr. Feeney and contact her with any questions about these materials.
 
-![](image.png){fig-alt="image of a phylogenetic tree and several Petri plates with bacteria" fig-align="center"}
+

@@ -30,13 +30,15 @@ website:
           - bioinformatics.qmd
           - twine.qmd
           - RStudio.qmd
-      - section: "Thesis preparation"
+      - section: "General Thesis Writing"
         contents:
           - writingtips.qmd
           - WritingExercises-overview.qmd
+          - AI.qmd
+      - section: "Writing Specific Thesis Sections"
+        contents:
           - figures.qmd
           - methods.qmd
-          - AI.qmd
       - section: "Presentations"
         contents:
           - slides.qmd
