@@ -138,7 +138,7 @@ The work is very weak or shows a decided lack of effort. The work demonstrates
 
 
 ::: callout-important
-## "Take-home message": Use AI tools with caution
+## Take-home message: Use AI tools with caution
 
 If you do use AI tools during the course of your thesis project, you must ensure that you understand their limitations. You do not want to submit a thesis that contains blatantly incorrect information - firstly, because this is bad scientific/academic practice, but secondly, because your marks in the end will be consistent with this poor practice. 
 

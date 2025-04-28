@@ -9,19 +9,26 @@ page-layout: full
 
 A great deal of academic writing is, to put it quite simply, very bad. It may be unnecessarily verbose, confusing, or unclear. Or, it may be written with no reference to the reader’s likely background knowledge or experience, leaving ideas that are quite clear in the writer’s mind inaccessible for most readers. Worst of all, it may indeed sometimes be written in a deliberately deceptive way - as Calvin says, inflating weak ideas and obscuring poor reasoning (Figure 1). All of these writing “sins” should be avoided.
 
-![](images/writing.png){fig-alt="Calvin and Hobbes cartoon" fig-align="center" fig-scap='Figure 1. Scientific writing. Image credit: Calvin and Hobbes, Bill Watterson.'}
+!['Figure 1. Scientific writing. Image credit: Calvin and Hobbes, Bill Watterson.'](images/writing.png){fig-alt="Calvin and Hobbes cartoon" fig-align="center"}
 
 Writing well is a skill that all scientists must develop with practice and through incorporating feedback from readers into their writing practice. Just as you would not expect to win a marathon or paint a masterpiece on the first attempt, you cannot expect your writing to be flawless when you first begin. Constant practice is essential.
 
-We will therefore give you the opportunity to practice your writing skills in the following set of exercises during your final year project. You do not need to read through the exercises or complete them in advance of our group meetings; however, the slides/documents for each exercise are provided below for your reference.
+## How to use these exercises
 
-The “Principles of Composition” exercises are largely based on Strunk &amp; White’s The Elements of Style, which is an excellent resource (available <a href="http://www.gutenberg.org/ebooks/37134">online</a> or at your friendly university library). In addition to the principles of composition we will be discussing, Strunk &amp; White contains sections on grammar and spelling, which may be helpful. However, there are many other style guides and writing resources available which you may wish to consult (see (add link here) for an inexhaustive list).
+There are two sets of writing exercises: *composition exercises*^[The “Principles of Composition” exercises are largely based on Strunk &amp; White’s The Elements of Style, which is an excellent resource (available <a href="http://www.gutenberg.org/ebooks/37134">online</a> or at your friendly university library). In addition to the principles of composition we will be discussing, Strunk &amp; White contains sections on grammar and spelling, which may be helpful. However, there are many other style guides and writing resources available which you may wish to consult (see (add link here) for an inexhaustive list).] intended to assist with basic composition (sentence and paragraph structure, word choice, etc.), and *structural exercises* intended to help you understand how to structure the different elements of your thesis, and how to follow the scientific conventions for each. 
 
-In addition to the weekly writing exercises we will work through in our group meetings, I have provided a set of exercises that aim to help you with various other aspects of scientific writing (add link here). You are encouraged to work through these in your own time.
+You are expected to complete these exercises in your own time, but encouraged to discuss any of them with Dr. Feeney during your weekly meetings. 
+
+::: callout-important
+
+You may complete these exercises at any time and in any order^[note that a suggested schedule for completing the structural exercises is provided in the []], but you are expected to have completed all of the composition exercises before submitting an initial draft to Dr. Feeney.
+
+:::
 
 Finally, please note that writing well and easily is a matter of constant practice (Figure 2). Try to make an effort to write a little every day; and whenever you write, evaluate your own writing, and seek out feedback on ways that you can improve. These are skills that you will find useful not just for writing your honours thesis, but throughout your studies and in your future career.
 
-![](images/writing2.png){fig-alt="PhD Comics cartoon about the difficulty of writing" fig-align="center" fig-scap='Figure 2. Writing shouldn’t be so hard. Image credit: PhD Comics.'}
+![Figure 2. Writing shouldn’t be so hard. Image credit: PhD Comics.](images/writing2.png){fig-alt="PhD Comics cartoon about the difficulty of writing" fig-align="center"}
+## Composition exercises
 
 1.  [Writing exercise 01](./assets/WritingExercises/Exercise01.docx): Evaluating Scientific Writing
 
@@ -45,7 +52,8 @@ Finally, please note that writing well and easily is a matter of constant practi
 
 11. [Writing exercise 11](./assets/WritingExercises/Exercise11.docx): Editing
 
-### Additional Exercises
+
+## Structural exercises
 
 You are encouraged to work through the following exercises independently, but please don't hesitate to discuss them with Dr. Feeney if you have any questions.
 

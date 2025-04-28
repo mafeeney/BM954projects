@@ -35,7 +35,7 @@ website:
           - writingtips.qmd
           - WritingExercises-overview.qmd
           - AI.qmd
-      - section: "Writing Specific Thesis Sections"
+      - section: "Guidance on Specific Thesis Sections"
         contents:
           - figures.qmd
           - methods.qmd
