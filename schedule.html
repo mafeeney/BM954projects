@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.43">
+<meta name="generator" content="quarto-1.7.30">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -30,15 +30,16 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-d4d76bf8491c20bad77d141916dc28e1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-b518ab6974a63409d13e266d7e0303c9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-ec34e6ab1de181a80910fb60e06f2fad.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -66,12 +67,58 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>
+div.callout-callout-check.callout {
+  border-left-color: #BA55D3;
+}
+div.callout-callout-check.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
+}
+div.callout-callout-check .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-check.callout-style-default .callout-icon::before, div.callout-callout-check.callout-titled .callout-icon::before {
+  content: '✨';
+  background-image: none;
+}
+div.callout-callout-data.callout {
+  border-left-color: #32CD32;
+}
+div.callout-callout-data.callout-style-default > .callout-header {
+  background-color: rgba(50, 205, 50, 0.13);
+}
+div.callout-callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-data.callout-style-default .callout-icon::before, div.callout-callout-data.callout-titled .callout-icon::before {
+  content: '📊';
+  background-image: none;
+}
+div.callout-callout-microbe.callout {
+  border-left-color: #1E90FF;
+}
+div.callout-callout-microbe.callout-style-default > .callout-header {
+  background-color: rgba(30, 144, 255, 0.13);
+}
+div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
+  content: '🧫';
+  background-image: none;
+}
+div.callout-callout-todo.callout {
+  border-left-color: pink;
+}
+div.callout-callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
+}
+div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
+  background-image: none;
+}
+</style>
 
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-sidebar docked nav-fixed">
+<body class="nav-sidebar docked nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -263,8 +310,24 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#how-to-make-a-project-schedule" id="toc-how-to-make-a-project-schedule" class="nav-link active" data-scroll-target="#how-to-make-a-project-schedule">How to make a project schedule</a></li>
+  <li><a href="#how-to-make-a-schedule-for-your-project" id="toc-how-to-make-a-schedule-for-your-project" class="nav-link active" data-scroll-target="#how-to-make-a-schedule-for-your-project">How to make a schedule for your project</a></li>
   <li><a href="#suggested-timeline" id="toc-suggested-timeline" class="nav-link" data-scroll-target="#suggested-timeline">Suggested timeline</a></li>
+  <li><a href="#suggested-project-timeline." id="toc-suggested-project-timeline." class="nav-link" data-scroll-target="#suggested-project-timeline.">Suggested project timeline.</a>
+  <ul class="collapse">
+  <li><a href="#week-1" id="toc-week-1" class="nav-link" data-scroll-target="#week-1">Week 1</a></li>
+  <li><a href="#week-2" id="toc-week-2" class="nav-link" data-scroll-target="#week-2">Week 2</a></li>
+  <li><a href="#week-3" id="toc-week-3" class="nav-link" data-scroll-target="#week-3">Week 3</a></li>
+  <li><a href="#week-4" id="toc-week-4" class="nav-link" data-scroll-target="#week-4">Week 4</a></li>
+  <li><a href="#week-5" id="toc-week-5" class="nav-link" data-scroll-target="#week-5">Week 5</a></li>
+  <li><a href="#week-6" id="toc-week-6" class="nav-link" data-scroll-target="#week-6">Week 6</a></li>
+  <li><a href="#week-7" id="toc-week-7" class="nav-link" data-scroll-target="#week-7">Week 7</a></li>
+  </ul></li>
+  <li><a href="#week-8" id="toc-week-8" class="nav-link" data-scroll-target="#week-8">Week 8</a>
+  <ul class="collapse">
+  <li><a href="#week-9" id="toc-week-9" class="nav-link" data-scroll-target="#week-9">Week 9</a></li>
+  <li><a href="#week-10" id="toc-week-10" class="nav-link" data-scroll-target="#week-10">Week 10</a></li>
+  <li><a href="#week-11---thesis-preparation-submission-and-presentation-weeks" id="toc-week-11---thesis-preparation-submission-and-presentation-weeks" class="nav-link" data-scroll-target="#week-11---thesis-preparation-submission-and-presentation-weeks">Week 11+ - Thesis preparation, submission, and presentation weeks:</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -290,8 +353,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="how-to-make-a-project-schedule" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-make-a-project-schedule">How to make a project schedule</h2>
+<section id="how-to-make-a-schedule-for-your-project" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-make-a-schedule-for-your-project">How to make a schedule for your project</h2>
 <p>Every project is different, and thus, the schedule for each project will be different. The general expectation within SIPBS is that these projects should be treated like full-time jobs (e.g., you should be working from 9-5 M-F on them); however, there may be some scope for flexibility in working times/schedules, depending on your project needs.</p>
 <p>You are expected to plan and be responsible for your own time. Some weeks may be busier than others, in terms of experimental work - on quieter weeks, you can spend your time wisely by reading the literature, working on your draft, analysing data, etc.</p>
 <div class="callout callout-style-default callout-tip callout-titled">
@@ -309,7 +372,7 @@ Tip
 <p>You may find it useful to use e.g., a <a href="https://www.apm.org.uk/resources/find-a-resource/gantt-chart/">Gantt Chart</a> to plan your project, although this is not required.</p>
 </div>
 </div>
-<p>You are expected to attend all meetings/group meetings. You should have completed any indicated activities for that meeting (listed in “What you should do to prepare”). You should also come prepared with any questions (e.g., about papers you have read, results from your experimental work, general questions about good scientific practices, etc.)</p>
+<p>You are expected to attend all meetings/group meetings. You should have completed any indicated activities for that meeting (as communicated in the previous meeting or by e-mail). You should also come prepared with any questions (e.g., about papers you have read, results from your experimental work, general questions about good scientific practices, etc.)</p>
 <p>Note that the resources provided (e.g., papers listed in the project descriptor, resources linked in this website) are only intended as a <b>starting point</b>. You are expected to search the literature <em>independently</em> (this is part of your project performance mark.) You are also strongly encouraged to seek out additional resources to support your learning and development as a researcher (e.g.&nbsp;time management apps/resources, ggplot2 tutorials, additional writing tips/guidance….)</p>
 <p>Please be sure to check the BM954 MyPlace page regularly for any updates to official deadlines.</p>
 <div class="callout callout-style-default callout-important callout-titled">
@@ -322,408 +385,676 @@ Important
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>You <em>must</em> agree on deadlines for the submission of drafts with Dr.&nbsp;Feeney <em>in advance</em>. When considering this, take into account the fact that you will need time to incorporate Dr.&nbsp;Feeney’s feedback before the final submission of your thesis.</p>
+<p>You <em>must</em> agree on deadlines for the submission of drafts with Dr.&nbsp;Feeney <em>in advance</em>. When considering this, take into account the fact that it takes time to read a draft and provide feedback (indicative time: department policy is normally 2 weeks; and that you will also need time to incorporate Dr.&nbsp;Feeney’s feedback before the final submission of your thesis.</p>
 </div>
 </div>
 </section>
 <section id="suggested-timeline" class="level2">
 <h2 class="anchored" data-anchor-id="suggested-timeline">Suggested timeline</h2>
-<p>The suggested timeline below (Table 1) is simply that - a suggestion, and perhaps an aid to starting your own project timeline. You will want to modify it as necessary for your own project; to suit your own working patterns, and to include your own specific project details.</p>
-<p>Table 1. Suggested project timeline.</p>
-<table class="caption-top table">
-<tbody>
-<tr class="odd">
-<td><h1 id="week">Week</h1>
-<p>1</p></td>
-<td>Suggested activities | Comprehension check | =====================================================================================================================+====================================================================================================================================================================================================================================================================================================================================================+ - Begin reading papers listed in the project descriptor | - Do you understand the project descriptor and can you identify appropriate keywords to begin your literature search? | | | - Begin literature search | - Do you have a plan for reference management and how you will store/organise your notes? | | | - Read the BM954 project guidelines | - Are you aware of the resources offered by the Strathclyde Library for <a href="https://www.strath.ac.uk/professionalservices/library/researchrevise/referencing/">referencing</a> and <a href="https://www.strath.ac.uk/studywithus/strathlife/academicsupport/">academic practices</a>? | | | - Read the <a href="./expectations.html">project expectations</a> and <a href="./management.html">project and time management</a> documents | - Have you read MF’s <a href="./AI.html">Notes on the use of generative AI</a>? | | - Read the <a href="./WritingExercises-overview.html">Writing exercises intro</a> and complete exercise S1 | |</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>2</td>
-<td><ul>
+<p>The suggested timeline below (Table 1) is simply that - a suggestion, and perhaps an aid to starting your own project timeline. You will want to modify it as necessary for your own project; to suit your own working patterns, and to include your own specific project details (taking into account, for example, the time required to carry out an experiment and process the data).</p>
+</section>
+<section id="suggested-project-timeline." class="level2">
+<h2 class="anchored" data-anchor-id="suggested-project-timeline.">Suggested project timeline.</h2>
+<section id="week-1" class="level3">
+<h3 class="anchored" data-anchor-id="week-1">Week 1</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><p>Begin reading papers listed in the project descriptor</p></li>
+<li><p>Begin literature search</p></li>
+<li><p>Read the BM954 project guidelines, and the <a href="./expectations.html">project expectations</a> and <a href="./management.html">project and time management</a> documents</p></li>
+<li><p>Read the <a href="./WritingExercises-overview.html">Writing exercises intro</a> and complete exercise S1</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><p>Are you aware of the resources offered by the Strathclyde Library for <a href="https://www.strath.ac.uk/professionalservices/library/researchrevise/referencing/">referencing</a> and <a href="https://www.strath.ac.uk/studywithus/strathlife/academicsupport/">academic practices</a>?</p></li>
+<li><p>Do you have a plan for reference management and how you will store/organise your notes?</p></li>
+<li><p>Have you read MF’s <a href="./AI.html">Notes on the use of generative AI</a>?</p></li>
+<li><p>Do you understand the project descriptor and can you identify appropriate keywords to begin your literature search?</p></li>
+<li><p>Do you understand the structure of a scientific paper and know how to critically read one?</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="week-2" class="level3">
+<h3 class="anchored" data-anchor-id="week-2">Week 2</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Continue literature search/reading papers</p></li>
 <li><p>Start outlining thesis introduction</p></li>
 <li><p>Complete writing exercise S2</p></li>
-</ul></td>
-<td><ul>
-<li><p>Do you understand the structure of a scientific paper and know how to critically read one?</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Are you using appropriate strategies (keywords and filters) for searching the literature? Are there any key papers that you might be missing?</p></li>
 <li><p>Do you understand what makes a good and useful outline? check out some resources for writing outlines such as <a href="https://owl.purdue.edu/owl/general_writing/the_writing_process/developing_an_outline/how_to_outline.html">how to outline</a> and <a href="https://learningcenters.rutgers.edu/resources/importance-outlining">the importance of outlining</a></p></li>
-<li><p>Do you have a detailed plan for how you will carry out your experimental work? Do you have a plan for data management?</p></li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>3</td>
-<td><ul>
+<li><p>Do you have a detailed plan for how you will carry out your experimental work when you start your work? Do you have a plan for data management?</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="week-3" class="level3">
+<h3 class="anchored" data-anchor-id="week-3">Week 3</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Continue literature search/reading papers</p></li>
 <li><p>Begin drafting thesis introduction</p></li>
 <li><p>Begin experimental work</p></li>
 <li><p>Complete writing exercise S3</p></li>
-</ul></td>
-<td><ul>
-<li>Have you read through, and do you understand, MF’s <a href="https://mafeeney.github.io/BM432projects/writingtips.html">general writing tips</a>? Do you understand how to logically structure a paragraph? As you begin to write, are you organising your introduction in a logical way? | |</li>
-<li>Can you express the aims and hypothesis of your project in your own words? | |</li>
-<li>Are you using a correct citation method? | |</li>
-<li>As you begin your experiments, do you understand what details you should be recording in order to <a href="./methods.html">write your methods section</a>? |</li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>4</td>
-<td><ul>
-<li>Submit thesis intro draft to MF for feedback | - Have you looked at the <a href="./assets/Thesis_submission_checklist.docx">Thesis Submission checklist</a> and do you understand how your introduction and methods sections should be formatted? | | |</li>
-<li>Continue experimental work | - Do you understand your research methods and know how to troubleshoot your experiments? | | |</li>
-<li>Continue reading appropriate literature | - Have you read and understood MF’s section on <a href="./experimentaldesign.html">Experimental Design</a>, and looked at the relevant resources available for different types of projects? | | |</li>
-<li>Read the <a href="./methods.html">Writing a Methods Section</a> and begin drafting methods section | | | |</li>
-<li>Complete writing exercise S4 | |</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>5</td>
-<td><ul>
-<li>Continue: experimental work, reading appropriate literature; writing methods section | - Do you have a plan for your data analysis (including any necessary statistical methods)? | | |</li>
-<li>Read the <a href="./figures.html">Preparing Figures</a> section and <a href="./RStudio.html">R Studio Resources</a> sections | - Do you understand the elements necessary in a scientific figure and how to prepare a figure? | | |</li>
-<li>Begin drafting an outline of figures/tables for your thesis | - Do you understand how to tell a scientific story in a logical order? | | |</li>
-<li>Complete writing exercise S5 | |</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>6</td>
-<td><ul>
+<li><p>Submit thesis intro draft to MF for feedback [date to be agreed with MF in advance]</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><p>Can you express the aims and hypothesis of your project in your own words? Can you explain how it relates to the literature and what has previously been done in the field?</p></li>
+<li><p>Have you read through, and do you understand, MF’s <a href="https://mafeeney.github.io/BM432projects/writingtips.html">general writing tips</a>? Do you understand how to logically structure a paragraph? As you begin to write, are you organising your introduction in a logical way?</p></li>
+<li><p>Have you looked at the <a href="./assets/Thesis_submission_checklist.docx">Thesis Submission checklist</a> and do you understand how your introduction and methods sections should be formatted?</p></li>
+<li><p>Are you using a correct citation method?</p></li>
+<li><p>As you begin your experiments, do you understand what details you should be recording in order to <a href="./methods.html">write your methods section</a>?</p></li>
+<li><p>Do you understand what kind of feedback you can expect on your thesis intro draft and do you have a plan for how you can act on this feedback?</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="week-4" class="level3">
+<h3 class="anchored" data-anchor-id="week-4">Week 4</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><p>Continue experimental work</p></li>
+<li><p>Continue reading appropriate literature</p></li>
+<li><p>Read the <a href="./methods.html">Writing a Methods Section</a> document and begin drafting your methods section</p></li>
+<li><p>Complete writing exercise S4</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><p>Do you understand your research methods and know how to troubleshoot your experiments?</p></li>
+<li><p>Have you read and understood MF’s section on <a href="./experimentaldesign.html">Experimental Design</a>, and looked at the relevant resources available for different types of projects?</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="week-5" class="level3">
+<h3 class="anchored" data-anchor-id="week-5">Week 5</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><p>Continue: experimental work, reading appropriate literature; writing methods section</p></li>
+<li><p>Read the <a href="./figures.html">Preparing Figures</a> section and <a href="./RStudio.html">R Studio Resources</a> sections</p></li>
+<li><p>Complete writing exercise S5</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><p>Do you understand the elements necessary in a scientific figure and how to prepare a figure? Begin drafting an outline of figures/tables for your thesis</p></li>
+<li><p>Do you understand how to tell a scientific story in a logical order?</p></li>
+<li><p>Do you have a plan for your data analysis (including any necessary statistical methods)?</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="week-6" class="level3">
+<h3 class="anchored" data-anchor-id="week-6">Week 6</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Continue: experimental work, reading appropriate literature; writing methods section</p></li>
 <li><p>Begin preparing figures and tables for your thesis</p></li>
-<li><p>Discuss intro feedback with MF and begin revising introduction section</p></li>
+<li><p>Discuss intro feedback with MF (depending on date agreed for feedback return) and begin revising introduction section</p></li>
 <li><p>Complete writing exercise S6</p></li>
-</ul></td>
-<td><ul>
-<li><p>Do you understand what kind of feedback you can expect on your thesis intro and do you have a plan for how you can act on this feedback?</p></li>
-<li><p>Do you have a plan for “version control” and making revisions to your thesis intro?</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Do you understand how to write a good figure title and legend?</p></li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>7</td>
-<td><ul>
+<li><p>Do you have a plan for “version control” and making revisions to your thesis intro?</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="week-7" class="level3">
+<h3 class="anchored" data-anchor-id="week-7">Week 7</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Continue: experimental work, reading appropriate literature; writing methods section; preparing figures</p></li>
 <li><p>Begin writing results section</p></li>
 <li><p>Complete writing exercise S7</p></li>
-</ul></td>
-<td><ul>
-<li><p>Do you understand how to structure a results section?</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Can you clearly link your experiments and results to your initial hypothesis and aim(s)?</p></li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>8</td>
-<td><ul>
+<li><p>Do you understand how to structure a results section?</p></li>
+</ul>
+</div>
+</div>
+</section>
+</section>
+<section id="week-8" class="level2">
+<h2 class="anchored" data-anchor-id="week-8">Week 8</h2>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Finish experimental work</p></li>
 <li><p>Finish writing methods section</p></li>
 <li><p>Continue: preparing figures, writing results section, reading appropriate literature</p></li>
 <li><p>Complete writing exercise S8</p></li>
-</ul></td>
-<td><ul>
-<li><p>Have you checked that your methods section contains an appropriate amount of detail and is sufficient for replication?</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Have you confirmed that your results files (raw data) are saved in an appropriate format and accompanied by appropriate metadata and readme files where needed?</p></li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>9</td>
-<td><ul>
+<li><p>Have you checked that your methods section contains an appropriate amount of detail and is sufficient for replication?</p></li>
+</ul>
+</div>
+</div>
+<section id="week-9" class="level3">
+<h3 class="anchored" data-anchor-id="week-9">Week 9</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Finish preparing figures and tables; writing results section</p></li>
 <li><p>Begin engaging with the relevant literature for writing your discussion section</p></li>
 <li><p>Draft an outline of key points for your discussion section; discuss these with MF; and begin writing discussion</p></li>
 <li><p>Complete writing exercise S9</p></li>
-</ul></td>
-<td><ul>
-<li><p>Do you understand the structure and necessary elements required for a good discussion section?</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Have you confirmed that your thesis figures and tables are prepared in an appropriate format and are publication-quality? Have you reviewed essential aspects of data visualisation and applied them to your figures/tables?</p></li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>10</td>
-<td><ul>
+<li><p>Do you understand the structure and necessary elements required for a good discussion section?</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="week-10" class="level3">
+<h3 class="anchored" data-anchor-id="week-10">Week 10</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Finish writing discussion section</p></li>
 <li><p>Write abstracts</p></li>
 <li><p>Decide on a title for your thesis</p></li>
-<li><p>Submit final draft to MF for feedback</p></li>
+<li><p>Submit final draft to MF for feedback [date to be confirmed in advance with MF]</p></li>
 <li><p>Submit all raw data and lab notebook files to MF</p></li>
 <li><p>Complete writing exercise S10</p></li>
-</ul></td>
-<td><ul>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Do you understand how to structure an abstract? What makes an effective abstract, and the difference between lay and technical abstracts?</p></li>
 <li><p>Do you understand what makes a good, effective, thesis title?</p></li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>11+</td>
-<td><p>Thesis preparation, submission, and presentation weeks:</p>
+</ul>
+</div>
+</div>
+</section>
+<section id="week-11---thesis-preparation-submission-and-presentation-weeks" class="level3">
+<h3 class="anchored" data-anchor-id="week-11---thesis-preparation-submission-and-presentation-weeks">Week 11+ - Thesis preparation, submission, and presentation weeks:</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <ul>
 <li><p>Begin preparing slides for presentation</p></li>
 <li><p>Submit slides to MF for feedback and revise presentation</p></li>
-<li><p>Practice thesis presentation</p></li>
+<li><p>Practice presentation (many times)</p></li>
 <li><p>Review feedback on thesis draft, and incorporate this into your work as you revise and prepare your final draft</p></li>
-</ul></td>
-<td><ul>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Have you read and understood the <a href="https://mafeeney.github.io/BM432projects/slides.html">presentation preparation resources</a>?</p></li>
+<li><p>Have you thought about the differences in data visualisation/presentation for an oral presentation vs.&nbsp;a written thesis, and adapted your figures for your slides appropriately?</p></li>
+<li><p>Have you thought about the types of questions your audience/markers might ask after your thesis presentation? If necessary, have you provided supplemental slides with data/figures needed to answer these questions?</p></li>
 <li><p>Have you reviewed the Thesis Submission checklist and ensured that your thesis is correctly formatted?</p></li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+</ul>
+</div>
+</div>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
-window.document.addEventListener("DOMContentLoaded", function (event) {
-  const toggleBodyColorMode = (bsSheetEl) => {
-    const mode = bsSheetEl.getAttribute("data-mode");
-    const bodyEl = window.document.querySelector("body");
-    if (mode === "dark") {
-      bodyEl.classList.add("quarto-dark");
-      bodyEl.classList.remove("quarto-light");
-    } else {
-      bodyEl.classList.add("quarto-light");
-      bodyEl.classList.remove("quarto-dark");
-    }
-  }
-  const toggleBodyColorPrimary = () => {
-    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
-    if (bsSheetEl) {
-      toggleBodyColorMode(bsSheetEl);
-    }
-  }
-  toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
-  const isCodeAnnotation = (el) => {
-    for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
-        return true;
-      }
-    }
-    return false;
-  }
-  const onCopySuccess = function(e) {
-    // button target
-    const button = e.trigger;
-    // don't keep focus
-    button.blur();
-    // flash "checked"
-    button.classList.add('code-copy-button-checked');
-    var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
-    let tooltip;
-    if (window.bootstrap) {
-      button.setAttribute("data-bs-toggle", "tooltip");
-      button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
-      tooltip = new bootstrap.Tooltip(button, 
-        { trigger: "manual", 
-          customClass: "code-copy-button-tooltip",
-          offset: [0, -8]});
-      tooltip.show();    
-    }
-    setTimeout(function() {
-      if (tooltip) {
-        tooltip.hide();
-        button.removeAttribute("data-bs-title");
-        button.removeAttribute("data-bs-toggle");
-        button.removeAttribute("data-bs-placement");
-      }
-      button.setAttribute("title", currentTitle);
-      button.classList.remove('code-copy-button-checked');
-    }, 1000);
-    // clear code selection
-    e.clearSelection();
-  }
-  const getTextToCopy = function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-    text: getTextToCopy
-  });
-  clipboard.on('success', onCopySuccess);
-  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-      text: getTextToCopy,
-      container: window.document.getElementById('quarto-embedded-source-code-modal')
-    });
-    clipboardModal.on('success', onCopySuccess);
-  }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/mafeeney\.github\.io\/BM954projects\/");
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-        // undo the damage that might have been done by quarto-nav.js in the case of
-        // links that we want to consider external
-        if (link.dataset.originalHref !== undefined) {
-          link.href = link.dataset.originalHref;
-        }
-      }
-    }
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
-    const config = {
-      allowHTML: true,
-      maxWidth: 500,
-      delay: 100,
-      arrow: false,
-      appendTo: function(el) {
-          return el.parentElement;
-      },
-      interactive: true,
-      interactiveBorder: 10,
-      theme: 'quarto',
-      placement: 'bottom-start',
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
     };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
-    window.tippy(el, config); 
-  }
-  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-  for (var i=0; i<noterefs.length; i++) {
-    const ref = noterefs[i];
-    tippyHover(ref, function() {
-      // use id or data attribute instead here
-      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-      try { href = new URL(href).hash; } catch {}
-      const id = href.replace(/^#\/?/, "");
-      const note = window.document.getElementById(id);
-      if (note) {
-        return note.innerHTML;
-      } else {
-        return "";
-      }
-    });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
         }
       }
+      return false;
     }
-    stripColumnClz(note)
-    if (id === null || id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        container.appendChild(note.children[0].cloneNode(true));
-        for (let i = 1; i < note.children.length; i++) {
-          const child = note.children[i];
-          if (child.tagName === "P" && child.innerText === "") {
-            continue;
-          } else {
-            container.appendChild(child.cloneNode(true));
-            break;
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
           }
         }
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(container);
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/mafeeney\.github\.io\/BM954projects\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
         }
-        return container.innerHTML
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
       } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
         if (window.Quarto?.typesetMath) {
           window.Quarto.typesetMath(note);
         }
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(note);
-      }
-      if (note.classList.contains("callout")) {
-        return note.outerHTML;
-      } else {
-        return note.innerHTML;
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
       }
     }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
           }
         } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
           .then(res => res.text())
           .then(html => {
             const parser = new DOMParser();
             const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
+            const note = htmlDoc.querySelector('main.content');
             if (note !== null) {
-              const html = processXRef(id, note);
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
               instance.setContent(html);
             } 
           }).finally(() => {
@@ -731,185 +1062,161 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
-      }
-    }, function(instance) {
-    });
-  }
-      let selectedAnnoteEl;
-      const selectorForAnnotation = ( cell, annotation) => {
-        let cellAttr = 'data-code-cell="' + cell + '"';
-        let lineAttr = 'data-code-annotation="' +  annotation + '"';
-        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-        return selector;
-      }
-      const selectCodeLines = (annoteEl) => {
-        const doc = window.document;
-        const targetCell = annoteEl.getAttribute("data-target-cell");
-        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-        const lineIds = lines.map((line) => {
-          return targetCell + "-" + line;
-        })
-        let top = null;
-        let height = null;
-        let parent = null;
-        if (lineIds.length > 0) {
-            //compute the position of the single el (top and bottom and make a div)
-            const el = window.document.getElementById(lineIds[0]);
-            top = el.offsetTop;
-            height = el.offsetHeight;
-            parent = el.parentElement.parentElement;
-          if (lineIds.length > 1) {
-            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-            height = bottom - top;
-          }
-          if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
-            let div = window.document.getElementById("code-annotation-line-highlight");
-            if (div === null) {
-              div = window.document.createElement("div");
-              div.setAttribute("id", "code-annotation-line-highlight");
-              div.style.position = 'absolute';
-              parent.appendChild(div);
-            }
-            div.style.top = top - 2 + "px";
-            div.style.height = height + 4 + "px";
-            div.style.left = 0;
-            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-            if (gutterDiv === null) {
-              gutterDiv = window.document.createElement("div");
-              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-              gutterDiv.style.position = 'absolute';
-              const codeCell = window.document.getElementById(targetCell);
-              const gutter = codeCell.querySelector('.code-annotation-gutter');
-              gutter.appendChild(gutterDiv);
-            }
-            gutterDiv.style.top = top - 2 + "px";
-            gutterDiv.style.height = height + 4 + "px";
-          }
-          selectedAnnoteEl = annoteEl;
-        }
-      };
-      const unselectCodeLines = () => {
-        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-        elementsIds.forEach((elId) => {
-          const div = window.document.getElementById(elId);
-          if (div) {
-            div.remove();
-          }
-        });
-        selectedAnnoteEl = undefined;
-      };
-        // Handle positioning of the toggle
-    window.addEventListener(
-      "resize",
-      throttle(() => {
-        elRect = undefined;
-        if (selectedAnnoteEl) {
-          selectCodeLines(selectedAnnoteEl);
-        }
-      }, 10)
-    );
-    function throttle(fn, ms) {
-    let throttle = false;
-    let timer;
-      return (...args) => {
-        if(!throttle) { // first call gets through
-            fn.apply(this, args);
-            throttle = true;
-        } else { // all the others get throttled
-            if(timer) clearTimeout(timer); // cancel #2
-            timer = setTimeout(() => {
-              fn.apply(this, args);
-              timer = throttle = false;
-            }, ms);
-        }
-      };
-    }
-      // Attach click handler to the DT
-      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-      for (const annoteDlNode of annoteDls) {
-        annoteDlNode.addEventListener('click', (event) => {
-          const clickedEl = event.target;
-          if (clickedEl !== selectedAnnoteEl) {
-            unselectCodeLines();
-            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-            if (activeEl) {
-              activeEl.classList.remove('code-annotation-active');
-            }
-            selectCodeLines(clickedEl);
-            clickedEl.classList.add('code-annotation-active');
-          } else {
-            // Unselect the line
-            unselectCodeLines();
-            clickedEl.classList.remove('code-annotation-active');
-          }
-        });
-      }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
-    }
-  };
-  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-  for (var i=0; i<bibliorefs.length; i++) {
-    const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
-          }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
+      }, function(instance) {
       });
     }
-  }
-});
-</script>
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
 </div> <!-- /content -->
 
 
