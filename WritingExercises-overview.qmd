@@ -15,60 +15,69 @@ Writing well is a skill that all scientists must develop with practice and throu
 
 ## How to use these exercises
 
-There are two sets of writing exercises: *composition exercises*^[The “Principles of Composition” exercises are largely based on Strunk &amp; White’s The Elements of Style, which is an excellent resource (available <a href="http://www.gutenberg.org/ebooks/37134">online</a> or at your friendly university library). In addition to the principles of composition we will be discussing, Strunk &amp; White contains sections on grammar and spelling, which may be helpful. However, there are many other style guides and writing resources available which you may wish to consult (see (add link here) for an inexhaustive list).] intended to assist with basic composition (sentence and paragraph structure, word choice, etc.), and *structural exercises* intended to help you understand how to structure the different elements of your thesis, and how to follow the scientific conventions for each. 
+There are two sets of writing exercises: 
+
+- *composition exercises*^[The “Principles of Composition” exercises are largely based on Strunk &amp; White’s The Elements of Style, which is an excellent resource (available <a href="http://www.gutenberg.org/ebooks/37134">online</a> or at your friendly university library). In addition to the principles of composition we will be discussing, Strunk &amp; White contains sections on grammar and spelling, which may be helpful. However, there are many other style guides and writing resources available which you may wish to consult (see (add link here) for an inexhaustive list).] intended to assist with basic composition (sentence and paragraph structure, word choice, etc.)
+
+- *structural exercises* intended to help you understand how to structure the different elements of your thesis, and how to follow the scientific conventions for each. 
 
 You are expected to complete these exercises in your own time, but encouraged to discuss any of them with Dr. Feeney during your weekly meetings. 
 
 ::: callout-important
 
-You may complete these exercises at any time and in any order^[note that a suggested schedule for completing the structural exercises is provided in the []], but you are expected to have completed all of the composition exercises before submitting an initial draft to Dr. Feeney.
+You may complete these exercises at any time and in any order^[note that a suggested schedule for completing the structural exercises is provided in the Project Schedule], but you are expected to have completed all of the composition exercises before submitting an initial draft to Dr. Feeney.
 
 :::
 
-Finally, please note that writing well and easily is a matter of constant practice (Figure 2). Try to make an effort to write a little every day; and whenever you write, evaluate your own writing, and seek out feedback on ways that you can improve. These are skills that you will find useful not just for writing your honours thesis, but throughout your studies and in your future career.
+Finally, please note that writing well and easily is a matter of constant practice (Figure 2). Try to make an effort to write a little every day; and whenever you write, evaluate your own writing, and seek out feedback on ways that you can improve. These are skills that you will find useful not just for writing your thesis, but throughout your studies and in your future career.
 
 ![Figure 2. Writing shouldn’t be so hard. Image credit: PhD Comics.](images/writing2.png){fig-alt="PhD Comics cartoon about the difficulty of writing" fig-align="center"}
 ## Composition exercises
 
-1.  [Writing exercise 01](./assets/WritingExercises/Exercise01.docx): Evaluating Scientific Writing
+1.  [Writing composition exercise C01](./assets/WritingExercises/C01.docx): Use definite, specific, concrete language; Put statements in positive form
 
-2.  [Writing exercise 02](./assets/WritingExercises/Exercise02.docx): Paragraph Structure; using topic sentences and organizing the logical flow of information in a paragraph
+2.  [Writing exercise C02](./assets/WritingExercises/C02.docx): Omit needless words
 
-3.  [Writing exercise 03](./assets/WritingExercises/Exercise03.docx): Use definite, specific, concrete language; Put statements in positive form
+3.  [Writing exercise C03](./assets/WritingExercises/C03.docx): Active vs. passive voice and choice of verb tenses
 
-4.  [Writing exercise 04](./assets/WritingExercises/Exercise04.docx): Omit needless words; tips for succinct, concise writing
+4.  [Writing exercise C04](./assets/WritingExercises/C04.docx): Using transitional words
 
-5.  [Writing exercise 05](./assets/WritingExercises/Exercise05.docx): Active vs. passive voice and choice of verb tenses
+5.  [Writing exercise C05](./assets/WritingExercises/C05.docx): Sentence structure considerations (use parallel construction, keep related words together, place emphasis at the end of sentences)
 
-6.  [Writing exercise 06](./assets/WritingExercises/Exercise06.docx): Use of transition words/phrases
+6.  [Writing exercise C06](./assets/WritingExercises/C06.docx): Avoiding jargon, acronyms, and abbreviations
 
-7.  [Writing exercise 07](./assets/WritingExercises/Exercise07.docx): Sentence structure considerations (use parallel construction, keep related words together, place emphasis at the end of sentences)
+7.  [Writing exercise C07](./assets/WritingExercises/C07.docx): Word choice considerations
 
-8.  [Writing exercise 08](./assets/WritingExercises/Exercise08.docx): Avoiding jargon, acronyms, and abbreviations
 
-9.  [Writing exercise 09](./assets/WritingExercises/Exercise09.docx): Word choice considerations
-
-10. [Writing exercise 10](./assets/WritingExercises/Exercise10.docx): Experimental narratives (how to describe an experiment)
-
-11. [Writing exercise 11](./assets/WritingExercises/Exercise11.docx): Editing
 
 
 ## Structural exercises
 
-You are encouraged to work through the following exercises independently, but please don't hesitate to discuss them with Dr. Feeney if you have any questions.
+1. [Writing structure exercise S01](./assets/WritingExercises/S01.docx): Evaluating Scientific Writing
 
-1. [Additional exercise 01](./assets/WritingExercises/AdditionalExercises01.docx): Paragraph structure
+2. [Writing structure exercise S02](./assets/WritingExercises/Ss02.docx): Paragraph Structure; using topic sentences and organizing the logical flow of information in a paragraph
 
-2. [Additional exercise 02](./assets/WritingExercises/AdditionalExercises02.docx): Sentence structure/form (more practice with some of Strunk & White's Principles of Composition)
+Sentence structure/form (more practice with some of Strunk & White's Principles of Composition)
 
-3. [Additional exercise 03](./assets/WritingExercises/AdditionalExercises03.docx): Hypotheses --- [Additional exercise 03 with Brucella hypothesis examples discussed in our meeting](./assets/WritingExercises/AdditionalExercises03-withBrucella-hypoth-examples.docx)
+3. [Writing structure exercise S03](./assets/WritingExercises/S03.docx): Formulating a hypothesis 
 
-4. [Additional exercise 04](./assets/WritingExercises/AdditionalExercises04.docx): Structuring your introduction --- [example outline for antimycin biosynthesis paper](./assets/WritingExercises/antimycin-intro-outline.docx)
+4. [Writing structure exercise S04](./assets/WritingExercises/S04.docx): Structuring your introduction 
 
-5. [Additional exercise 05](./assets/WritingExercises/AdditionalExercises05.docx): Writing a methods section
+5. [Writing structure exercise S05](./assets/WritingExercises/S05.docx): Writing a methods section
 
-6. [Additional exercise 06](./assets/WritingExercises/AdditionalExercises06.docx): Figure Narrative
+6. [Writing structure exercise S06](./assets/WritingExercises/S06.docx): Experimental narratives
 
+7. [Writing structure exercise S07](./assets/WritingExercises/S07.docx): Figure legends - see also the "Guidance on writing a good figure title and legend" in [Preparing Figures](./figures.qmd)
+
+8. [Writing structure exercise S08](./assets/WritingExercises/S08.docx): Model Figures
+
+9. [Writing structure exercise S09](./assets/WritingExercises/S09.docx): Writing a discussion
+
+10. [Writing structure exercise S10](./assets/WritingExercises/S10.docx): Abstracts
+
+11. [Writing structure exercise S11](./assets/WritingExercises/S11.docx): Editing
+
+TITLES
 
 ## Concluding Thoughts
 

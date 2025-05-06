@@ -3,7 +3,7 @@ title: "Project Schedule"
 page-layout: full
 ---
 
-## How to make a project schedule
+## How to make a schedule for your project
 
 Every project is different, and thus, the schedule for each project will be different. The general expectation within SIPBS is that these projects should be treated like full-time jobs (e.g., you should be working from 9-5 M-F on them); however, there may be some scope for flexibility in working times/schedules, depending on your project needs.
 
@@ -17,118 +17,285 @@ When planning your work, you should be particularly aware of the time that it ta
 You may find it useful to use e.g., a [Gantt Chart](https://www.apm.org.uk/resources/find-a-resource/gantt-chart/) to plan your project, although this is not required.
 :::
 
-You are expected to attend all meetings/group meetings. You should have completed any indicated activities for that meeting (listed in “What you should do to prepare”). You should also come prepared with any questions (e.g., about papers you have read, results from your experimental work, general questions about good scientific practices, etc.)
+You are expected to attend all meetings/group meetings. You should have completed any indicated activities for that meeting (as communicated in the previous meeting or by e-mail). You should also come prepared with any questions (e.g., about papers you have read, results from your experimental work, general questions about good scientific practices, etc.)
 
 Note that the resources provided (e.g., papers listed in the project descriptor, resources linked in this website) are only intended as a <b>starting point</b>. You are expected to search the literature *independently* (this is part of your project performance mark.) You are also strongly encouraged to seek out additional resources to support your learning and development as a researcher (e.g. time management apps/resources, ggplot2 tutorials, additional writing tips/guidance….)
 
 Please be sure to check the BM954 MyPlace page regularly for any updates to official deadlines.
 
 ::: callout-important
-You *must* agree on deadlines for the submission of drafts with Dr. Feeney *in advance*. When considering this, take into account the fact that you will need time to incorporate Dr. Feeney's feedback before the final submission of your thesis.
+You *must* agree on deadlines for the submission of drafts with Dr. Feeney *in advance*. When considering this, take into account the fact that it takes time to read a draft and provide feedback (indicative time: department policy is normally 2 weeks; and that you will also need time to incorporate Dr. Feeney's feedback before the final submission of your thesis.
 :::
 
 ## Suggested timeline
 
-The suggested timeline below (Table 1) is simply that - a suggestion, and perhaps an aid to starting your own project timeline. You will want to modify it as necessary for your own project; to suit your own working patterns, and to include your own specific project details.
+The suggested timeline below (Table 1) is simply that - a suggestion, and perhaps an aid to starting your own project timeline. You will want to modify it as necessary for your own project; to suit your own working patterns, and to include your own specific project details (taking into account, for example, the time required to carry out an experiment and process the data).
 
-Table 1. Suggested project timeline.
+## Suggested project timeline.
 
-+---------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Week    | Suggested activities                                                                                                | Comprehension check                                                                                                                                                                                                                                                                                                                                |
-+=========+=====================================================================================================================+====================================================================================================================================================================================================================================================================================================================================================+
-| 1       | -   Begin reading papers listed in the project descriptor                                                           | -   Do you understand the project descriptor and can you identify appropriate keywords to begin your literature search?                                                                                                                                                                                                                            |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Begin literature search                                                                                         | -   Do you have a plan for reference management and how you will store/organise your notes?                                                                                                                                                                                                                                                        |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Read the BM954 project guidelines                                                                               | -   Are you aware of the resources offered by the Strathclyde Library for [referencing](https://www.strath.ac.uk/professionalservices/library/researchrevise/referencing/) and [academic practices](https://www.strath.ac.uk/studywithus/strathlife/academicsupport/)?                                                                             |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Read the [project expectations](./expectations.qmd) and [project and time management](./management.qmd) documents                                         | -   Have you read MF's [Notes on the use of generative AI](./AI.qmd)?                                                                                                                                                                                                                                                                                          |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Read the [Writing exercises intro](WritingExercises-overview.qmd) and complete exercise S1                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-+---------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2       | -   Continue literature search/reading papers                                                                       | -   Do you understand the structure of a scientific paper and know how to critically read one?                                                                                                                                                                                                                                                     |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Start outlining thesis introduction                                                                             | -   Are you using appropriate strategies (keywords and filters) for searching the literature? Are there any key papers that you might be missing?                                                                                                                                                                                                  |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Complete writing exercise S2                                                                                    | -   Do you understand what makes a good and useful outline? check out some resources for writing outlines such as [how to outline](https://owl.purdue.edu/owl/general_writing/the_writing_process/developing_an_outline/how_to_outline.html) and [the importance of outlining](https://learningcenters.rutgers.edu/resources/importance-outlining) |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         |                                                                                                                     | -   Do you have a detailed plan for how you will carry out your experimental work? Do you have a plan for data management?                                                                                                                                                                                                                         |
-+---------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 3       | -   Continue literature search/reading papers                                                                       | -   Have you read through, and do you understand, MF’s [general writing tips](https://mafeeney.github.io/BM432projects/writingtips.html)? Do you understand how to logically structure a paragraph? As you begin to write, are you organising your introduction in a logical way?                                                                  |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Begin drafting thesis introduction                                                                              | -   Can you express the aims and hypothesis of your project in your own words?                                                                                                                                                                                                                                                                     |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Begin experimental work                                                                                         | -   Are you using a correct citation method?                                                                                                                                                                                                                                                                                                       |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Complete writing exercise S3                                                                                    | -   As you begin your experiments, do you understand what details you should be recording in order to [write your methods section](./methods.qmd)?                                                                                                                                                         |
-+---------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 4       | -   Submit thesis intro draft to MF for feedback                                                                    | -   Have you looked at the [Thesis Submission checklist](./assets/Thesis_submission_checklist.docx) and do you understand how your introduction and methods sections should be formatted?                                                                                                                                                                                                       |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Continue experimental work                                                                                      | -   Do you understand your research methods and know how to troubleshoot your experiments?                                                                                                                                                                                                                                                         |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Continue reading appropriate literature                                                                         | -   Have you read and understood MF's section on [Experimental Design](./experimentaldesign.qmd), and looked at the relevant resources available for different types of projects?                                                                                                                                                                                              |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Read the [Writing a Methods Section](./methods.qmd) and begin drafting methods section                                             |                                                                                                                                                                                                                                                                                                                                                    |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Complete writing exercise S4                                                                                    |                                                                                                                                                                                                                                                                                                                                                    |
-+---------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 5       | -   Continue: experimental work, reading appropriate literature; writing methods section                            | -   Do you have a plan for your data analysis (including any necessary statistical methods)?                                                                                                                                                                                                                                                       |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Read the [Preparing Figures](./figures.qmd) section and [R Studio Resources](./RStudio.qmd) sections                                              | -   Do you understand the elements necessary in a scientific figure and how to prepare a figure?                                                                                                                                                                                                                                                   |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Begin drafting an outline of figures/tables for your thesis                                                     | -   Do you understand how to tell a scientific story in a logical order?                                                                                                                                                                                                                                                                           |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Complete writing exercise S5                                                                                    |                                                                                                                                                                                                                                                                                                                                                    |
-+---------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 6       | -   Continue: experimental work, reading appropriate literature; writing methods section                            | -   Do you understand what kind of feedback you can expect on your thesis intro and do you have a plan for how you can act on this feedback?                                                                                                                                                                                                       |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Begin preparing figures and tables for your thesis                                                              | -   Do you have a plan for "version control" and making revisions to your thesis intro?                                                                                                                                                                                                                                                            |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Discuss intro feedback with MF and begin revising introduction section                                          | -   Do you understand how to write a good figure title and legend?                                                                                                                                                                                                                                                                                 |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Complete writing exercise S6                                                                                    |                                                                                                                                                                                                                                                                                                                                                    |
-+---------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 7       | -   Continue: experimental work, reading appropriate literature; writing methods section; preparing figures         | -   Do you understand how to structure a results section?                                                                                                                                                                                                                                                                                          |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Begin writing results section                                                                                   | -   Can you clearly link your experiments and results to your initial hypothesis and aim(s)?                                                                                                                                                                                                                                                       |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Complete writing exercise S7                                                                                    |                                                                                                                                                                                                                                                                                                                                                    |
-+---------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 8       | -   Finish experimental work                                                                                        | -   Have you checked that your methods section contains an appropriate amount of detail and is sufficient for replication?                                                                                                                                                                                                                         |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Finish writing methods section                                                                                  | -   Have you confirmed that your results files (raw data) are saved in an appropriate format and accompanied by appropriate metadata and readme files where needed?                                                                                                                                                                                |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Continue: preparing figures, writing results section, reading appropriate literature                            |                                                                                                                                                                                                                                                                                                                                                    |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Complete writing exercise S8                                                                                    |                                                                                                                                                                                                                                                                                                                                                    |
-+---------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 9       | -   Finish preparing figures and tables; writing results section                                                    | -   Do you understand the structure and necessary elements required for a good discussion section?                                                                                                                                                                                                                                                 |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Begin engaging with the relevant literature for writing your discussion section                                 | -   Have you confirmed that your thesis figures and tables are prepared in an appropriate format and are publication-quality? Have you reviewed essential aspects of data visualisation and applied them to your figures/tables?                                                                                                                   |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Draft an outline of key points for your discussion section; discuss these with MF; and begin writing discussion |                                                                                                                                                                                                                                                                                                                                                    |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Complete writing exercise S9                                                                                    |                                                                                                                                                                                                                                                                                                                                                    |
-+---------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 10      | -   Finish writing discussion section                                                                               | -   Do you understand how to structure an abstract? What makes an effective abstract, and the difference between lay and technical abstracts?                                                                                                                                                                                                      |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Write abstracts                                                                                                 | -   Do you understand what makes a good, effective, thesis title?                                                                                                                                                                                                                                                                                  |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Decide on a title for your thesis                                                                               |                                                                                                                                                                                                                                                                                                                                                    |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Submit final draft to MF for feedback                                                                           |                                                                                                                                                                                                                                                                                                                                                    |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Submit all raw data and lab notebook files to MF                                                                |                                                                                                                                                                                                                                                                                                                                                    |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Complete writing exercise S10                                                                                   |                                                                                                                                                                                                                                                                                                                                                    |
-+---------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 11+     | Thesis preparation, submission, and presentation weeks:                                                             | -   Have you read and understood the [presentation preparation resources](https://mafeeney.github.io/BM432projects/slides.html)?                                                                                                                                                                                                                   |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Begin preparing slides for presentation                                                                         | -   Have you reviewed the Thesis Submission checklist and ensured that your thesis is correctly formatted?                                                                                                                                                                                                                                         |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Submit slides to MF for feedback and revise presentation                                                        |                                                                                                                                                                                                                                                                                                                                                    |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Practice thesis presentation                                                                                    |                                                                                                                                                                                                                                                                                                                                                    |
-|         |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                    |
-|         | -   Review feedback on thesis draft, and incorporate this into your work as you revise and prepare your final draft |                                                                                                                                                                                                                                                                                                                                                    |
-+---------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+### Week 1
+
+::: callout-todo
+
+- Begin reading papers listed in the project descriptor 
+
+- Begin literature search
+
+- Read the BM954 project guidelines, and the [project expectations](./expectations.qmd) and [project and time management](./management.qmd) documents
+
+- Read the [Writing exercises intro](WritingExercises-overview.qmd) and complete exercise S1 
+
+:::
+
+::: callout-check
+
+- Are you aware of the resources offered by the Strathclyde Library for [referencing](https://www.strath.ac.uk/professionalservices/library/researchrevise/referencing/) and [academic practices](https://www.strath.ac.uk/studywithus/strathlife/academicsupport/)? 
+
+- Do you have a plan for reference management and how you will store/organise your notes? 
+
+- Have you read MF's [Notes on the use of generative AI](./AI.qmd)?
+
+- Do you understand the project descriptor and can you identify appropriate keywords to begin your literature search?
+
+- Do you understand the structure of a scientific paper and know how to critically read one? 
+
+::: 
+
+
+### Week 2 
+
+::: callout-todo
+
+- Continue literature search/reading papers    
+
+- Start outlining thesis introduction  
+
+- Complete writing exercise S2
+
+:::
+
+::: callout-check
+
+- Are you using appropriate strategies (keywords and filters) for searching the literature? Are there any key papers that you might be missing?                                                                               
+
+- Do you understand what makes a good and useful outline? check out some resources for writing outlines such as [how to outline](https://owl.purdue.edu/owl/general_writing/the_writing_process/developing_an_outline/how_to_outline.html) and [the importance of outlining](https://learningcenters.rutgers.edu/resources/importance-outlining) 
+
+- Do you have a detailed plan for how you will carry out your experimental work when you start your work? Do you have a plan for data management?
+
+:::
+
+### Week 3
+
+::: callout-todo
+
+- Continue literature search/reading papers                                                                      
+
+- Begin drafting thesis introduction 
+
+- Begin experimental work                                                                                       
+
+- Complete writing exercise S3                                                                                  
+
+- Submit thesis intro draft to MF for feedback [date to be agreed with MF in advance]
+
+:::
+
+::: callout-check
+
+- Can you express the aims and hypothesis of your project in your own words? Can you explain how it relates to the literature and what has previously been done in the field?
+
+- Have you read through, and do you understand, MF’s [general writing tips](https://mafeeney.github.io/BM432projects/writingtips.html)? Do you understand how to logically structure a paragraph? As you begin to write, are you organising your introduction in a logical way?
+
+- Have you looked at the [Thesis Submission checklist](./assets/Thesis_submission_checklist.docx) and do you understand how your introduction and methods sections should be formatted? 
+
+- Are you using a correct citation method? 
+
+- As you begin your experiments, do you understand what details you should be recording in order to [write your methods section](./methods.qmd)?  
+
+- Do you understand what kind of feedback you can expect on your thesis intro draft and do you have a plan for how you can act on this feedback? 
+
+:::
+
+### Week 4
+
+::: callout-todo
+
+- Continue experimental work 
+
+- Continue reading appropriate literature 
+
+- Read the [Writing a Methods Section](./methods.qmd) document and begin drafting your methods section 
+
+- Complete writing exercise S4 
+
+:::
+
+::: callout-check
+
+- Do you understand your research methods and know how to troubleshoot your experiments?
+
+- Have you read and understood MF's section on [Experimental Design](./experimentaldesign.qmd), and looked at the relevant resources available for different types of projects? 
+
+:::
+
+### Week 5
+
+::: callout-todo
+
+- Continue: experimental work, reading appropriate literature; writing methods section 
+
+- Read the [Preparing Figures](./figures.qmd) section and [R Studio Resources](./RStudio.qmd) sections 
+
+- Complete writing exercise S5 
+
+:::
+
+::: callout-check
+
+- Do you understand the elements necessary in a scientific figure and how to prepare a figure?   Begin drafting an outline of figures/tables for your thesis  
+
+- Do you understand how to tell a scientific story in a logical order? 
+
+- Do you have a plan for your data analysis (including any necessary statistical methods)? 
+
+:::
+
+### Week 6
+
+::: callout-todo
+
+- Continue: experimental work, reading appropriate literature; writing methods section    
+
+- Begin preparing figures and tables for your thesis       
+
+- Discuss intro feedback with MF (depending on date agreed for feedback return) and begin revising introduction section
+
+- Complete writing exercise S6
+
+:::
+
+::: callout-check
+
+- Do you understand how to write a good figure title and legend? 
+
+- Do you have a plan for "version control" and making revisions to your thesis intro?   
+
+:::
+
+### Week 7
+
+::: callout-todo
+
+
+- Continue: experimental work, reading appropriate literature; writing methods section; preparing figures        
+
+-   Begin writing results section
+
+-   Complete writing exercise S7
+
+:::
+
+::: callout-check
+
+-   Can you clearly link your experiments and results to your initial hypothesis and aim(s)?   
+
+-   Do you understand how to structure a results section?  
+
+:::
+     
+
+## Week 8
+
+::: callout-todo
+
+- Finish experimental work 
+
+- Finish writing methods section
+
+- Continue: preparing figures, writing results section, reading appropriate literature 
+
+- Complete writing exercise S8  
+
+:::
+
+::: callout-check
+
+- Have you confirmed that your results files (raw data) are saved in an appropriate format and accompanied by appropriate metadata and readme files where needed?
+
+- Have you checked that your methods section contains an appropriate amount of detail and is sufficient for replication?  
+
+:::
+
+### Week 9
+
+::: callout-todo
+
+- Finish preparing figures and tables; writing results section   
+
+- Begin engaging with the relevant literature for writing your discussion section 
+
+- Draft an outline of key points for your discussion section; discuss these with MF; and begin writing discussion 
+
+- Complete writing exercise S9 
+
+:::
+
+::: callout-check
+
+- Have you confirmed that your thesis figures and tables are prepared in an appropriate format and are publication-quality? Have you reviewed essential aspects of data visualisation and applied them to your figures/tables?
+
+- Do you understand the structure and necessary elements required for a good discussion section?  
+
+:::                                                                                
+
+### Week 10
+
+::: callout-todo
+
+- Finish writing discussion section  
+
+- Write abstracts   
+
+- Decide on a title for your thesis  
+
+- Submit final draft to MF for feedback [date to be confirmed in advance with MF]
+
+- Submit all raw data and lab notebook files to MF  
+
+- Complete writing exercise S10
+
+:::
+
+::: callout-check
+
+- Do you understand how to structure an abstract? What makes an effective abstract, and the difference between lay and technical abstracts?
+
+- Do you understand what makes a good, effective, thesis title?  
+
+:::
+
+### Week 11+ - Thesis preparation, submission, and presentation weeks:
+
+::: callout-todo
+ 
+- Begin preparing slides for presentation  
+
+- Submit slides to MF for feedback and revise presentation 
+
+- Practice presentation (many times)
+
+- Review feedback on thesis draft, and incorporate this into your work as you revise and prepare your final draft
+
+:::
+
+::: callout-check
+
+- Have you read and understood the [presentation preparation resources](https://mafeeney.github.io/BM432projects/slides.html)?
+
+- Have you thought about the differences in data visualisation/presentation for an oral presentation vs. a written thesis, and adapted your figures for your slides appropriately?
+
+- Have you thought about the types of questions your audience/markers might ask after your thesis presentation? If necessary, have you provided supplemental slides with data/figures needed to answer these questions?
+
+- Have you reviewed the Thesis Submission checklist and ensured that your thesis is correctly formatted?
+
+:::

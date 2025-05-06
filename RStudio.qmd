@@ -30,5 +30,8 @@ Demos for AY 2024-2025 projects
 
 ### Additional tutorials
 
-- link Leighton's stuff here
+Some intro R tutorials you may find useful:
 
+- [BM214 workshop 3](https://sipbs-compbiol.github.io/BM214-Workshop-3/): an intro to ggplot2 in the context of plotting growth curves and analysing reporter gene expression (2nd year intro microbiology workshop)
+
+- [BM327 workshop 2](https://sipbs-compbiol.github.io/BM327-Workshop-2/): an intro to ggplot2 in the context of identifying UTI adhesion factors (3rd year biomedical microbiology workshop)

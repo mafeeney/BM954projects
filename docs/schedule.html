@@ -66,6 +66,52 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>
+div.callout-callout-check.callout {
+  border-left-color: #BA55D3;
+}
+div.callout-callout-check.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
+}
+div.callout-callout-check .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewbox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"></path></svg>');}
+div.callout-callout-check.callout-style-default .callout-icon::before, div.callout-callout-check.callout-titled .callout-icon::before {
+  content: '✨';
+  background-image: none;
+}
+div.callout-callout-data.callout {
+  border-left-color: #32CD32;
+}
+div.callout-callout-data.callout-style-default > .callout-header {
+  background-color: rgba(50, 205, 50, 0.13);
+}
+div.callout-callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewbox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"></path></svg>');}
+div.callout-callout-data.callout-style-default .callout-icon::before, div.callout-callout-data.callout-titled .callout-icon::before {
+  content: '📊';
+  background-image: none;
+}
+div.callout-callout-microbe.callout {
+  border-left-color: #1E90FF;
+}
+div.callout-callout-microbe.callout-style-default > .callout-header {
+  background-color: rgba(30, 144, 255, 0.13);
+}
+div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewbox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"></path></svg>');}
+div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
+  content: '🧫';
+  background-image: none;
+}
+div.callout-callout-todo.callout {
+  border-left-color: pink;
+}
+div.callout-callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
+}
+div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewbox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"></path></svg>');}
+div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
+  background-image: none;
+}
+</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -263,8 +309,24 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#how-to-make-a-project-schedule" id="toc-how-to-make-a-project-schedule" class="nav-link active" data-scroll-target="#how-to-make-a-project-schedule">How to make a project schedule</a></li>
+  <li><a href="#how-to-make-a-schedule-for-your-project" id="toc-how-to-make-a-schedule-for-your-project" class="nav-link active" data-scroll-target="#how-to-make-a-schedule-for-your-project">How to make a schedule for your project</a></li>
   <li><a href="#suggested-timeline" id="toc-suggested-timeline" class="nav-link" data-scroll-target="#suggested-timeline">Suggested timeline</a></li>
+  <li><a href="#suggested-project-timeline." id="toc-suggested-project-timeline." class="nav-link" data-scroll-target="#suggested-project-timeline.">Suggested project timeline.</a>
+  <ul class="collapse">
+  <li><a href="#week-1" id="toc-week-1" class="nav-link" data-scroll-target="#week-1">Week 1</a></li>
+  <li><a href="#week-2" id="toc-week-2" class="nav-link" data-scroll-target="#week-2">Week 2</a></li>
+  <li><a href="#week-3" id="toc-week-3" class="nav-link" data-scroll-target="#week-3">Week 3</a></li>
+  <li><a href="#week-4" id="toc-week-4" class="nav-link" data-scroll-target="#week-4">Week 4</a></li>
+  <li><a href="#week-5" id="toc-week-5" class="nav-link" data-scroll-target="#week-5">Week 5</a></li>
+  <li><a href="#week-6" id="toc-week-6" class="nav-link" data-scroll-target="#week-6">Week 6</a></li>
+  <li><a href="#week-7" id="toc-week-7" class="nav-link" data-scroll-target="#week-7">Week 7</a></li>
+  </ul></li>
+  <li><a href="#week-8" id="toc-week-8" class="nav-link" data-scroll-target="#week-8">Week 8</a>
+  <ul class="collapse">
+  <li><a href="#week-9" id="toc-week-9" class="nav-link" data-scroll-target="#week-9">Week 9</a></li>
+  <li><a href="#week-10" id="toc-week-10" class="nav-link" data-scroll-target="#week-10">Week 10</a></li>
+  <li><a href="#week-11---thesis-preparation-submission-and-presentation-weeks" id="toc-week-11---thesis-preparation-submission-and-presentation-weeks" class="nav-link" data-scroll-target="#week-11---thesis-preparation-submission-and-presentation-weeks">Week 11+ - Thesis preparation, submission, and presentation weeks:</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -290,8 +352,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="how-to-make-a-project-schedule" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-make-a-project-schedule">How to make a project schedule</h2>
+<section id="how-to-make-a-schedule-for-your-project" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-make-a-schedule-for-your-project">How to make a schedule for your project</h2>
 <p>Every project is different, and thus, the schedule for each project will be different. The general expectation within SIPBS is that these projects should be treated like full-time jobs (e.g., you should be working from 9-5 M-F on them); however, there may be some scope for flexibility in working times/schedules, depending on your project needs.</p>
 <p>You are expected to plan and be responsible for your own time. Some weeks may be busier than others, in terms of experimental work - on quieter weeks, you can spend your time wisely by reading the literature, working on your draft, analysing data, etc.</p>
 <div class="callout callout-style-default callout-tip callout-titled">
@@ -310,7 +372,7 @@ Tip
 </div>
 </div>
 <p>You are expected to attend all meetings/group meetings. You should have completed any indicated activities for that meeting (listed in “What you should do to prepare”). You should also come prepared with any questions (e.g., about papers you have read, results from your experimental work, general questions about good scientific practices, etc.)</p>
-<p>Note that the resources provided (e.g., papers listed in the project descriptor, resources linked in this website) are only intended as a <u>starting point</u>. You are expected to search the literature <em>independently</em> (this is part of your project performance mark.) You are also strongly encouraged to seek out additional resources to support your learning and development as a researcher (e.g.&nbsp;time management apps/resources, ggplot2 tutorials, additional writing tips/guidance….)</p>
+<p>Note that the resources provided (e.g., papers listed in the project descriptor, resources linked in this website) are only intended as a <b>starting point</b>. You are expected to search the literature <em>independently</em> (this is part of your project performance mark.) You are also strongly encouraged to seek out additional resources to support your learning and development as a researcher (e.g.&nbsp;time management apps/resources, ggplot2 tutorials, additional writing tips/guidance….)</p>
 <p>Please be sure to check the BM954 MyPlace page regularly for any updates to official deadlines.</p>
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -329,175 +391,415 @@ Important
 <section id="suggested-timeline" class="level2">
 <h2 class="anchored" data-anchor-id="suggested-timeline">Suggested timeline</h2>
 <p>The suggested timeline below (Table 1) is simply that - a suggestion, and perhaps an aid to starting your own project timeline. You will want to modify it as necessary for your own project; to suit your own working patterns, and to include your own specific project details.</p>
-<p>Table 1. Suggested project timeline.</p>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Week</th>
-<th>Suggested activities</th>
-<th>Comprehension check</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1</td>
-<td><ul>
+</section>
+<section id="suggested-project-timeline." class="level2">
+<h2 class="anchored" data-anchor-id="suggested-project-timeline.">Suggested project timeline.</h2>
+<section id="week-1" class="level3">
+<h3 class="anchored" data-anchor-id="week-1">Week 1</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Begin reading papers listed in the project descriptor</p></li>
 <li><p>Begin literature search</p></li>
-<li><p>Read the BM954 project guidelines</p></li>
-<li><p>Read the project expectations and project and time management documents</p></li>
-<li><p>Read the “Writing exercises intro” and complete exercise 1</p></li>
-</ul></td>
-<td><ul>
-<li><p>Do you understand the project descriptor and can you identify appropriate keywords to begin your literature search?</p></li>
-<li><p>Do you have a plan for reference management and how you will store/organise your notes?</p></li>
+<li><p>Read the BM954 project guidelines, and the <a href="./expectations.html">project expectations</a> and <a href="./management.html">project and time management</a> documents</p></li>
+<li><p>Read the <a href="./WritingExercises-overview.html">Writing exercises intro</a> and complete exercise S1</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Are you aware of the resources offered by the Strathclyde Library for <a href="https://www.strath.ac.uk/professionalservices/library/researchrevise/referencing/">referencing</a> and <a href="https://www.strath.ac.uk/studywithus/strathlife/academicsupport/">academic practices</a>?</p></li>
-<li><p>Have you read MF’s Notes on the use of generative AI?</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>2</td>
-<td><ul>
+<li><p>Do you have a plan for reference management and how you will store/organise your notes?</p></li>
+<li><p>Have you read MF’s <a href="./AI.html">Notes on the use of generative AI</a>?</p></li>
+<li><p>Do you understand the project descriptor and can you identify appropriate keywords to begin your literature search?</p></li>
+<li><p>Do you understand the structure of a scientific paper and know how to critically read one?</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="week-2" class="level3">
+<h3 class="anchored" data-anchor-id="week-2">Week 2</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Continue literature search/reading papers</p></li>
 <li><p>Start outlining thesis introduction</p></li>
-<li><p>Complete Writing exercise #2</p></li>
-</ul></td>
-<td><ul>
-<li><p>Do you understand the structure of a scientific paper and know how to critically read one?</p></li>
+<li><p>Complete writing exercise S2</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Are you using appropriate strategies (keywords and filters) for searching the literature? Are there any key papers that you might be missing?</p></li>
 <li><p>Do you understand what makes a good and useful outline? check out some resources for writing outlines such as <a href="https://owl.purdue.edu/owl/general_writing/the_writing_process/developing_an_outline/how_to_outline.html">how to outline</a> and <a href="https://learningcenters.rutgers.edu/resources/importance-outlining">the importance of outlining</a></p></li>
-<li><p>Do you have a detailed plan for how you will carry out your experimental work? Do you have a plan for data management?</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>3</td>
-<td><ul>
+<li><p>Do you have a detailed plan for how you will carry out your experimental work when you start your work? Do you have a plan for data management?</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="week-3" class="level3">
+<h3 class="anchored" data-anchor-id="week-3">Week 3</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Continue literature search/reading papers</p></li>
 <li><p>Begin drafting thesis introduction</p></li>
 <li><p>Begin experimental work</p></li>
-<li><p>Complete Writing exercises #3-5</p></li>
-</ul></td>
-<td><ul>
+<li><p>Complete writing exercise S3</p></li>
+<li><p>Submit thesis intro draft to MF for feedback [date to be agreed with MF in advance]</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><p>Can you express the aims and hypothesis of your project in your own words? Can you explain how it relates to the literature and what has previously been done in the field?</p></li>
 <li><p>Have you read through, and do you understand, MF’s <a href="https://mafeeney.github.io/BM432projects/writingtips.html">general writing tips</a>? Do you understand how to logically structure a paragraph? As you begin to write, are you organising your introduction in a logical way?</p></li>
-<li><p>Can you express the aims and hypothesis of your project in your own words?</p></li>
+<li><p>Have you looked at the <a href="./assets/Thesis_submission_checklist.docx">Thesis Submission checklist</a> and do you understand how your introduction and methods sections should be formatted?</p></li>
 <li><p>Are you using a correct citation method?</p></li>
-<li><p>As you begin your experiments, do you understand what details you should be recording in order to <a href="https://mafeeney.github.io/BM432projects/methods.html">write your methods section</a>?</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>4</td>
-<td><ul>
-<li><p>Submit thesis intro draft to MF for feedback</p></li>
+<li><p>As you begin your experiments, do you understand what details you should be recording in order to <a href="./methods.html">write your methods section</a>?</p></li>
+<li><p>Do you understand what kind of feedback you can expect on your thesis intro draft and do you have a plan for how you can act on this feedback?</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="week-4" class="level3">
+<h3 class="anchored" data-anchor-id="week-4">Week 4</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Continue experimental work</p></li>
 <li><p>Continue reading appropriate literature</p></li>
-<li><p>Read “Writing a Methods Section” and begin drafting methods section</p></li>
-<li><p>Complete Writing exercise #4</p></li>
-</ul></td>
-<td><ul>
-<li><p>Have you looked at the Thesis Submission checklist and do you understand how your introduction and methods sections should be formatted?</p></li>
+<li><p>Read the <a href="./methods.html">Writing a Methods Section</a> and begin drafting methods section</p></li>
+<li><p>Complete writing exercise S4</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Do you understand your research methods and know how to troubleshoot your experiments?</p></li>
-<li><p>Have you read and understood MF’s section on Experimental Design, and looked at the relevant resources available for different types of projects?</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>5</td>
-<td><ul>
+<li><p>Have you read and understood MF’s section on <a href="./experimentaldesign.html">Experimental Design</a>, and looked at the relevant resources available for different types of projects?</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="week-5" class="level3">
+<h3 class="anchored" data-anchor-id="week-5">Week 5</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Continue: experimental work, reading appropriate literature; writing methods section</p></li>
-<li><p>Read “Preparing Figures” section and “R Studio Resources” sections</p></li>
-<li><p>Begin drafting an outline of figures/tables for your thesis</p></li>
-<li><p>Complete Writing exercise #5</p></li>
-</ul></td>
-<td><ul>
-<li><p>Do you have a plan for your data analysis (including any necessary statistical methods)?</p></li>
-<li><p>Do you understand the elements necessary in a scientific figure and how to prepare a figure?</p></li>
+<li><p>Read the <a href="./figures.html">Preparing Figures</a> section and <a href="./RStudio.html">R Studio Resources</a> sections</p></li>
+<li><p>Complete writing exercise S5</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><p>Do you understand the elements necessary in a scientific figure and how to prepare a figure? Begin drafting an outline of figures/tables for your thesis</p></li>
 <li><p>Do you understand how to tell a scientific story in a logical order?</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>6</td>
-<td><ul>
+<li><p>Do you have a plan for your data analysis (including any necessary statistical methods)?</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="week-6" class="level3">
+<h3 class="anchored" data-anchor-id="week-6">Week 6</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Continue: experimental work, reading appropriate literature; writing methods section</p></li>
 <li><p>Begin preparing figures and tables for your thesis</p></li>
-<li><p>Discuss intro feedback with MF and begin revising introduction section</p></li>
-<li><p>Complete Writing exercise #6</p></li>
-</ul></td>
-<td><ul>
-<li><p>Do you understand what kind of feedback you can expect on your thesis intro and do you have a plan for how you can act on this feedback?</p></li>
-<li><p>Do you have a plan for “version control” and making revisions to your thesis intro?</p></li>
+<li><p>Discuss intro feedback with MF (depending on date agreed for feedback return) and begin revising introduction section</p></li>
+<li><p>Complete writing exercise S6</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Do you understand how to write a good figure title and legend?</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>7</td>
-<td><ul>
+<li><p>Do you have a plan for “version control” and making revisions to your thesis intro?</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="week-7" class="level3">
+<h3 class="anchored" data-anchor-id="week-7">Week 7</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Continue: experimental work, reading appropriate literature; writing methods section; preparing figures</p></li>
 <li><p>Begin writing results section</p></li>
-<li><p>Complete Writing exercise #7</p></li>
-</ul></td>
-<td><ul>
-<li><p>Do you understand how to structure a results section?</p></li>
+<li><p>Complete writing exercise S7</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Can you clearly link your experiments and results to your initial hypothesis and aim(s)?</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>8</td>
-<td><ul>
+<li><p>Do you understand how to structure a results section?</p></li>
+</ul>
+</div>
+</div>
+</section>
+</section>
+<section id="week-8" class="level2">
+<h2 class="anchored" data-anchor-id="week-8">Week 8</h2>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Finish experimental work</p></li>
 <li><p>Finish writing methods section</p></li>
 <li><p>Continue: preparing figures, writing results section, reading appropriate literature</p></li>
-<li><p>Complete Writing exercise #8</p></li>
-</ul></td>
-<td><ul>
-<li><p>Have you checked that your methods section contains an appropriate amount of detail and is sufficient for replication?</p></li>
+<li><p>Complete writing exercise S8</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Have you confirmed that your results files (raw data) are saved in an appropriate format and accompanied by appropriate metadata and readme files where needed?</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>9</td>
-<td><ul>
+<li><p>Have you checked that your methods section contains an appropriate amount of detail and is sufficient for replication?</p></li>
+</ul>
+</div>
+</div>
+<section id="week-9" class="level3">
+<h3 class="anchored" data-anchor-id="week-9">Week 9</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Finish preparing figures and tables; writing results section</p></li>
 <li><p>Begin engaging with the relevant literature for writing your discussion section</p></li>
 <li><p>Draft an outline of key points for your discussion section; discuss these with MF; and begin writing discussion</p></li>
-<li><p>Complete Writing exercise #9</p></li>
-</ul></td>
-<td><ul>
-<li><p>Do you understand the structure and necessary elements required for a good discussion section?</p></li>
+<li><p>Complete writing exercise S9</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Have you confirmed that your thesis figures and tables are prepared in an appropriate format and are publication-quality? Have you reviewed essential aspects of data visualisation and applied them to your figures/tables?</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>10</td>
-<td><ul>
+<li><p>Do you understand the structure and necessary elements required for a good discussion section?</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="week-10" class="level3">
+<h3 class="anchored" data-anchor-id="week-10">Week 10</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Finish writing discussion section</p></li>
 <li><p>Write abstracts</p></li>
 <li><p>Decide on a title for your thesis</p></li>
-<li><p>Submit final draft to MF for feedback</p></li>
+<li><p>Submit final draft to MF for feedback [date to be confirmed in advance with MF]</p></li>
 <li><p>Submit all raw data and lab notebook files to MF</p></li>
-<li><p>Complete Writing exercise #10</p></li>
-</ul></td>
-<td><ul>
+<li><p>Complete writing exercise S10</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Do you understand how to structure an abstract? What makes an effective abstract, and the difference between lay and technical abstracts?</p></li>
 <li><p>Do you understand what makes a good, effective, thesis title?</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>11+</td>
-<td><p>Thesis preparation, submission, and presentation weeks:</p>
+</ul>
+</div>
+</div>
+</section>
+<section id="week-11---thesis-preparation-submission-and-presentation-weeks" class="level3">
+<h3 class="anchored" data-anchor-id="week-11---thesis-preparation-submission-and-presentation-weeks">Week 11+ - Thesis preparation, submission, and presentation weeks:</h3>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To do:
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <ul>
 <li><p>Begin preparing slides for presentation</p></li>
 <li><p>Submit slides to MF for feedback and revise presentation</p></li>
-<li><p>Practice thesis presentation</p></li>
-<li><p>Review feedback on thesis draft, and incorporate this into your work as you revise and prepare your final draft</p></li>
-</ul></td>
-<td><ul>
+<li><p>Practice presentation (many times)</p></li>
+<li><p>Review feedback on thesis draft, and incorporate this into your work as you revise and prepare your final draft ::: callout-check</p></li>
 <li><p>Have you read and understood the <a href="https://mafeeney.github.io/BM432projects/slides.html">presentation preparation resources</a>?</p></li>
+<li><p>Have you thought about the differences in data visualisation/presentation for an oral presentation vs.&nbsp;a written thesis, and adapted your figures for your slides appropriately?</p></li>
+<li><p>Have you thought about the types of questions your audience/markers might ask after your thesis presentation? If necessary, have you provided supplemental slides with data/figures needed to answer these questions?</p></li>
 <li><p>Have you reviewed the Thesis Submission checklist and ensured that your thesis is correctly formatted?</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+</ul>
+</div>
+</div>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

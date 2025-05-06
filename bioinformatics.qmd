@@ -61,4 +61,13 @@ Depending on your project, you may find some of the following resources useful -
 
 ## Additional selected tutorials
 
-- links to Leighton's stuff here
+Some workshops going through some bioinformatics topics, which you may find helpful to work through to review basic concepts: 
+
+- [BM214 workshop 2](https://sipbs-compbiol.github.io/BM214-Workshop-2/): sequence searching
+
+- [BM211 workshop 5](https://sipbs-compbiol.github.io/BM211-Workshop-5/): phylogenetic trees
+
+- [BM329 workshop 1](https://sipbs-compbiol.github.io/BM329_Block_A_workshop/): microbial identification
+
+- [BM425 workshop 1](https://sipbs-compbiol.github.io/BM425-Workshop-1/): genome analysis
+- 

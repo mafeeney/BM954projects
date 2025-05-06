@@ -11,7 +11,7 @@ page-layout: full
 
 ::: callout-tip
 
-    Note that the figures for your slides will rarely, if ever, be the same figures you present in your thesis. You may need to simplify figures for your talk so that they can be easily understood by your audience (presenting too much data on a single slide is generally overwhelming and ensures that your audience is reading the slide instead of listening to you.)
+Note that the figures for your slides will rarely, if ever, be the same figures you present in your thesis. You may need to simplify figures for your talk so that they can be easily understood by your audience (presenting too much data on a single slide is generally overwhelming and ensures that your audience is reading the slide instead of listening to you.)
 
 :::
 
