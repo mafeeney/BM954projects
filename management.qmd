@@ -3,6 +3,8 @@ title: "Project and Time Management"
 page-layout: full
 ---
 
+## Project Management - Overview
+
 Organising your project work, and managing your time effectively, may seem like very basic skills that require no guidance/help. However, both are fundamental and underpin not only your work in this project, but will likely be important for your work/career going forward. It is possible to improve your project and time management skills (and thus become a more effective worker) - but this takes attention and focus.
 
 ::: callout-note
@@ -11,16 +13,54 @@ Remember, your project performance mark contributes to your overall mark for the
 
 :::
 
-This section is not intended to be a comprehensive guide to project and time management, but does provide a curated set of resources that may help you get started. 
-
-
 ::: callout-important
 ## Back up your work!!!
 
 **Please** make sure you back up your thesis work. IT issues such as computer failure are **not** considered grounds for an extension (and you don't want to have to redo all your hard work anyway!) It is good practice to make sure you have at least three secure back-up copies of your work stored in different places.
+
 :::
 
-## Project Management Overview
+This section is not intended to be a comprehensive guide to project and time management, but does provide a curated set of resources that may help you get started. 
+
+::: callout-todo
+
+## Before you begin your project, you should:
+
+☐ Have a plan for how you will manage (store) raw data, results, and other files. (Choose an organizational system that works for you, and stick with it.)
+
+☐ Select a reference manager, and input records for the papers that you are reading/likely to cite
+
+☐ Choose a format for keeping a lab notebook, to record your experiments and daily progress
+
+☐ Draft a timeline for your project, with specific milestones and agreed deadlines for draft submissions
+
+☐ Have considered the sustainability implications of your project, and come up with a plan for the most efficient and effective use of resources
+
+:::
+
+## Project Management - Sustainability
+
+One key factor to consider when planning and managing your project is sustainability. We are in the midst of a global climate crisis, and although biomedical research often works toward one or more of the [UN Sustainable Development Goals](https://sdgs.un.org/goals), it also has a very large carbon footprint and has undeniable sustainability problems. (For example: the energy needed to maintain ultra-low temperature freezers or run large computing cores; the use of single-use disposable plastics; generation of hazardous waste; etc.)
+
+Part of managing your project is making sustainable choices and using resources effectively, whether this is minimizing the number of plastic pipet tips you use or making sustainable choices for data analysis, file management, or other computing needs.
+
+### Suggested reading - sustainability in biomedical research
+
+Freese T, Elzinga N, Heinemann M, Lerch MM, Feringa BL. The relevance of sustainable laboratory practices. RSC Sustain. 2024;2(5):1300-1336. Published 2024 Mar 18. doi:10.1039/d4su00056k
+
+Durgan J, Rodríguez-Martínez M, Rouse B. Green Labs: a guide to developing sustainable science in your organization. Immunol Cell Biol. 2023;101(4):289-301. doi:10.1111/imcb.12624
+
+Aragaw TA, Mekonnen BA. Understanding disposable plastics effects generated from the PCR testing labs during the COVID-19 pandemic. J Hazard Mater Adv. 2022;7:100126. doi:10.1016/j.hazadv.2022.100126
+
+Lannelongue L, Grealey J, Bateman A, Inouye M. Ten simple rules to make your computing more environmentally sustainable. PLoS Comput Biol. 2021;17(9):e1009324. Published 2021 Sep 20. doi:10.1371/journal.pcbi.1009324
+
+Veyssi A, Samineni L, Mohanty RP. Bio-contaminated plastic micropipette tip sterilization stations: Environmentally, economically, and energetically viable solution. Waste Manag. 2025;196:71-79. doi:10.1016/j.wasman.2025.02.004
+
+Graham, M., Samuel, G. & Farley, M. Roadmap for low-carbon ultra-low temperature storage in biobanking. J Transl Med 22, 747 (2024). https://doi.org/10.1186/s12967-024-05383-5
+
+Sarink MJ, Bode LGM, Croughs P, et al. Less Is More: When to Repeat Antimicrobial Susceptibility Testing. J Clin Microbiol. 2023;61(8):e0046323. doi:10.1128/jcm.00463-23
+
+## Project Management Resources
 
 -   [Project management guidelines](https://sipbs-compbiol.github.io/BM432/notebooks/03-data_management_workshop.html) \[Notebooks on data and project management prepared by Dr. Pritchard and Dr. Feeney for the 2022 session of BM432\]. These include:
 
@@ -36,7 +76,7 @@ This section is not intended to be a comprehensive guide to project and time man
 
     -   [06-How to Use Reference Management Software](https://sipbs-compbiol.github.io/BM432/notebooks/03-06-using_a_reference_manager.html)
 
-    ## Lab notebooks how-to and resources
+## Lab notebooks how-to and resources
 
 -   [How to keep a lab notebook](https://www.science.org/content/article/how-keep-lab-notebook)
 
@@ -50,7 +90,7 @@ This section is not intended to be a comprehensive guide to project and time man
 
 -   [10 File Management Tips to Keep Your Electronic Files Organized](https://www.liveabout.com/computer-file-management-tips-2948083)
 
-## Links to some useful Project/Time Management Resources
+## Links to some additional useful Project/Time Management Resources
 
 -   You may find it helpful to use project planning tools such as [Trello](https://trello.com/), [Asana](https://asana.com/), or similar tools that help to manage tasks/track completion/etc.
 

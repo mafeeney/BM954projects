@@ -5,12 +5,12 @@ page-layout: full
 
 # General Thesis Writing Guidance
 
-Please go through the [Thesis submission checklist](./Thesis_submission_checklist.docx) and ensure that your thesis meets all the guidelines before submitting it.
+Please go through the [Thesis submission checklist](./Thesis_submission_checklist.docx) and ensure that your thesis meets all the guidelines before submitting it. Please also work through the [Writing Exercises](./WritingExercises-overview.qmd) and discuss with MF as needed.
 
 ::: callout-tip
 ### Morgan's Top Tips for Writing a Great Thesis, Starting from Day One
 
--   Read broadly & think critically. You will often get great ideas from reading papers outside your field, or be able to make connections to other systems/organisms/etc. (Plus, you'll be able to use it as extra reading in your exams!)
+-   Read broadly & think critically. You will often get great ideas from reading papers outside your field, or be able to make connections to other systems/organisms/etc.
 
 -   Organise your references as you go along. Use reference management software
 
@@ -24,7 +24,7 @@ Please go through the [Thesis submission checklist](./Thesis_submission_checklis
 
 -   Proofread
 
--   Cite appropriate references using a correct style
+-   Cite appropriate references using a correct and consistent style
 
 -   Pay attention to the instructions and the assessment criteria (available on Myplace)
 :::

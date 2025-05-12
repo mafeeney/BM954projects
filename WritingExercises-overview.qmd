@@ -32,6 +32,7 @@ You may complete these exercises at any time and in any order^[note that a sugge
 Finally, please note that writing well and easily is a matter of constant practice (Figure 2). Try to make an effort to write a little every day; and whenever you write, evaluate your own writing, and seek out feedback on ways that you can improve. These are skills that you will find useful not just for writing your thesis, but throughout your studies and in your future career.
 
 ![Figure 2. Writing shouldn’t be so hard. Image credit: PhD Comics.](images/writing2.png){fig-alt="PhD Comics cartoon about the difficulty of writing" fig-align="center"}
+
 ## Composition exercises
 
 1.  [Writing composition exercise C01](./assets/WritingExercises/C01.docx): Use definite, specific, concrete language; Put statements in positive form
@@ -75,9 +76,9 @@ Sentence structure/form (more practice with some of Strunk & White's Principles 
 
 10. [Writing structure exercise S10](./assets/WritingExercises/S10.docx): Abstracts
 
-11. [Writing structure exercise S11](./assets/WritingExercises/S11.docx): Editing
+11. [Writing structure exercise S11](./assets/WritingExercises/S11.docx): Titles and Subtitles
 
-TITLES
+12. [Writing structure exercise S12](./assets/WritingExercises/S12.docx): Editing
 
 ## Concluding Thoughts
 

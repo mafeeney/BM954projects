@@ -66,6 +66,52 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>
+div.callout-callout-check.callout {
+  border-left-color: #BA55D3;
+}
+div.callout-callout-check.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
+}
+div.callout-callout-check .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewbox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"></path></svg>');}
+div.callout-callout-check.callout-style-default .callout-icon::before, div.callout-callout-check.callout-titled .callout-icon::before {
+  content: '✨';
+  background-image: none;
+}
+div.callout-callout-microbe.callout {
+  border-left-color: #1E90FF;
+}
+div.callout-callout-microbe.callout-style-default > .callout-header {
+  background-color: rgba(30, 144, 255, 0.13);
+}
+div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewbox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"></path></svg>');}
+div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
+  content: '🧫';
+  background-image: none;
+}
+div.callout-callout-data.callout {
+  border-left-color: #32CD32;
+}
+div.callout-callout-data.callout-style-default > .callout-header {
+  background-color: rgba(50, 205, 50, 0.13);
+}
+div.callout-callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewbox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"></path></svg>');}
+div.callout-callout-data.callout-style-default .callout-icon::before, div.callout-callout-data.callout-titled .callout-icon::before {
+  content: '📊';
+  background-image: none;
+}
+div.callout-callout-todo.callout {
+  border-left-color: pink;
+}
+div.callout-callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
+}
+div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewbox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"></path></svg>');}
+div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
+  background-image: none;
+}
+</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -187,7 +233,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
- <span class="menu-text">Thesis preparation</span></a>
+ <span class="menu-text">General Thesis Writing</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -207,6 +253,23 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./AI.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Notes on the use of generative AI</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
+ <span class="menu-text">Guidance on Specific Thesis Sections</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./figures.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Preparing Figures</span></a>
   </div>
@@ -217,23 +280,17 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Writing a Methods Section</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./AI.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Notes on the use of generative AI</span></a>
-  </div>
-</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true">
  <span class="menu-text">Presentations</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./slides.html" class="sidebar-item-text sidebar-link">
@@ -252,8 +309,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#project-management-overview" id="toc-project-management-overview" class="nav-link active" data-scroll-target="#project-management-overview">Project Management Overview</a></li>
-  <li><a href="#links-to-some-useful-projecttime-management-resources" id="toc-links-to-some-useful-projecttime-management-resources" class="nav-link" data-scroll-target="#links-to-some-useful-projecttime-management-resources">Links to some useful Project/Time Management Resources</a></li>
+  <li><a href="#project-management---overview" id="toc-project-management---overview" class="nav-link active" data-scroll-target="#project-management---overview">Project Management - Overview</a></li>
+  <li><a href="#project-management---sustainability" id="toc-project-management---sustainability" class="nav-link" data-scroll-target="#project-management---sustainability">Project Management - Sustainability</a>
+  <ul class="collapse">
+  <li><a href="#suggested-reading---sustainability-in-biomedical-research" id="toc-suggested-reading---sustainability-in-biomedical-research" class="nav-link" data-scroll-target="#suggested-reading---sustainability-in-biomedical-research">Suggested reading - sustainability in biomedical research</a></li>
+  </ul></li>
+  <li><a href="#project-management-resources" id="toc-project-management-resources" class="nav-link" data-scroll-target="#project-management-resources">Project Management Resources</a></li>
+  <li><a href="#lab-notebooks-how-to-and-resources" id="toc-lab-notebooks-how-to-and-resources" class="nav-link" data-scroll-target="#lab-notebooks-how-to-and-resources">Lab notebooks how-to and resources</a></li>
+  <li><a href="#links-to-some-additional-useful-projecttime-management-resources" id="toc-links-to-some-additional-useful-projecttime-management-resources" class="nav-link" data-scroll-target="#links-to-some-additional-useful-projecttime-management-resources">Links to some additional useful Project/Time Management Resources</a></li>
   </ul>
 </nav>
     </div>
@@ -279,6 +342,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="project-management---overview" class="level2">
+<h2 class="anchored" data-anchor-id="project-management---overview">Project Management - Overview</h2>
 <p>Organising your project work, and managing your time effectively, may seem like very basic skills that require no guidance/help. However, both are fundamental and underpin not only your work in this project, but will likely be important for your work/career going forward. It is possible to improve your project and time management skills (and thus become a more effective worker) - but this takes attention and focus.</p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -294,6 +359,39 @@ Note
 </div>
 </div>
 <p>This section is not intended to be a comprehensive guide to project and time management, but does provide a curated set of resources that may help you get started.</p>
+<div class="callout callout-style-default callout-callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Before you begin your project, you should:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><p>Have a plan for how you will manage (store) raw data, results, and other files. (Choose an organizational system that works for you, and stick with it.)</p></li>
+<li><p>Select a reference manager, and input records for the papers that you are reading/likely to cite</p></li>
+<li><p>Choose a format for keeping a lab notebook, to record your experiments and daily progress</p></li>
+<li><p>Draft a timeline for your project, with specific milestones and agreed deadlines for draft submissions</p></li>
+<li><p>Have considered the sustainability implications of your project, and come up with a plan for the most efficient and effective use of resources</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="project-management---sustainability" class="level2">
+<h2 class="anchored" data-anchor-id="project-management---sustainability">Project Management - Sustainability</h2>
+<p>One key factor to consider when planning and managing your project is sustainability. We are in the midst of a global climate crisis, and although biomedical research often works toward one or more of the <a href="https://sdgs.un.org/goals">UN Sustainable Development Goals</a>, it also has a very large carbon footprint and has undeniable sustainability problems. (For example: the energy needed to maintain ultra-low temperature freezers or run large computing cores; the use of single-use disposable plastics; generation of hazardous waste; etc.)</p>
+<p>Part of managing your project is making sustainable choices and using resources effectively, whether this is minimizing the number of plastic pipet tips you use or making sustainable choices for data analysis, file management, or other computing needs.</p>
+<section id="suggested-reading---sustainability-in-biomedical-research" class="level3">
+<h3 class="anchored" data-anchor-id="suggested-reading---sustainability-in-biomedical-research">Suggested reading - sustainability in biomedical research</h3>
+<p>Freese T, Elzinga N, Heinemann M, Lerch MM, Feringa BL. The relevance of sustainable laboratory practices. RSC Sustain. 2024;2(5):1300-1336. Published 2024 Mar 18. doi:10.1039/d4su00056k</p>
+<p>Durgan J, Rodríguez-Martínez M, Rouse B. Green Labs: a guide to developing sustainable science in your organization. Immunol Cell Biol. 2023;101(4):289-301. doi:10.1111/imcb.12624</p>
+<p>Aragaw TA, Mekonnen BA. Understanding disposable plastics effects generated from the PCR testing labs during the COVID-19 pandemic. J Hazard Mater Adv. 2022;7:100126. doi:10.1016/j.hazadv.2022.100126</p>
+<p>Lannelongue L, Grealey J, Bateman A, Inouye M. Ten simple rules to make your computing more environmentally sustainable. PLoS Comput Biol. 2021;17(9):e1009324. Published 2021 Sep 20. doi:10.1371/journal.pcbi.1009324</p>
+<p>Veyssi A, Samineni L, Mohanty RP. Bio-contaminated plastic micropipette tip sterilization stations: Environmentally, economically, and energetically viable solution. Waste Manag. 2025;196:71-79. doi:10.1016/j.wasman.2025.02.004</p>
+<p>Graham, M., Samuel, G. &amp; Farley, M. Roadmap for low-carbon ultra-low temperature storage in biobanking. J Transl Med 22, 747 (2024). https://doi.org/10.1186/s12967-024-05383-5</p>
+<p>Sarink MJ, Bode LGM, Croughs P, et al.&nbsp;Less Is More: When to Repeat Antimicrobial Susceptibility Testing. J Clin Microbiol. 2023;61(8):e0046323. doi:10.1128/jcm.00463-23</p>
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -307,8 +405,10 @@ Back up your work!!!
 <p><strong>Please</strong> make sure you back up your thesis work. IT issues such as computer failure are <strong>not</strong> considered grounds for an extension (and you don’t want to have to redo all your hard work anyway!) It is good practice to make sure you have at least three secure back-up copies of your work stored in different places.</p>
 </div>
 </div>
-<section id="project-management-overview" class="level2">
-<h2 class="anchored" data-anchor-id="project-management-overview">Project Management Overview</h2>
+</section>
+</section>
+<section id="project-management-resources" class="level2">
+<h2 class="anchored" data-anchor-id="project-management-resources">Project Management Resources</h2>
 <ul>
 <li><p><a href="https://sipbs-compbiol.github.io/BM432/notebooks/03-data_management_workshop.html">Project management guidelines</a> [Notebooks on data and project management prepared by Dr.&nbsp;Pritchard and Dr.&nbsp;Feeney for the 2022 session of BM432]. These include:</p>
 <ul>
@@ -318,8 +418,12 @@ Back up your work!!!
 <li><p><a href="https://sipbs-compbiol.github.io/BM432/notebooks/03-04-keeping_a_lab_notebook.html">04-Keeping a Lab Notebook to Document Your Project</a></p></li>
 <li><p><a href="https://sipbs-compbiol.github.io/BM432/notebooks/03-05-reference_management.html">05-Reference Management</a></p></li>
 <li><p><a href="https://sipbs-compbiol.github.io/BM432/notebooks/03-06-using_a_reference_manager.html">06-How to Use Reference Management Software</a></p></li>
+</ul></li>
 </ul>
-<h2 id="lab-notebooks-how-to-and-resources" class="anchored">Lab notebooks how-to and resources</h2></li>
+</section>
+<section id="lab-notebooks-how-to-and-resources" class="level2">
+<h2 class="anchored" data-anchor-id="lab-notebooks-how-to-and-resources">Lab notebooks how-to and resources</h2>
+<ul>
 <li><p><a href="https://www.science.org/content/article/how-keep-lab-notebook">How to keep a lab notebook</a></p></li>
 <li><p><a href="https://bitesizebio.com/11068/10-tips-for-organizing-your-lab-book/">10 Tips For Organizing Your Lab Book</a></p></li>
 <li><p><a href="https://blog.addgene.org/how-to-keep-a-lab-notebook-for-bioinformatic-analyses">How to Keep a Lab Notebook for Bioinformatic Analyses</a></p></li>
@@ -328,8 +432,8 @@ Back up your work!!!
 <li><p><a href="https://www.liveabout.com/computer-file-management-tips-2948083">10 File Management Tips to Keep Your Electronic Files Organized</a></p></li>
 </ul>
 </section>
-<section id="links-to-some-useful-projecttime-management-resources" class="level2">
-<h2 class="anchored" data-anchor-id="links-to-some-useful-projecttime-management-resources">Links to some useful Project/Time Management Resources</h2>
+<section id="links-to-some-additional-useful-projecttime-management-resources" class="level2">
+<h2 class="anchored" data-anchor-id="links-to-some-additional-useful-projecttime-management-resources">Links to some additional useful Project/Time Management Resources</h2>
 <ul>
 <li><p>You may find it helpful to use project planning tools such as <a href="https://trello.com/">Trello</a>, <a href="https://asana.com/">Asana</a>, or similar tools that help to manage tasks/track completion/etc.</p></li>
 <li><p><a href="https://pomofocus.io/">Pomodoro Timer</a> (<a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">explanation of the Pomodoro Technique</a>)</p></li>

@@ -33,7 +33,7 @@ When you have prepared your figure, go back through this checklist and ask yours
 
 ## Recommended Reading on Figure Preparation
 
--   You will very likely helpful to read through the workshop materials used in BM432 on [Data presentation and figure preparation](https://sipbs-compbiol.github.io/BM432/notebooks/04-data_presentation_workshop.html).
+-   You will very likely find it helpful to read through the workshop materials used in BM432 on [Data presentation and figure preparation](https://sipbs-compbiol.github.io/BM432/notebooks/04-data_presentation_workshop.html).
 
 -   [Making model figures](./assets/Making_model_figures_workshop.pptx) (slides for discussing the use of model figures)
 
@@ -51,9 +51,9 @@ When you have prepared your figure, go back through this checklist and ask yours
 
 ## Other Useful Resources
 
--   [Biorender](https://www.biorender.com/)
+-   [Biorender](https://www.biorender.com/) [widely used for making figures; though there has been [some controversy](https://www.chemistryworld.com/news/thousands-of-published-studies-may-contain-images-with-incorrect-copyright-licences/4020367.article) over copyright of the produced figures]
 
--   [ImageJ Basics](https://imagej.nih.gov/ij/docs/pdfs/ImageJ.pdf)
+-   [ImageJ Basics](https://imagej.nih.gov/ij/docs/pdfs/ImageJ.pdf) [FIJI or ImageJ are widely used platforms for image analysis; open source and there are many helpful tutorials available online]
 
 -   [Coblis --- Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
 
@@ -66,7 +66,7 @@ When you have prepared your figure, go back through this checklist and ask yours
 
 -   Make sure you include a scale on any images that need them (e.g., micrographs, phylogenetic trees)
 
--   By convention, figure titles and legends are presented **below** the corresponding figure, while table titles are presented **above** the corresponding table.
+-   By convention, figure titles and legends are presented **below** the corresponding figure, while table titles are presented **above** the corresponding table (and tables do not normally need legends).
 
 -   Make sure your text is formatted correctly within your figure (e.g., species names should be italicized, gene and protein names should be formatted correctly)
 

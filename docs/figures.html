@@ -66,6 +66,52 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>
+div.callout-callout-microbe.callout {
+  border-left-color: #1E90FF;
+}
+div.callout-callout-microbe.callout-style-default > .callout-header {
+  background-color: rgba(30, 144, 255, 0.13);
+}
+div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewbox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"></path></svg>');}
+div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
+  content: '🧫';
+  background-image: none;
+}
+div.callout-callout-todo.callout {
+  border-left-color: pink;
+}
+div.callout-callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
+}
+div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewbox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"></path></svg>');}
+div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
+  background-image: none;
+}
+div.callout-callout-check.callout {
+  border-left-color: #BA55D3;
+}
+div.callout-callout-check.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
+}
+div.callout-callout-check .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewbox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"></path></svg>');}
+div.callout-callout-check.callout-style-default .callout-icon::before, div.callout-callout-check.callout-titled .callout-icon::before {
+  content: '✨';
+  background-image: none;
+}
+div.callout-callout-data.callout {
+  border-left-color: #32CD32;
+}
+div.callout-callout-data.callout-style-default > .callout-header {
+  background-color: rgba(50, 205, 50, 0.13);
+}
+div.callout-callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewbox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"></path></svg>');}
+div.callout-callout-data.callout-style-default .callout-icon::before, div.callout-callout-data.callout-titled .callout-icon::before {
+  content: '📊';
+  background-image: none;
+}
+</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -94,7 +140,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./writingtips.html">Thesis preparation</a></li><li class="breadcrumb-item"><a href="./figures.html">Preparing Figures</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./figures.html">Guidance on Specific Thesis Sections</a></li><li class="breadcrumb-item"><a href="./figures.html">Preparing Figures</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -187,7 +233,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
- <span class="menu-text">Thesis preparation</span></a>
+ <span class="menu-text">General Thesis Writing</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -207,6 +253,23 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./AI.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Notes on the use of generative AI</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
+ <span class="menu-text">Guidance on Specific Thesis Sections</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./figures.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Preparing Figures</span></a>
   </div>
@@ -217,23 +280,17 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Writing a Methods Section</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./AI.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Notes on the use of generative AI</span></a>
-  </div>
-</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true">
  <span class="menu-text">Presentations</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./slides.html" class="sidebar-item-text sidebar-link">
@@ -261,7 +318,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content column-body" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./writingtips.html">Thesis preparation</a></li><li class="breadcrumb-item"><a href="./figures.html">Preparing Figures</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./figures.html">Guidance on Specific Thesis Sections</a></li><li class="breadcrumb-item"><a href="./figures.html">Preparing Figures</a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title">Preparing Figures</h1>
 </div>
@@ -311,7 +368,7 @@ Tip
 <section id="recommended-reading-on-figure-preparation" class="level2">
 <h2 class="anchored" data-anchor-id="recommended-reading-on-figure-preparation">Recommended Reading on Figure Preparation</h2>
 <ul>
-<li><p>You will very likely helpful to read through the workshop materials used in BM432 on <a href="https://sipbs-compbiol.github.io/BM432/notebooks/04-data_presentation_workshop.html">Data presentation and figure preparation</a>.</p></li>
+<li><p>You will very likely find it helpful to read through the workshop materials used in BM432 on <a href="https://sipbs-compbiol.github.io/BM432/notebooks/04-data_presentation_workshop.html">Data presentation and figure preparation</a>.</p></li>
 <li><p><a href="./assets/Making_model_figures_workshop.pptx">Making model figures</a> (slides for discussing the use of model figures)</p></li>
 <li><p><a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128">Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm</a></p></li>
 <li><p><a href="https://doi.org/10.1371/journal.pcbi.1003833">Read Ten Simple Rules for Better Figures</a></p></li>
@@ -324,8 +381,8 @@ Tip
 <section id="other-useful-resources" class="level2">
 <h2 class="anchored" data-anchor-id="other-useful-resources">Other Useful Resources</h2>
 <ul>
-<li><p><a href="https://www.biorender.com/">Biorender</a></p></li>
-<li><p><a href="https://imagej.nih.gov/ij/docs/pdfs/ImageJ.pdf">ImageJ Basics</a></p></li>
+<li><p><a href="https://www.biorender.com/">Biorender</a> [widely used for making figures; though there has been <a href="https://www.chemistryworld.com/news/thousands-of-published-studies-may-contain-images-with-incorrect-copyright-licences/4020367.article">some controversy</a> over copyright of the produced figures]</p></li>
+<li><p><a href="https://imagej.nih.gov/ij/docs/pdfs/ImageJ.pdf">ImageJ Basics</a> [FIJI or ImageJ are widely used platforms for image analysis; open source and there are many helpful tutorials available online]</p></li>
 <li><p><a href="https://www.color-blindness.com/coblis-color-blindness-simulator/">Coblis — Color Blindness Simulator</a></p></li>
 <li><p><a href="https://rstudio.github.io/cheatsheets/html/data-visualization.html?_gl=1*yq93b*_ga*NDg4Mzg2NDQ4LjE2OTI4ODYzNzY.*_ga_2C0WZ1JHG0*MTY5MzIyOTcyMy41LjAuMTY5MzIyOTcyMy4wLjAuMA..">Data visualization with ggplot2 :: Cheat Sheet</a></p></li>
 </ul>
@@ -342,7 +399,7 @@ A few points about specific figure types (a.k.a. some of Morgan’s pet peeves)
 <ul>
 <li><p><a href="https://schaechter.asmblog.org/schaechter/2018/07/why-you-must-plot-your-growth-data-on-semi-log-graph-paper.html">Why You <em>Must</em> Plot Your Growth Data On Semi-log Graph Paper</a></p></li>
 <li><p>Make sure you include a scale on any images that need them (e.g., micrographs, phylogenetic trees)</p></li>
-<li><p>By convention, figure titles and legends are presented <strong>below</strong> the corresponding figure, while table titles are presented <strong>above</strong> the corresponding table.</p></li>
+<li><p>By convention, figure titles and legends are presented <strong>below</strong> the corresponding figure, while table titles are presented <strong>above</strong> the corresponding table (and tables do not normally need legends).</p></li>
 <li><p>Make sure your text is formatted correctly within your figure (e.g., species names should be italicized, gene and protein names should be formatted correctly)</p></li>
 </ul>
 </div>

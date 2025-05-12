@@ -7,15 +7,27 @@ You will receive extensive guidance on how to review and engage with the literat
 
 ## Literature review tips
 
-0: From day 1, start using a reference manager to keep track of the papers you read. Use a sensible system to organize your notes. (There's nothing like sitting down to write, and thinking - I know I've read this somewhere - now where was it? and spending five hours combing through the literature to find a paper you've already read.)
+**Tip #1**: From day 1, start using a reference manager to keep track of the papers you read. Use a sensible system to organize your notes. (There's nothing like sitting down to write, and thinking - "I know I've read this somewhere - now where was it?" and then needing to spend five hours combing through the literature to find a paper you've already read.)
 
-1: In general, make sure your space and workflow suit the type of work that you are doing. Depending on how you work best, you may find it helpful to remove all noise and distractions (or you may find it helpful to have some sort of background noise.) But in general, engaging with the scientific literature is easiest if you remove distractions and ensure that your workspace suits what you are doing (no Facebook notifications popping up to distract you; suitable materials for taking notes at hand and easily accessible; a comfortable workplace that helps you think well; etc.) 
+**Tip #2**: In general, make sure your space and workflow suit the type of work that you are doing. Depending on how you work best, you may find it helpful to remove all noise and distractions (or you may find it helpful to have some sort of background noise.) But in general, engaging with the scientific literature is easiest if you remove distractions and ensure that your workspace suits what you are doing (no Facebook notifications popping up to distract you; suitable materials for taking notes at hand and easily accessible; a comfortable workplace that helps you think well; etc.) 
 
-2: Be sure you have a sensible, and coherent, search strategy. Use search terms that make sense for your project, and refer to e.g., the [PubMed User Guide](https://pubmed.ncbi.nlm.nih.gov/help/) or similar help documents if you need help understanding how to optimize your search strategies. 
+**Tip #3**: Be sure you have a sensible, and coherent, search strategy. Use search terms that make sense for your project, and refer to e.g., the [PubMed User Guide](https://pubmed.ncbi.nlm.nih.gov/help/) or similar help documents if you need help understanding how to optimize your search strategies. 
 
-3: Read broadly, and think critically about what you read. Try to put papers in context with one another and build up a mental model of what is known in the field, including where there might be any contradictions (Remember: just because it's been published doesn't mean it's true!) and where the gaps (interesting/unanswered questions and areas for future research) may be.
+**Tip #4**: Read broadly, and think critically about what you read. Try to put papers in context with one another and build up a mental model of what is known in the field, including where there might be any contradictions (Remember: just because it's been published doesn't mean it's true!) and where the gaps (interesting/unanswered questions and areas for future research) may be.
 
-4: Read *really* broadly - many scientific discoveries have occurred because scientists were working across disciplines, or reading and learning about topics unrelated to their own particular research question. By being open to a wide range of papers, you will learn about methods and discoveries that may well have some application to your own work. (This will also come in handy when it comes to writing your discussion section - the best discussions "zoom" out and put the study's findings in a broader context.)
+**Tip #5**: Read *really* broadly - many scientific discoveries have occurred because scientists were working across disciplines, or reading and learning about topics unrelated to their own particular research question. By being open to a wide range of papers, you will learn about methods and discoveries that may well have some application to your own work. (This will also come in handy when it comes to writing your discussion section - the best discussions "zoom" out and put the study's findings in a broader context.)
+
+::: callout-todo
+
+## Questions to ask yourself when completing your literature review
+
+- Have I surveyed all of the relevant literature on this topic - including articles that might disagree with/contradict my hypothesis or ideas?
+
+- Are there any relevant insights or comparisons I can add, by referring to literature on another topic/from another field?
+
+- Am I giving the reader the background necessary for them to understand my research question and how I am addressing a gap in the literature?
+
+:::
 
 ## Further suggested reading
 

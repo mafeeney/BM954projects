@@ -35,7 +35,7 @@ Depending on your project, you may find some of the following resources useful -
 
 -   [ActinoBase](https://actinobase.org/index.php/Main_Page)
 
-## Phage resources
+## Phage project resources
 
 - [Actinobacteriophage Database](https://phagesdb.org/)
 
@@ -70,4 +70,3 @@ Some workshops going through some bioinformatics topics, which you may find help
 - [BM329 workshop 1](https://sipbs-compbiol.github.io/BM329_Block_A_workshop/): microbial identification
 
 - [BM425 workshop 1](https://sipbs-compbiol.github.io/BM425-Workshop-1/): genome analysis
-- 

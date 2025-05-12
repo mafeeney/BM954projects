@@ -5,6 +5,8 @@ page-layout: full
 
 ## General Science Communication Resources
 
+These are some general resources for students engaging with science communication projects. However, students on other project types may still find them useful (you are, after all, going to want to communicate your science to someone at some point - even if only to write up your thesis and get a good mark for it!)
+
 -   [Science Communication Resources](https://500womenscientists.org/science-communication-resources)
 
 -   [Ten simple rules for scientists engaging in science communication](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011251)
@@ -19,6 +21,8 @@ page-layout: full
 
 ## Twine Resources
 
+Resources for students whose projects involve using Twine to create interactive stories/virtual escape rooms/etc. You may also find it useful to look at MF's [virtual escape room github](https://github.com/mafeeney/Virtual-Escape-Rooms) for some examples of coding and how to host a Twine story on GitHub.
+
 -   [Twine](https://twinery.org/)
 
 -   [Twine cookbook](https://twinery.org/cookbook/index.html)
@@ -29,4 +33,6 @@ page-layout: full
 
 -   [Harlowe manual](https://twine2.neocities.org/)
 
--   [Interactive Fiction Community Forum](https://intfiction.org/c/authoring/twine/46)
+-   [Interactive Fiction Community Forum](https://intfiction.org/c/authoring/twine/46) (a forum used by many Twine users, often helpful for troubleshooting code problems)
+
+-   [MF's project demo file](./assets/demo2024-projects.html) (right-click to download this and then import it into Twine to see the code examples)

@@ -67,15 +67,15 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-callout-check.callout {
-  border-left-color: #BA55D3;
+div.callout-callout-todo.callout {
+  border-left-color: pink;
 }
-div.callout-callout-check.callout-style-default > .callout-header {
-  background-color: rgba(186, 85, 211, 0.13);
+div.callout-callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
 }
-div.callout-callout-check .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewbox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"></path></svg>');}
-div.callout-callout-check.callout-style-default .callout-icon::before, div.callout-callout-check.callout-titled .callout-icon::before {
-  content: '✨';
+div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewbox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"></path></svg>');}
+div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
   background-image: none;
 }
 div.callout-callout-data.callout {
@@ -100,15 +100,15 @@ div.callout-callout-microbe.callout-style-default .callout-icon::before, div.cal
   content: '🧫';
   background-image: none;
 }
-div.callout-callout-todo.callout {
-  border-left-color: pink;
+div.callout-callout-check.callout {
+  border-left-color: #BA55D3;
 }
-div.callout-callout-todo.callout-style-default > .callout-header {
-  background-color: rgb(from pink r g b / 13%);
+div.callout-callout-check.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
 }
-div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewbox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"></path></svg>');}
-div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
-  content: '📝';
+div.callout-callout-check .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewbox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"></path></svg>');}
+div.callout-callout-check.callout-style-default .callout-icon::before, div.callout-callout-check.callout-titled .callout-icon::before {
+  content: '✨';
   background-image: none;
 }
 </style>
@@ -371,7 +371,7 @@ Tip
 <p>You may find it useful to use e.g., a <a href="https://www.apm.org.uk/resources/find-a-resource/gantt-chart/">Gantt Chart</a> to plan your project, although this is not required.</p>
 </div>
 </div>
-<p>You are expected to attend all meetings/group meetings. You should have completed any indicated activities for that meeting (listed in “What you should do to prepare”). You should also come prepared with any questions (e.g., about papers you have read, results from your experimental work, general questions about good scientific practices, etc.)</p>
+<p>You are expected to attend all meetings/group meetings. You should have completed any indicated activities for that meeting (as communicated in the previous meeting or by e-mail). You should also come prepared with any questions (e.g., about papers you have read, results from your experimental work, general questions about good scientific practices, etc.)</p>
 <p>Note that the resources provided (e.g., papers listed in the project descriptor, resources linked in this website) are only intended as a <b>starting point</b>. You are expected to search the literature <em>independently</em> (this is part of your project performance mark.) You are also strongly encouraged to seek out additional resources to support your learning and development as a researcher (e.g.&nbsp;time management apps/resources, ggplot2 tutorials, additional writing tips/guidance….)</p>
 <p>Please be sure to check the BM954 MyPlace page regularly for any updates to official deadlines.</p>
 <div class="callout callout-style-default callout-important callout-titled">
@@ -384,13 +384,13 @@ Important
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>You <em>must</em> agree on deadlines for the submission of drafts with Dr.&nbsp;Feeney <em>in advance</em>. When considering this, take into account the fact that you will need time to incorporate Dr.&nbsp;Feeney’s feedback before the final submission of your thesis.</p>
+<p>You <em>must</em> agree on deadlines for the submission of drafts with Dr.&nbsp;Feeney <em>in advance</em>. When considering this, take into account the fact that it takes time to read a draft and provide feedback (indicative time: department policy is normally 2 weeks; and that you will also need time to incorporate Dr.&nbsp;Feeney’s feedback before the final submission of your thesis.</p>
 </div>
 </div>
 </section>
 <section id="suggested-timeline" class="level2">
 <h2 class="anchored" data-anchor-id="suggested-timeline">Suggested timeline</h2>
-<p>The suggested timeline below (Table 1) is simply that - a suggestion, and perhaps an aid to starting your own project timeline. You will want to modify it as necessary for your own project; to suit your own working patterns, and to include your own specific project details.</p>
+<p>The suggested timeline below (Table 1) is simply that - a suggestion, and perhaps an aid to starting your own project timeline. You will want to modify it as necessary for your own project; to suit your own working patterns, and to include your own specific project details (taking into account, for example, the time required to carry out an experiment and process the data).</p>
 </section>
 <section id="suggested-project-timeline." class="level2">
 <h2 class="anchored" data-anchor-id="suggested-project-timeline.">Suggested project timeline.</h2>
@@ -528,7 +528,7 @@ To do:
 <ul>
 <li><p>Continue experimental work</p></li>
 <li><p>Continue reading appropriate literature</p></li>
-<li><p>Read the <a href="./methods.html">Writing a Methods Section</a> and begin drafting methods section</p></li>
+<li><p>Read the <a href="./methods.html">Writing a Methods Section</a> document and begin drafting your methods section</p></li>
 <li><p>Complete writing exercise S4</p></li>
 </ul>
 </div>
@@ -789,7 +789,21 @@ To do:
 <li><p>Begin preparing slides for presentation</p></li>
 <li><p>Submit slides to MF for feedback and revise presentation</p></li>
 <li><p>Practice presentation (many times)</p></li>
-<li><p>Review feedback on thesis draft, and incorporate this into your work as you revise and prepare your final draft ::: callout-check</p></li>
+<li><p>Review feedback on thesis draft, and incorporate this into your work as you revise and prepare your final draft</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-callout-check callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Comprehension check:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
 <li><p>Have you read and understood the <a href="https://mafeeney.github.io/BM432projects/slides.html">presentation preparation resources</a>?</p></li>
 <li><p>Have you thought about the differences in data visualisation/presentation for an oral presentation vs.&nbsp;a written thesis, and adapted your figures for your slides appropriately?</p></li>
 <li><p>Have you thought about the types of questions your audience/markers might ask after your thesis presentation? If necessary, have you provided supplemental slides with data/figures needed to answer these questions?</p></li>
