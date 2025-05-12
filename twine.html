@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ec34e6ab1de181a80910fb60e06f2fad.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-51da2a107f1ebbae6f7b001d2b56fb61.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,6 +68,17 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
+div.callout-callout-todo.callout {
+  border-left-color: pink;
+}
+div.callout-callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
+}
+div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
+  background-image: none;
+}
 div.callout-callout-data.callout {
   border-left-color: #32CD32;
 }
@@ -99,17 +110,6 @@ div.callout-callout-microbe.callout-style-default > .callout-header {
 div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
   content: '🧫';
-  background-image: none;
-}
-div.callout-callout-todo.callout {
-  border-left-color: pink;
-}
-div.callout-callout-todo.callout-style-default > .callout-header {
-  background-color: rgb(from pink r g b / 13%);
-}
-div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
-  content: '📝';
   background-image: none;
 }
 </style>
@@ -339,6 +339,7 @@ div.callout-callout-todo.callout-style-default .callout-icon::before, div.callou
 
 <section id="general-science-communication-resources" class="level2">
 <h2 class="anchored" data-anchor-id="general-science-communication-resources">General Science Communication Resources</h2>
+<p>These are some general resources for students engaging with science communication projects. However, students on other project types may still find them useful (you are, after all, going to want to communicate your science to someone at some point - even if only to write up your thesis and get a good mark for it!)</p>
 <ul>
 <li><p><a href="https://500womenscientists.org/science-communication-resources">Science Communication Resources</a></p></li>
 <li><p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011251">Ten simple rules for scientists engaging in science communication</a></p></li>
@@ -350,13 +351,15 @@ div.callout-callout-todo.callout-style-default .callout-icon::before, div.callou
 </section>
 <section id="twine-resources" class="level2">
 <h2 class="anchored" data-anchor-id="twine-resources">Twine Resources</h2>
+<p>Resources for students whose projects involve using Twine to create interactive stories/virtual escape rooms/etc. You may also find it useful to look at MF’s <a href="https://github.com/mafeeney/Virtual-Escape-Rooms">virtual escape room github</a> for some examples of coding and how to host a Twine story on GitHub.</p>
 <ul>
 <li><p><a href="https://twinery.org/">Twine</a></p></li>
 <li><p><a href="https://twinery.org/cookbook/index.html">Twine cookbook</a></p></li>
 <li><p><a href="https://opensource.com/article/18/2/twine-gaming">How to use Twine and SugarCube to create interactive adventure games</a></p></li>
 <li><p><a href="http://www.adamhammond.com/twineguide/">A Total Beginner’s Guide to Twine 2.</a></p></li>
 <li><p><a href="https://twine2.neocities.org/">Harlowe manual</a></p></li>
-<li><p><a href="https://intfiction.org/c/authoring/twine/46">Interactive Fiction Community Forum</a></p></li>
+<li><p><a href="https://intfiction.org/c/authoring/twine/46">Interactive Fiction Community Forum</a> (a forum used by many Twine users, often helpful for troubleshooting code problems)</p></li>
+<li><p><a href="./assets/demo2024-projects.html">MF’s project demo file</a> (right-click to download this and then import it into Twine to see the code examples)</p></li>
 </ul>
 
 

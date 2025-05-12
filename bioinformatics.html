@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ec34e6ab1de181a80910fb60e06f2fad.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-51da2a107f1ebbae6f7b001d2b56fb61.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,6 +68,28 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
+div.callout-callout-check.callout {
+  border-left-color: #BA55D3;
+}
+div.callout-callout-check.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
+}
+div.callout-callout-check .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-check.callout-style-default .callout-icon::before, div.callout-callout-check.callout-titled .callout-icon::before {
+  content: '✨';
+  background-image: none;
+}
+div.callout-callout-microbe.callout {
+  border-left-color: #1E90FF;
+}
+div.callout-callout-microbe.callout-style-default > .callout-header {
+  background-color: rgba(30, 144, 255, 0.13);
+}
+div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
+  content: '🧫';
+  background-image: none;
+}
 div.callout-callout-data.callout {
   border-left-color: #32CD32;
 }
@@ -88,28 +110,6 @@ div.callout-callout-todo.callout-style-default > .callout-header {
 div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
   content: '📝';
-  background-image: none;
-}
-div.callout-callout-microbe.callout {
-  border-left-color: #1E90FF;
-}
-div.callout-callout-microbe.callout-style-default > .callout-header {
-  background-color: rgba(30, 144, 255, 0.13);
-}
-div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
-  content: '🧫';
-  background-image: none;
-}
-div.callout-callout-check.callout {
-  border-left-color: #BA55D3;
-}
-div.callout-callout-check.callout-style-default > .callout-header {
-  background-color: rgba(186, 85, 211, 0.13);
-}
-div.callout-callout-check .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-check.callout-style-default .callout-icon::before, div.callout-callout-check.callout-titled .callout-icon::before {
-  content: '✨';
   background-image: none;
 }
 </style>
@@ -313,7 +313,7 @@ div.callout-callout-check.callout-style-default .callout-icon::before, div.callo
   <li><a href="#general-bioinformatics-resources" id="toc-general-bioinformatics-resources" class="nav-link active" data-scroll-target="#general-bioinformatics-resources">General Bioinformatics Resources</a></li>
   <li><a href="#useful-toolswebsites" id="toc-useful-toolswebsites" class="nav-link" data-scroll-target="#useful-toolswebsites">Useful tools/websites</a></li>
   <li><a href="#streptomycesactinomycetes-resources" id="toc-streptomycesactinomycetes-resources" class="nav-link" data-scroll-target="#streptomycesactinomycetes-resources">Streptomyces/actinomycetes resources</a></li>
-  <li><a href="#phage-resources" id="toc-phage-resources" class="nav-link" data-scroll-target="#phage-resources">Phage resources</a></li>
+  <li><a href="#phage-project-resources" id="toc-phage-project-resources" class="nav-link" data-scroll-target="#phage-project-resources">Phage project resources</a></li>
   <li><a href="#actdes-resources" id="toc-actdes-resources" class="nav-link" data-scroll-target="#actdes-resources">actDES resources</a></li>
   <li><a href="#additional-selected-tutorials" id="toc-additional-selected-tutorials" class="nav-link" data-scroll-target="#additional-selected-tutorials">Additional selected tutorials</a></li>
   </ul>
@@ -369,8 +369,8 @@ div.callout-callout-check.callout-style-default .callout-icon::before, div.callo
 <li><p><a href="https://actinobase.org/index.php/Main_Page">ActinoBase</a></p></li>
 </ul>
 </section>
-<section id="phage-resources" class="level2">
-<h2 class="anchored" data-anchor-id="phage-resources">Phage resources</h2>
+<section id="phage-project-resources" class="level2">
+<h2 class="anchored" data-anchor-id="phage-project-resources">Phage project resources</h2>
 <ul>
 <li><p><a href="https://phagesdb.org/">Actinobacteriophage Database</a></p></li>
 <li><p><a href="./assets/Galaxy_instructions_annotate_phage_genome.docx">Phage tutorial 1</a>: In this first tutorial, we go through how to create and name a new history in Galaxy, identify and import phage genome sequences into Galaxy, and annotate and examine the imported phage genomes</p></li>
@@ -397,7 +397,6 @@ div.callout-callout-check.callout-style-default .callout-icon::before, div.callo
 <li><p><a href="https://sipbs-compbiol.github.io/BM211-Workshop-5/">BM211 workshop 5</a>: phylogenetic trees</p></li>
 <li><p><a href="https://sipbs-compbiol.github.io/BM329_Block_A_workshop/">BM329 workshop 1</a>: microbial identification</p></li>
 <li><p><a href="https://sipbs-compbiol.github.io/BM425-Workshop-1/">BM425 workshop 1</a>: genome analysis</p></li>
-<li></li>
 </ul>
 
 

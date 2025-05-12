@@ -1,112 +1,35 @@
 [
   {
-    "objectID": "methods.html",
-    "href": "methods.html",
-    "title": "Writing a Methods Section",
+    "objectID": "twine.html",
+    "href": "twine.html",
+    "title": "Science Communication Resources",
     "section": "",
-    "text": "Check out this annotated example of how to write a methods section for an example of a generally good methods section and some key points.",
-    "crumbs": [
-      "Guidance on Specific Thesis Sections",
-      "Writing a Methods Section"
-    ]
-  },
-  {
-    "objectID": "methods.html#tips-for-writing-a-great-methods-section",
-    "href": "methods.html#tips-for-writing-a-great-methods-section",
-    "title": "Writing a Methods Section",
-    "section": "Tips for Writing a Great Methods Section",
-    "text": "Tips for Writing a Great Methods Section\n\nDescribe your experimental methods in enough detail that your reader could replicate the experiments.\nYour methods section is not a protocol (a step-by-step list of everything that was done.) You may assume that your reader is a competent scientist with the skills to perform basic lab calculations, techniques, etc.\nCite the appropriate literature (i.e. for any recipes, tools, protocols you have used).\nDo not include results or rationale for performing experiments (these belong elsewhere in your thesis).\nBe clear and concise; eliminate unnecessary words and steps.\nMake sure that your methods section includes all of the materials and methods you used in your thesis (This includes any bioinformatics methods such as BLAST!)\nAsk a friend or colleague to read your methods section and give feedback.\n\n\n\n\n\n\n\nProtip: Look at papers that have used similar methods: how are these methods sections written?\n\n\n\nYou want to make sure that your methods section generally follows the conventions in your field, so that readers will be able to understand it more easily.\nA few examples of specific conventions:\n\nfor wet-lab projects, centrifuge speeds are always given in xg, not in rpm or rcf\nfor sci comm projects, the design of your intervention/survey belongs in the methods section\nfor bioinformatics projects, always include the version number of any software used and details of parameters, etc.",
-    "crumbs": [
-      "Guidance on Specific Thesis Sections",
-      "Writing a Methods Section"
-    ]
-  },
-  {
-    "objectID": "experimentaldesign.html",
-    "href": "experimentaldesign.html",
-    "title": "Experimental Design",
-    "section": "",
-    "text": "During the course of your thesis work, you will likely be carrying out a number of different experiments. These may take different forms: e.g., a wet lab experiment might involve disrupting a gene to test its function; a science communication experiment might involve using a survey to assess whether a particular piece of science communication is effective or not; a bioinformatics experiment might involve using a multiple sequence alignment tool to test whether a particular amino acid residue in a protein is well-conserved amongst a set of homologous proteins.\nRegardless of the type of experiment, you will want to make sure that you are carrying it out to the best of your ability. You need, for example, to ensure that you are using the most appropriate technique and including any appropriate controls.\nGood experimental design requires critical thought. You are not expected to blindly do experiments “because Dr. Feeney said so” or “because so-and-so did it this way”. Instead, you should make certain that you are thinking about your experiments and making the best and most appropriate choices.\n\n\n\n\n\n\nMorgan’s top tips for good experimental design\n\n\n\n\nControls, controls, controls. Do you have an appropriate positive control and negative control (if appropriate for this type of experiment)?\nWill you be able to correctly interpret the results of your experiment, or might you be misled by false positives/false negatives/other errors?\nMake sure you have a clear hypothesis/aim, and that your experiment is actually able to test that hypothesis/achieve that aim.\nChange one thing at a time. Don’t overcomplicate things, or try to do too much at once - simpler is generally better.\nHave a plan for data analysis and statistical analysis before you begin - this should not be an afterthought.\n\n\n\nThe other pages in this section contain various resources for the different types of experiments you might be carrying out as part of your project (e.g., bioinformatics, science communication, etc.) - but as always, this is not meant to be taken as an exhaustive list. You are advised to read broadly, think deeply about your experiments, and discuss your experimental design in detail with Dr. Feeney.\nSuggested reading about experimental design:\n\nMP968: Experimental Design Workshop: Dr Pritchard’s workshop, which includes a very useful introduction to thinking about statistics in the context of experimental design (also contains references for further reading on the topic)\nLet’s Experiment : A Guide for Scientists Working at the Bench: An IBiology course (requires signup, but free)\nCasadevall A, Fang FC. 2016. Rigorous science: a how-to guide. mBio 7(6):e01902-16. doi:10.1128/mBio.01902-16.\nRuxton, Graeme D., and Nick. Colegrave. Experimental Design for the Life Sciences. 2nd ed. Oxford; New York: Oxford University Press, 2006. Print. [Available in the Strathclyde library]",
+    "text": "These are some general resources for students engaging with science communication projects. However, students on other project types may still find them useful (you are, after all, going to want to communicate your science to someone at some point - even if only to write up your thesis and get a good mark for it!)\n\nScience Communication Resources\nTen simple rules for scientists engaging in science communication\nTen simple rules for drawing scientific comics\nTen Simple Rules for Effective Online Outreach\nHow to Eliminate Jargon From Science Communication\nWriting Survey Questions",
     "crumbs": [
       "Experimental Work",
-      "Experimental Design"
+      "Science Communication Resources"
     ]
   },
   {
-    "objectID": "figures.html",
-    "href": "figures.html",
-    "title": "Preparing Figures",
+    "objectID": "twine.html#general-science-communication-resources",
+    "href": "twine.html#general-science-communication-resources",
+    "title": "Science Communication Resources",
     "section": "",
-    "text": "Determine what point you wish to convey with your figure and the most effective way of conveying that point\nRemove any extraneous or distracting data that distracts from the main message of your figure\nDetermine how large the figure needs to be: how much space will it take up on a page?\nWill it be easy for your reader to see key details if the figure is this size?\nCheck that the figure is clear and not pixellated: will your reader be able to see all the important details? Is the resolution good enough?\nCheck that the colour scheme you have chosen is colour-blind friendly and not visually jarring\nCheck that any fonts used are legible at the size printed\nFigure titles should give a concise “take-home message” conveying the result(s) shown in the figure\nFigure legends should give enough detail about the experiment for the reader to understand what was done (the figure should be able to stand on its own)\n\n\n\n\n\n\n\nTip\n\n\n\nWhen you have prepared your figure, go back through this checklist and ask yourself if you have addressed every point here. You may find it helpful to ask a friend or colleague to look at your figure and give you feedback: does it make sense to them? is anything missing, or could the figure be improved in some way?\n\n\nGuidance on writing good figure titles and legends (with examples)",
-    "crumbs": [
-      "Guidance on Specific Thesis Sections",
-      "Preparing Figures"
-    ]
-  },
-  {
-    "objectID": "figures.html#figure-preparation-checklist",
-    "href": "figures.html#figure-preparation-checklist",
-    "title": "Preparing Figures",
-    "section": "",
-    "text": "Determine what point you wish to convey with your figure and the most effective way of conveying that point\nRemove any extraneous or distracting data that distracts from the main message of your figure\nDetermine how large the figure needs to be: how much space will it take up on a page?\nWill it be easy for your reader to see key details if the figure is this size?\nCheck that the figure is clear and not pixellated: will your reader be able to see all the important details? Is the resolution good enough?\nCheck that the colour scheme you have chosen is colour-blind friendly and not visually jarring\nCheck that any fonts used are legible at the size printed\nFigure titles should give a concise “take-home message” conveying the result(s) shown in the figure\nFigure legends should give enough detail about the experiment for the reader to understand what was done (the figure should be able to stand on its own)\n\n\n\n\n\n\n\nTip\n\n\n\nWhen you have prepared your figure, go back through this checklist and ask yourself if you have addressed every point here. You may find it helpful to ask a friend or colleague to look at your figure and give you feedback: does it make sense to them? is anything missing, or could the figure be improved in some way?\n\n\nGuidance on writing good figure titles and legends (with examples)",
-    "crumbs": [
-      "Guidance on Specific Thesis Sections",
-      "Preparing Figures"
-    ]
-  },
-  {
-    "objectID": "figures.html#recommended-reading-on-figure-preparation",
-    "href": "figures.html#recommended-reading-on-figure-preparation",
-    "title": "Preparing Figures",
-    "section": "Recommended Reading on Figure Preparation",
-    "text": "Recommended Reading on Figure Preparation\n\nYou will very likely helpful to read through the workshop materials used in BM432 on Data presentation and figure preparation.\nMaking model figures (slides for discussing the use of model figures)\nBeyond Bar and Line Graphs: Time for a New Data Presentation Paradigm\nRead Ten Simple Rules for Better Figures\nDigital Images Are Data: And Should Be Treated as Such\nTen common statistical mistakes to watch out for when writing or reviewing a manuscript\nFundamentals of graphic design—essential tools for effective visual science communication\n11 Graphic Design Tips to Create Images Like a Pro",
-    "crumbs": [
-      "Guidance on Specific Thesis Sections",
-      "Preparing Figures"
-    ]
-  },
-  {
-    "objectID": "figures.html#other-useful-resources",
-    "href": "figures.html#other-useful-resources",
-    "title": "Preparing Figures",
-    "section": "Other Useful Resources",
-    "text": "Other Useful Resources\n\nBiorender\nImageJ Basics\nCoblis — Color Blindness Simulator\nData visualization with ggplot2 :: Cheat Sheet\n\n\n\n\n\n\n\nA few points about specific figure types (a.k.a. some of Morgan’s pet peeves)\n\n\n\n\nWhy You Must Plot Your Growth Data On Semi-log Graph Paper\nMake sure you include a scale on any images that need them (e.g., micrographs, phylogenetic trees)\nBy convention, figure titles and legends are presented below the corresponding figure, while table titles are presented above the corresponding table.\nMake sure your text is formatted correctly within your figure (e.g., species names should be italicized, gene and protein names should be formatted correctly)",
-    "crumbs": [
-      "Guidance on Specific Thesis Sections",
-      "Preparing Figures"
-    ]
-  },
-  {
-    "objectID": "RStudio.html",
-    "href": "RStudio.html",
-    "title": "R Studio Resources",
-    "section": "",
-    "text": "Depending on your project, you may find the following resources useful - please note that this is by no means an exhaustive list, just a starting point - there are many other helpful resources out there. While you do not necessarily need to use R/R Studio for your data analysis, you will likely find that being able to work in R is an important transferable skill and important for your future career. Feel free to discuss with Dr. Feeney if you have any questions.\n\nGetting Started (ModernDive)\nR for Data Science (2nd edition)\nIntroduction to ggplot2\nggplot2 tutorial\n\n\n\nDemos for AY 2024-2025 projects\n\nRdemo1.R: R script used for demo 1\nRdemo1.csv: .csv data file used for demo 1\nRdemo2.R: R script used for demo 2\nRdemo2.csv: .csv data file used for demo 2\n\n\n\n\nSome intro R tutorials you may find useful:\n\nBM214 workshop 3: an intro to ggplot2 in the context of plotting growth curves and analysing reporter gene expression (2nd year intro microbiology workshop)\nBM327 workshop 2: an intro to ggplot2 in the context of identifying UTI adhesion factors (3rd year biomedical microbiology workshop)",
+    "text": "These are some general resources for students engaging with science communication projects. However, students on other project types may still find them useful (you are, after all, going to want to communicate your science to someone at some point - even if only to write up your thesis and get a good mark for it!)\n\nScience Communication Resources\nTen simple rules for scientists engaging in science communication\nTen simple rules for drawing scientific comics\nTen Simple Rules for Effective Online Outreach\nHow to Eliminate Jargon From Science Communication\nWriting Survey Questions",
     "crumbs": [
       "Experimental Work",
-      "R Studio Resources"
+      "Science Communication Resources"
     ]
   },
   {
-    "objectID": "RStudio.html#general-r-studio-resourcesgetting-started",
-    "href": "RStudio.html#general-r-studio-resourcesgetting-started",
-    "title": "R Studio Resources",
-    "section": "",
-    "text": "Depending on your project, you may find the following resources useful - please note that this is by no means an exhaustive list, just a starting point - there are many other helpful resources out there. While you do not necessarily need to use R/R Studio for your data analysis, you will likely find that being able to work in R is an important transferable skill and important for your future career. Feel free to discuss with Dr. Feeney if you have any questions.\n\nGetting Started (ModernDive)\nR for Data Science (2nd edition)\nIntroduction to ggplot2\nggplot2 tutorial\n\n\n\nDemos for AY 2024-2025 projects\n\nRdemo1.R: R script used for demo 1\nRdemo1.csv: .csv data file used for demo 1\nRdemo2.R: R script used for demo 2\nRdemo2.csv: .csv data file used for demo 2\n\n\n\n\nSome intro R tutorials you may find useful:\n\nBM214 workshop 3: an intro to ggplot2 in the context of plotting growth curves and analysing reporter gene expression (2nd year intro microbiology workshop)\nBM327 workshop 2: an intro to ggplot2 in the context of identifying UTI adhesion factors (3rd year biomedical microbiology workshop)",
+    "objectID": "twine.html#twine-resources",
+    "href": "twine.html#twine-resources",
+    "title": "Science Communication Resources",
+    "section": "Twine Resources",
+    "text": "Twine Resources\nResources for students whose projects involve using Twine to create interactive stories/virtual escape rooms/etc. You may also find it useful to look at MF’s virtual escape room github for some examples of coding and how to host a Twine story on GitHub.\n\nTwine\nTwine cookbook\nHow to use Twine and SugarCube to create interactive adventure games\nA Total Beginner’s Guide to Twine 2.\nHarlowe manual\nInteractive Fiction Community Forum (a forum used by many Twine users, often helpful for troubleshooting code problems)\nMF’s project demo file (right-click to download this and then import it into Twine to see the code examples)",
     "crumbs": [
       "Experimental Work",
-      "R Studio Resources"
-    ]
-  },
-  {
-    "objectID": "expectations.html",
-    "href": "expectations.html",
-    "title": "Project Expectations",
-    "section": "",
-    "text": "This may be your first time working on a scientific project, and/or your first time producing a scientific document (thesis). These guidelines are here to give you an idea of what to expect, and should be read in conjunction with the BM954 guidance (available on the module MyPlace page.) Please read through these expectations and bring any questions or concerns that you would like to discuss with Dr. Feeney to our first meeting.\n\nScience:\n\nMaintain a lab notebook, either on paper or electronically. Human memory is fallible! Your notebook should be thorough and legible – if you come back to it in a month’s time, you should be able to reconstruct what you did.\n\nFor each experiment, please write the Objective, Background, Methods (including deviations from established methods), Results, and Conclusion (Your future self will thank you for doing this!)\n\nFiles should be saved with clear, concise file names and saved where you can find them again. Back up your work frequently and in more than one place – you do not want to lose all of your data!\nAt the end of the project, I expect you to provide me with the raw data files from your work: e.g. for a phylogenetic tree, I expect the .fasta file containing all of the sequences, the multiple sequence alignment of the sequences, and the .newick file for the tree. This is so that projects can be continued/expanded in future years.\n\n\n\nTeamwork/collegiality:\n\nScience is a team effort and it benefits from people working together in groups – we can accomplish more together than one person working alone can.\nListen respectfully to each other, learn from each other, and contribute as you can.\nBe respectful of others’ different life experiences, learn from them when appropriate, and contribute when appropriate. Do not insult or put down people who share their experiences. Harassment, sexism, racism, or exclusionary comments are not appropriate and prevent people from participating in science.\nRecognize that every person will bring strengths and weaknesses with them. Highlight each others strengths, and help each other overcome our weaknesses.\nIf you find that you have made a mistake: listen, offer a genuine apology, and commit to learning and doing better.\n\n\n\nKindness:\n\nBe kind to yourself. Be mindful of your limits, and aware of the fact that you are still in the middle of a global pandemic/distressing news cycles – give yourself credit for the hard work that you’re doing every day.\nBe kind to others. Give them the benefit of the doubt when needed; remember that online communication often misses nuance or meaning. Remember that everyone is struggling right now and may not be able to be their best selves.\nBe patient. Science can be hard work – things take longer to accomplish, particularly at first; you may need to repeat experiments or start over with a new dataset. This is all part of the process – you are making progress, even though it may not be readily apparent.\n\n\n\nCommunication:\n\nClear, open, honest communication – I cannot help if you don’t let me know that there’s a problem.\nMeetings at least once a week. The standard for meetings is that they are to be in person, on campus. In rare exceptions, meetings may be held via Zoom/Teams. [Online meeting etiquette: turning your camera, microphone on/off is completely up to you, no pressure either way.]\nBetween meetings, I’m available by e-mail to answer questions or you can schedule a drop-in Zoom (depending on our schedules).\nDon’t be afraid to ask for help:\n\nMe (…this is literally my job!)\nEach other\nThe micro group\nAsk questions in your lectures/open office sessions\nTwitter/BlueSky/etc. (you will often find interested experts in the field on social media, happy to chat about their favourite subject! Don’t be a bother/expect them to do your work for you, but do engage politely and respectfully.)\n\nHow to ask for help: … after Google, reading papers, looking at manuals and FAQs has proven unhelpful!\n\nBe detailed and specific! (“I tried it and it didn’t work” is not a useful question).\nExplain what you were trying to do, exactly how you tried to do it, exactly what happened (e.g. what error message you got) – include screenshots if they help to illustrate the problem. This will save a lot of time and back-and-forth e-mails\n\nTake ownership of your project: I am here to help and to guide you, but this is not my thesis (I have already done one!) Come prepared to meetings Think independently and critically Read broadly All of the above contributes to your project performance mark\nDon’t be afraid to tell me that I’m wrong:\n\nYour data may well contradict my hypotheses or ideas\nYou might find something in the literature that I wasn’t aware of\nYou may well have insights and clever thoughts that I won’t have\nDoing science is about being able to challenge the accepted dogma and prove ideas wrong\n\n\n\n\nWhat you can expect from me:\n\nKindness, team-work, and collegiality\nAdvice and guidance on planning and carrying out your experiments\nGuidance on how to write a scientific document\nFeedback on drafts and practice presentation\nGood communication\nE-mail responses within 24h (I will do my absolute best)\nFeedback on project performance\nReferences when you are applying for jobs/PhDs/etc. in the future (please do give me some advance notice of these, as it helps me to plan my work and make sure that the reference is submitted on time)\n\n\n\n\n\n\n\nA few tips and suggestions for success\n\n\n\n\nTake care of yourself (a healthy mind requires a healthy body)\nStay organized. Set yourself deadlines (but be flexible when need be)\nDon’t feel the need to write your draft in one go – it’s much better to work on it a little bit every day (marathon, not a sprint)\nBreak it down into small tasks\nGet into the habit of writing at least a few sentences daily\nTake breaks and let your mind rest/process ideas (take a walk, wash the dishes, drink some tea).\nTake breaks from the screen.\nWhen you read papers, and go to seminars/journal clubs: pay attention to the way that other people explain their science (what works? what doesn’t?)",
-    "crumbs": [
-      "Getting Started",
-      "Project Expectations"
+      "Science Communication Resources"
     ]
   },
   {
@@ -165,209 +88,48 @@
     ]
   },
   {
-    "objectID": "WritingExercises-overview.html",
-    "href": "WritingExercises-overview.html",
-    "title": "Writing Exercises",
+    "objectID": "figures.html",
+    "href": "figures.html",
+    "title": "Preparing Figures",
     "section": "",
-    "text": "A great deal of academic writing is, to put it quite simply, very bad. It may be unnecessarily verbose, confusing, or unclear. Or, it may be written with no reference to the reader’s likely background knowledge or experience, leaving ideas that are quite clear in the writer’s mind inaccessible for most readers. Worst of all, it may indeed sometimes be written in a deliberately deceptive way - as Calvin says, inflating weak ideas and obscuring poor reasoning (Figure 1). All of these writing “sins” should be avoided.\n\n\n\n‘Figure 1. Scientific writing. Image credit: Calvin and Hobbes, Bill Watterson.’\n\n\nWriting well is a skill that all scientists must develop with practice and through incorporating feedback from readers into their writing practice. Just as you would not expect to win a marathon or paint a masterpiece on the first attempt, you cannot expect your writing to be flawless when you first begin. Constant practice is essential.\n\n\n\nThere are two sets of writing exercises:\n\ncomposition exercises1 intended to assist with basic composition (sentence and paragraph structure, word choice, etc.)\nstructural exercises intended to help you understand how to structure the different elements of your thesis, and how to follow the scientific conventions for each.\n\nYou are expected to complete these exercises in your own time, but encouraged to discuss any of them with Dr. Feeney during your weekly meetings.\n\n\n\n\n\n\nImportant\n\n\n\nYou may complete these exercises at any time and in any order2, but you are expected to have completed all of the composition exercises before submitting an initial draft to Dr. Feeney.\n\n\nFinally, please note that writing well and easily is a matter of constant practice (Figure 2). Try to make an effort to write a little every day; and whenever you write, evaluate your own writing, and seek out feedback on ways that you can improve. These are skills that you will find useful not just for writing your thesis, but throughout your studies and in your future career.\n ## Composition exercises\n\nWriting composition exercise C01: Use definite, specific, concrete language; Put statements in positive form\nWriting exercise C02: Omit needless words\nWriting exercise C03: Active vs. passive voice and choice of verb tenses\nWriting exercise C04: Using transitional words\nWriting exercise C05: Sentence structure considerations (use parallel construction, keep related words together, place emphasis at the end of sentences)\nWriting exercise C06: Avoiding jargon, acronyms, and abbreviations\nWriting exercise C07: Word choice considerations\n\n\n\n\n\nWriting structure exercise S01: Evaluating Scientific Writing\nWriting structure exercise S02: Paragraph Structure; using topic sentences and organizing the logical flow of information in a paragraph\n\nSentence structure/form (more practice with some of Strunk & White’s Principles of Composition)\n\nWriting structure exercise S03: Formulating a hypothesis\nWriting structure exercise S04: Structuring your introduction\nWriting structure exercise S05: Writing a methods section\nWriting structure exercise S06: Experimental narratives\nWriting structure exercise S07: Figure legends - see also the “Guidance on writing a good figure title and legend” in Preparing Figures\nWriting structure exercise S08: Model Figures\nWriting structure exercise S09: Writing a discussion\nWriting structure exercise S10: Abstracts\nWriting structure exercise S11: Editing\n\nTITLES\n\n\n\nOne of the best ways to improve your writing is to read broadly and pay attention to the way that papers are written. Take note of which writing techniques are effective and which are less so, and then apply these ideas to your own writing.",
+    "text": "Determine what point you wish to convey with your figure and the most effective way of conveying that point\nRemove any extraneous or distracting data that distracts from the main message of your figure\nDetermine how large the figure needs to be: how much space will it take up on a page?\nWill it be easy for your reader to see key details if the figure is this size?\nCheck that the figure is clear and not pixellated: will your reader be able to see all the important details? Is the resolution good enough?\nCheck that the colour scheme you have chosen is colour-blind friendly and not visually jarring\nCheck that any fonts used are legible at the size printed\nFigure titles should give a concise “take-home message” conveying the result(s) shown in the figure\nFigure legends should give enough detail about the experiment for the reader to understand what was done (the figure should be able to stand on its own)\n\n\n\n\n\n\n\nTip\n\n\n\nWhen you have prepared your figure, go back through this checklist and ask yourself if you have addressed every point here. You may find it helpful to ask a friend or colleague to look at your figure and give you feedback: does it make sense to them? is anything missing, or could the figure be improved in some way?\n\n\nGuidance on writing good figure titles and legends (with examples)",
     "crumbs": [
-      "General Thesis Writing",
-      "Writing Exercises"
+      "Guidance on Specific Thesis Sections",
+      "Preparing Figures"
     ]
   },
   {
-    "objectID": "WritingExercises-overview.html#introduction-and-rationale",
-    "href": "WritingExercises-overview.html#introduction-and-rationale",
-    "title": "Writing Exercises",
+    "objectID": "figures.html#figure-preparation-checklist",
+    "href": "figures.html#figure-preparation-checklist",
+    "title": "Preparing Figures",
     "section": "",
-    "text": "A great deal of academic writing is, to put it quite simply, very bad. It may be unnecessarily verbose, confusing, or unclear. Or, it may be written with no reference to the reader’s likely background knowledge or experience, leaving ideas that are quite clear in the writer’s mind inaccessible for most readers. Worst of all, it may indeed sometimes be written in a deliberately deceptive way - as Calvin says, inflating weak ideas and obscuring poor reasoning (Figure 1). All of these writing “sins” should be avoided.\n\n\n\n‘Figure 1. Scientific writing. Image credit: Calvin and Hobbes, Bill Watterson.’\n\n\nWriting well is a skill that all scientists must develop with practice and through incorporating feedback from readers into their writing practice. Just as you would not expect to win a marathon or paint a masterpiece on the first attempt, you cannot expect your writing to be flawless when you first begin. Constant practice is essential.",
+    "text": "Determine what point you wish to convey with your figure and the most effective way of conveying that point\nRemove any extraneous or distracting data that distracts from the main message of your figure\nDetermine how large the figure needs to be: how much space will it take up on a page?\nWill it be easy for your reader to see key details if the figure is this size?\nCheck that the figure is clear and not pixellated: will your reader be able to see all the important details? Is the resolution good enough?\nCheck that the colour scheme you have chosen is colour-blind friendly and not visually jarring\nCheck that any fonts used are legible at the size printed\nFigure titles should give a concise “take-home message” conveying the result(s) shown in the figure\nFigure legends should give enough detail about the experiment for the reader to understand what was done (the figure should be able to stand on its own)\n\n\n\n\n\n\n\nTip\n\n\n\nWhen you have prepared your figure, go back through this checklist and ask yourself if you have addressed every point here. You may find it helpful to ask a friend or colleague to look at your figure and give you feedback: does it make sense to them? is anything missing, or could the figure be improved in some way?\n\n\nGuidance on writing good figure titles and legends (with examples)",
     "crumbs": [
-      "General Thesis Writing",
-      "Writing Exercises"
+      "Guidance on Specific Thesis Sections",
+      "Preparing Figures"
     ]
   },
   {
-    "objectID": "WritingExercises-overview.html#how-to-use-these-exercises",
-    "href": "WritingExercises-overview.html#how-to-use-these-exercises",
-    "title": "Writing Exercises",
-    "section": "",
-    "text": "There are two sets of writing exercises:\n\ncomposition exercises1 intended to assist with basic composition (sentence and paragraph structure, word choice, etc.)\nstructural exercises intended to help you understand how to structure the different elements of your thesis, and how to follow the scientific conventions for each.\n\nYou are expected to complete these exercises in your own time, but encouraged to discuss any of them with Dr. Feeney during your weekly meetings.\n\n\n\n\n\n\nImportant\n\n\n\nYou may complete these exercises at any time and in any order2, but you are expected to have completed all of the composition exercises before submitting an initial draft to Dr. Feeney.\n\n\nFinally, please note that writing well and easily is a matter of constant practice (Figure 2). Try to make an effort to write a little every day; and whenever you write, evaluate your own writing, and seek out feedback on ways that you can improve. These are skills that you will find useful not just for writing your thesis, but throughout your studies and in your future career.\n ## Composition exercises\n\nWriting composition exercise C01: Use definite, specific, concrete language; Put statements in positive form\nWriting exercise C02: Omit needless words\nWriting exercise C03: Active vs. passive voice and choice of verb tenses\nWriting exercise C04: Using transitional words\nWriting exercise C05: Sentence structure considerations (use parallel construction, keep related words together, place emphasis at the end of sentences)\nWriting exercise C06: Avoiding jargon, acronyms, and abbreviations\nWriting exercise C07: Word choice considerations",
+    "objectID": "figures.html#recommended-reading-on-figure-preparation",
+    "href": "figures.html#recommended-reading-on-figure-preparation",
+    "title": "Preparing Figures",
+    "section": "Recommended Reading on Figure Preparation",
+    "text": "Recommended Reading on Figure Preparation\n\nYou will very likely find it helpful to read through the workshop materials used in BM432 on Data presentation and figure preparation.\nMaking model figures (slides for discussing the use of model figures)\nBeyond Bar and Line Graphs: Time for a New Data Presentation Paradigm\nRead Ten Simple Rules for Better Figures\nDigital Images Are Data: And Should Be Treated as Such\nTen common statistical mistakes to watch out for when writing or reviewing a manuscript\nFundamentals of graphic design—essential tools for effective visual science communication\n11 Graphic Design Tips to Create Images Like a Pro",
     "crumbs": [
-      "General Thesis Writing",
-      "Writing Exercises"
+      "Guidance on Specific Thesis Sections",
+      "Preparing Figures"
     ]
   },
   {
-    "objectID": "WritingExercises-overview.html#structural-exercises",
-    "href": "WritingExercises-overview.html#structural-exercises",
-    "title": "Writing Exercises",
-    "section": "",
-    "text": "Writing structure exercise S01: Evaluating Scientific Writing\nWriting structure exercise S02: Paragraph Structure; using topic sentences and organizing the logical flow of information in a paragraph\n\nSentence structure/form (more practice with some of Strunk & White’s Principles of Composition)\n\nWriting structure exercise S03: Formulating a hypothesis\nWriting structure exercise S04: Structuring your introduction\nWriting structure exercise S05: Writing a methods section\nWriting structure exercise S06: Experimental narratives\nWriting structure exercise S07: Figure legends - see also the “Guidance on writing a good figure title and legend” in Preparing Figures\nWriting structure exercise S08: Model Figures\nWriting structure exercise S09: Writing a discussion\nWriting structure exercise S10: Abstracts\nWriting structure exercise S11: Editing\n\nTITLES",
+    "objectID": "figures.html#other-useful-resources",
+    "href": "figures.html#other-useful-resources",
+    "title": "Preparing Figures",
+    "section": "Other Useful Resources",
+    "text": "Other Useful Resources\n\nBiorender [widely used for making figures; though there has been some controversy over copyright of the produced figures]\nImageJ Basics [FIJI or ImageJ are widely used platforms for image analysis; open source and there are many helpful tutorials available online]\nCoblis — Color Blindness Simulator\nData visualization with ggplot2 :: Cheat Sheet\n\n\n\n\n\n\n\nA few points about specific figure types (a.k.a. some of Morgan’s pet peeves)\n\n\n\n\nWhy You Must Plot Your Growth Data On Semi-log Graph Paper\nMake sure you include a scale on any images that need them (e.g., micrographs, phylogenetic trees)\nBy convention, figure titles and legends are presented below the corresponding figure, while table titles are presented above the corresponding table (and tables do not normally need legends).\nMake sure your text is formatted correctly within your figure (e.g., species names should be italicized, gene and protein names should be formatted correctly)",
     "crumbs": [
-      "General Thesis Writing",
-      "Writing Exercises"
+      "Guidance on Specific Thesis Sections",
+      "Preparing Figures"
     ]
-  },
-  {
-    "objectID": "WritingExercises-overview.html#concluding-thoughts",
-    "href": "WritingExercises-overview.html#concluding-thoughts",
-    "title": "Writing Exercises",
-    "section": "",
-    "text": "One of the best ways to improve your writing is to read broadly and pay attention to the way that papers are written. Take note of which writing techniques are effective and which are less so, and then apply these ideas to your own writing.",
-    "crumbs": [
-      "General Thesis Writing",
-      "Writing Exercises"
-    ]
-  },
-  {
-    "objectID": "WritingExercises-overview.html#footnotes",
-    "href": "WritingExercises-overview.html#footnotes",
-    "title": "Writing Exercises",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThe “Principles of Composition” exercises are largely based on Strunk & White’s The Elements of Style, which is an excellent resource (available online or at your friendly university library). In addition to the principles of composition we will be discussing, Strunk & White contains sections on grammar and spelling, which may be helpful. However, there are many other style guides and writing resources available which you may wish to consult (see (add link here) for an inexhaustive list).↩︎\nnote that a suggested schedule for completing the structural exercises is provided in the Project Schedule↩︎",
-    "crumbs": [
-      "General Thesis Writing",
-      "Writing Exercises"
-    ]
-  },
-  {
-    "objectID": "twine.html",
-    "href": "twine.html",
-    "title": "Science Communication Resources",
-    "section": "",
-    "text": "Science Communication Resources\nTen simple rules for scientists engaging in science communication\nTen simple rules for drawing scientific comics\nTen Simple Rules for Effective Online Outreach\nHow to Eliminate Jargon From Science Communication\nWriting Survey Questions",
-    "crumbs": [
-      "Experimental Work",
-      "Science Communication Resources"
-    ]
-  },
-  {
-    "objectID": "twine.html#general-science-communication-resources",
-    "href": "twine.html#general-science-communication-resources",
-    "title": "Science Communication Resources",
-    "section": "",
-    "text": "Science Communication Resources\nTen simple rules for scientists engaging in science communication\nTen simple rules for drawing scientific comics\nTen Simple Rules for Effective Online Outreach\nHow to Eliminate Jargon From Science Communication\nWriting Survey Questions",
-    "crumbs": [
-      "Experimental Work",
-      "Science Communication Resources"
-    ]
-  },
-  {
-    "objectID": "twine.html#twine-resources",
-    "href": "twine.html#twine-resources",
-    "title": "Science Communication Resources",
-    "section": "Twine Resources",
-    "text": "Twine Resources\n\nTwine\nTwine cookbook\nHow to use Twine and SugarCube to create interactive adventure games\nA Total Beginner’s Guide to Twine 2.\nHarlowe manual\nInteractive Fiction Community Forum",
-    "crumbs": [
-      "Experimental Work",
-      "Science Communication Resources"
-    ]
-  },
-  {
-    "objectID": "management.html",
-    "href": "management.html",
-    "title": "Project and Time Management",
-    "section": "",
-    "text": "Organising your project work, and managing your time effectively, may seem like very basic skills that require no guidance/help. However, both are fundamental and underpin not only your work in this project, but will likely be important for your work/career going forward. It is possible to improve your project and time management skills (and thus become a more effective worker) - but this takes attention and focus.\nThis section is not intended to be a comprehensive guide to project and time management, but does provide a curated set of resources that may help you get started.",
-    "crumbs": [
-      "Getting Started",
-      "Project and Time Management"
-    ]
-  },
-  {
-    "objectID": "management.html#project-management-overview",
-    "href": "management.html#project-management-overview",
-    "title": "Project and Time Management",
-    "section": "Project Management Overview",
-    "text": "Project Management Overview\n\nProject management guidelines [Notebooks on data and project management prepared by Dr. Pritchard and Dr. Feeney for the 2022 session of BM432]. These include:\n\n01-Data Analysis in the Research Cycle\n02-Data and Project Management\n03-Reproducibility, Replicability, and FAIR Guidelines\n04-Keeping a Lab Notebook to Document Your Project\n05-Reference Management\n06-How to Use Reference Management Software\n\nLab notebooks how-to and resources\nHow to keep a lab notebook\n10 Tips For Organizing Your Lab Book\nHow to Keep a Lab Notebook for Bioinformatic Analyses\nTen Simple Rules for a Computational Biologist’s Laboratory Notebook\nBenchling (electronic lab notebooks)\n10 File Management Tips to Keep Your Electronic Files Organized",
-    "crumbs": [
-      "Getting Started",
-      "Project and Time Management"
-    ]
-  },
-  {
-    "objectID": "management.html#links-to-some-useful-projecttime-management-resources",
-    "href": "management.html#links-to-some-useful-projecttime-management-resources",
-    "title": "Project and Time Management",
-    "section": "Links to some useful Project/Time Management Resources",
-    "text": "Links to some useful Project/Time Management Resources\n\nYou may find it helpful to use project planning tools such as Trello, Asana, or similar tools that help to manage tasks/track completion/etc.\nPomodoro Timer (explanation of the Pomodoro Technique)\nForest (focusing app)\nEverNote (note-taking app)\n8 Time Management Tips for Students",
-    "crumbs": [
-      "Getting Started",
-      "Project and Time Management"
-    ]
-  },
-  {
-    "objectID": "writingtips.html",
-    "href": "writingtips.html",
-    "title": "General Writing Tips",
-    "section": "",
-    "text": "Please go through the Thesis submission checklist and ensure that your thesis meets all the guidelines before submitting it.\n\n\n\n\n\n\nMorgan’s Top Tips for Writing a Great Thesis, Starting from Day One\n\n\n\n\nRead broadly & think critically. You will often get great ideas from reading papers outside your field, or be able to make connections to other systems/organisms/etc. (Plus, you’ll be able to use it as extra reading in your exams!)\nOrganise your references as you go along. Use reference management software\nWrite clearly and concisely\nPay attention to sentence and paragraph structure\nBe specific & say what you mean\nUse figures where appropriate\nProofread\nCite appropriate references using a correct style\nPay attention to the instructions and the assessment criteria (available on Myplace)\n\n\n\n\n\n\nIdentify key results (outline/bullet points)\nStart writing by first making your figures (the “backbone” of your story)\nWrite the methods section (make sure you cover every experiment presented in your figures/tables)\nWrite your results section, going through each of your results (figures) in a logical order.\n\n\n\n\n\n\nOrganize your thoughts logically\n\n\n\nFor each experiment, explain:\n\nyour aim (the reason why you did the experiment)\nthe method (how you did the experiment)\nthe results (what you found)\nthe significance (what the results mean)\n\n--always in that order!!\n\n\nWrite your discussion (what do your results mean?)\n\n\n\n\n\n\nWriting a Good Discussion Section\n\n\n\nCan you create a model figure illustrating your results and placing them in the context of what was previously known?\nMake sure that any information essential for understanding your results (context) was present in the introduction. In your discussion, have you gone back to address all the key points raised in your intro?\nMake sure you do not just reiterate/rehash the points raised in your results section. Instead, make sure you put your results in the broader context (what is known in the literature? How do your results relate to other systems/types of cells/situations/etc.?)\n\n\nProofread, edit, and improve your draft based on feedback.\nWrite an abstract and decide on a title\n\n\n\n\n\n\n\nThree Common Scientific Writing Mistakes and How to Avoid Them\n\n\n\nProblem: Lack of attention to sentence structure\nExample: “Some students have really excellent ideas and are putting those ideas in their theses and making sure that they reference other people’s ideas from the literature correctly and using reference management software in appropriate ways and including a list of references at the end of their thesis. So great.”\nSolution: Be ruthless about editing your sentences until each sentence contains just one idea (the example above contained at least 4 separate ideas). It may help to read your writing aloud, as in the above example: take note of where you would naturally pause to take a breath.\nAt one end of the extreme, you have long, convoluted sentences that try to do too much (the first sentence in the example). At the other end, you have another type of grammatical disaster - beware sentence fragments.\n\nProblem: Use of scientific jargon and/or excessive acronyms\nExample: “We spun down the cells and washed them with PBS.”\nSolution: “spun down the cells” is something you might say colloquially (and that’s fine), However, in formal scientific language, you would say that the cells were centrifuged. Avoid colloquialisms and make sure you always define abbreviations (like PBS) at the first use.\n\nProblem: Lack of precision and/or attention to detail\nExample: “The genes in E. coli were translated and cheY was well conserved.”\nSolution: Pay careful attention to conventions in your field and precise usage of terms. Ask a friend or colleague to look over your writing and make sure that it conveys your intended meaning.\nHere, gene and species names should be italicized by convention (N.B. cheY refers to the gene, CheY refers to the protein). “Translated” is mis-used (remember that genes are transcribed). Finally, the sentence is, overall, frustratingly vague (which genes? what does “well conserved” mean?).\nA better and more meaningful version: “The genes involved in chemotaxis in E. coli were expressed under these experimental conditions (mid-logarithmic phase in MOPS minimal medium at 37° C). cheY was well-conserved, with homologs found in 99.4% of all analysed E. coli genomes.)\n\n\n\n\n\n\nUse a style guide, e.g. The Elements of Style\nHow to write a first-class paper\nTen simple rules for scientists: Improving your writing productivity\nNovelist Cormac McCarthy’s tips on how to write a great science pape\nTen simple rules for structuring papers\nImproving your scientific writing: a short guide\nSome tips for scientific writing\nTen Simple (Empirical) Rules for Writing Science\nSIMPLIFY Science Writing",
-    "crumbs": [
-      "General Thesis Writing",
-      "General Writing Tips"
-    ]
-  },
-  {
-    "objectID": "writingtips.html#writing-checklist---for-when-you-are-ready-to-sit-down-and-start-writing",
-    "href": "writingtips.html#writing-checklist---for-when-you-are-ready-to-sit-down-and-start-writing",
-    "title": "General Writing Tips",
-    "section": "",
-    "text": "Identify key results (outline/bullet points)\nStart writing by first making your figures (the “backbone” of your story)\nWrite the methods section (make sure you cover every experiment presented in your figures/tables)\nWrite your results section, going through each of your results (figures) in a logical order.\n\n\n\n\n\n\nOrganize your thoughts logically\n\n\n\nFor each experiment, explain:\n\nyour aim (the reason why you did the experiment)\nthe method (how you did the experiment)\nthe results (what you found)\nthe significance (what the results mean)\n\n--always in that order!!\n\n\nWrite your discussion (what do your results mean?)\n\n\n\n\n\n\nWriting a Good Discussion Section\n\n\n\nCan you create a model figure illustrating your results and placing them in the context of what was previously known?\nMake sure that any information essential for understanding your results (context) was present in the introduction. In your discussion, have you gone back to address all the key points raised in your intro?\nMake sure you do not just reiterate/rehash the points raised in your results section. Instead, make sure you put your results in the broader context (what is known in the literature? How do your results relate to other systems/types of cells/situations/etc.?)\n\n\nProofread, edit, and improve your draft based on feedback.\nWrite an abstract and decide on a title\n\n\n\n\n\n\n\nThree Common Scientific Writing Mistakes and How to Avoid Them\n\n\n\nProblem: Lack of attention to sentence structure\nExample: “Some students have really excellent ideas and are putting those ideas in their theses and making sure that they reference other people’s ideas from the literature correctly and using reference management software in appropriate ways and including a list of references at the end of their thesis. So great.”\nSolution: Be ruthless about editing your sentences until each sentence contains just one idea (the example above contained at least 4 separate ideas). It may help to read your writing aloud, as in the above example: take note of where you would naturally pause to take a breath.\nAt one end of the extreme, you have long, convoluted sentences that try to do too much (the first sentence in the example). At the other end, you have another type of grammatical disaster - beware sentence fragments.\n\nProblem: Use of scientific jargon and/or excessive acronyms\nExample: “We spun down the cells and washed them with PBS.”\nSolution: “spun down the cells” is something you might say colloquially (and that’s fine), However, in formal scientific language, you would say that the cells were centrifuged. Avoid colloquialisms and make sure you always define abbreviations (like PBS) at the first use.\n\nProblem: Lack of precision and/or attention to detail\nExample: “The genes in E. coli were translated and cheY was well conserved.”\nSolution: Pay careful attention to conventions in your field and precise usage of terms. Ask a friend or colleague to look over your writing and make sure that it conveys your intended meaning.\nHere, gene and species names should be italicized by convention (N.B. cheY refers to the gene, CheY refers to the protein). “Translated” is mis-used (remember that genes are transcribed). Finally, the sentence is, overall, frustratingly vague (which genes? what does “well conserved” mean?).\nA better and more meaningful version: “The genes involved in chemotaxis in E. coli were expressed under these experimental conditions (mid-logarithmic phase in MOPS minimal medium at 37° C). cheY was well-conserved, with homologs found in 99.4% of all analysed E. coli genomes.)",
-    "crumbs": [
-      "General Thesis Writing",
-      "General Writing Tips"
-    ]
-  },
-  {
-    "objectID": "writingtips.html#links-to-some-helpful-writing-tipsguides",
-    "href": "writingtips.html#links-to-some-helpful-writing-tipsguides",
-    "title": "General Writing Tips",
-    "section": "",
-    "text": "Use a style guide, e.g. The Elements of Style\nHow to write a first-class paper\nTen simple rules for scientists: Improving your writing productivity\nNovelist Cormac McCarthy’s tips on how to write a great science pape\nTen simple rules for structuring papers\nImproving your scientific writing: a short guide\nSome tips for scientific writing\nTen Simple (Empirical) Rules for Writing Science\nSIMPLIFY Science Writing",
-    "crumbs": [
-      "General Thesis Writing",
-      "General Writing Tips"
-    ]
-  },
-  {
-    "objectID": "literature.html",
-    "href": "literature.html",
-    "title": "Literature Review",
-    "section": "",
-    "text": "You will receive extensive guidance on how to review and engage with the literature as part of BM954. This page is intended to supplement that guidance and give some general tips for how to conduct a good literature review.",
-    "crumbs": [
-      "Getting Started",
-      "Literature Review"
-    ]
-  },
-  {
-    "objectID": "literature.html#literature-review-tips",
-    "href": "literature.html#literature-review-tips",
-    "title": "Literature Review",
-    "section": "Literature review tips",
-    "text": "Literature review tips\n0: From day 1, start using a reference manager to keep track of the papers you read. Use a sensible system to organize your notes. (There’s nothing like sitting down to write, and thinking - I know I’ve read this somewhere - now where was it? and spending five hours combing through the literature to find a paper you’ve already read.)\n1: In general, make sure your space and workflow suit the type of work that you are doing. Depending on how you work best, you may find it helpful to remove all noise and distractions (or you may find it helpful to have some sort of background noise.) But in general, engaging with the scientific literature is easiest if you remove distractions and ensure that your workspace suits what you are doing (no Facebook notifications popping up to distract you; suitable materials for taking notes at hand and easily accessible; a comfortable workplace that helps you think well; etc.)\n2: Be sure you have a sensible, and coherent, search strategy. Use search terms that make sense for your project, and refer to e.g., the PubMed User Guide or similar help documents if you need help understanding how to optimize your search strategies.\n3: Read broadly, and think critically about what you read. Try to put papers in context with one another and build up a mental model of what is known in the field, including where there might be any contradictions (Remember: just because it’s been published doesn’t mean it’s true!) and where the gaps (interesting/unanswered questions and areas for future research) may be.\n4: Read really broadly - many scientific discoveries have occurred because scientists were working across disciplines, or reading and learning about topics unrelated to their own particular research question. By being open to a wide range of papers, you will learn about methods and discoveries that may well have some application to your own work. (This will also come in handy when it comes to writing your discussion section - the best discussions “zoom” out and put the study’s findings in a broader context.)",
-    "crumbs": [
-      "Getting Started",
-      "Literature Review"
-    ]
-  },
-  {
-    "objectID": "literature.html#further-suggested-reading",
-    "href": "literature.html#further-suggested-reading",
-    "title": "Literature Review",
-    "section": "Further suggested reading",
-    "text": "Further suggested reading\nPautasso, Marco. “Ten simple rules for writing a literature review.” PLoS computational biology vol. 9,7 (2013): e1003149. doi:10.1371/journal.pcbi.1003149\nStrathclyde Library Guides: A number of guides to support student research",
-    "crumbs": [
-      "Getting Started",
-      "Literature Review"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "BM954 project resources (Dr. Feeney’s project students)",
-    "section": "",
-    "text": "Hello, and welcome! These resources are designed to assist you as you complete your MSc thesis with Dr. Feeney, and should be read in conjunction with official BM954 materials available on the course MyPlace page.\n\n\n\n\n\n\nNote\n\n\n\nYou may be here because you are doing your project work under Dr. Feeney’s supervision, or because you are doing an industrial placement project as part of the IBioIC MSc in industrial biotechnology, and Dr. Feeney is your academic supervisor for that project.\nFor students doing an industrial placement, you are welcome to make use of any of the resources on these pages; however, you should refer any questions about your project work, methods, and day-to-day questions about your project, to your industrial supervisor.\n\n\nPlease read through the project expectations document before our first meeting, and come prepared to discuss any questions you have.\nUseful resources can be accessed via the sidebar. Please report any broken links to Dr. Feeney and contact her with any questions about these materials."
   },
   {
     "objectID": "slides.html",
@@ -400,6 +162,248 @@
     "crumbs": [
       "Presentations",
       "Preparing your presentation"
+    ]
+  },
+  {
+    "objectID": "AI.html",
+    "href": "AI.html",
+    "title": "Notes on the use of generative AI",
+    "section": "",
+    "text": "Important\n\n\n\nYou should make certain you have read, and understood, the university’s policy on the use of generative AI in coursework.\n\nGenerative Artifical Intelligence and Copyright\nStudent FAQs\nYou may be tempted to use generative AI in writing your thesis, or in helping to generate ideas, polish drafts, perform data analysis tasks, etc. etc.\nThe purpose of this section is not to terrify you about the dangers of AI, or convince you that it is inherently evil (it is not), but to make sure that you are aware of the inherent limitations in AI relevant for the tasks you are doing in your project, and the potential dangers of AI use (and misuse).\nBecause generative AI draws on large language models, which essentially rely on statistical relationships between words in their training set, it has inherent limitations and biases which often result in poor performance for academic work.\nFor example, a query about the famous, classic “PaJaMo” paper1 (which our 3rd year students study in Fundamental Microbiology), produces the following AI overview2:\nAt first glance, this might appear to be a plausible summary - at least, it contains content about the lac operon, and appears to be largely in agreement with modern knowledge of how the Lac repressor works.\nHowever, closer reading will show that this text is actually blatantly and flagrantly incorrect.",
+    "crumbs": [
+      "General Thesis Writing",
+      "Notes on the use of generative AI"
+    ]
+  },
+  {
+    "objectID": "AI.html#footnotes",
+    "href": "AI.html#footnotes",
+    "title": "Notes on the use of generative AI",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nPardee AB, Jacob F, Monod J. 1959. The genetic control and cytoplasmic expression of “inducibility” in the synthesis of β-galactosidase by E. coli. J Mol Biol 1:165–178.↩︎\non a Google query, “what did the PaJaMo paper show?”, 24 April 2025↩︎\nGilbert W, Müller-Hill B. Isolation of the lac repressor. Proc Natl Acad Sci U S A. 1966;56(6):1891-1898. doi:10.1073/pnas.56.6.1891↩︎",
+    "crumbs": [
+      "General Thesis Writing",
+      "Notes on the use of generative AI"
+    ]
+  },
+  {
+    "objectID": "management.html",
+    "href": "management.html",
+    "title": "Project and Time Management",
+    "section": "",
+    "text": "Organising your project work, and managing your time effectively, may seem like very basic skills that require no guidance/help. However, both are fundamental and underpin not only your work in this project, but will likely be important for your work/career going forward. It is possible to improve your project and time management skills (and thus become a more effective worker) - but this takes attention and focus.\n\n\n\n\n\n\nNote\n\n\n\nRemember, your project performance mark contributes to your overall mark for the BM954 module. This includes your ability to manage your project independently, meet deadlines, come prepared to meetings, etc.\n\n\n\n\n\n\n\n\nBack up your work!!!\n\n\n\nPlease make sure you back up your thesis work. IT issues such as computer failure are not considered grounds for an extension (and you don’t want to have to redo all your hard work anyway!) It is good practice to make sure you have at least three secure back-up copies of your work stored in different places.\n\n\nThis section is not intended to be a comprehensive guide to project and time management, but does provide a curated set of resources that may help you get started.\n\n\n\n\n\n\nBefore you begin your project, you should:\n\n\n\n☐ Have a plan for how you will manage (store) raw data, results, and other files. (Choose an organizational system that works for you, and stick with it.)\n☐ Select a reference manager, and input records for the papers that you are reading/likely to cite\n☐ Choose a format for keeping a lab notebook, to record your experiments and daily progress\n☐ Draft a timeline for your project, with specific milestones and agreed deadlines for draft submissions\n☐ Have considered the sustainability implications of your project, and come up with a plan for the most efficient and effective use of resources",
+    "crumbs": [
+      "Getting Started",
+      "Project and Time Management"
+    ]
+  },
+  {
+    "objectID": "management.html#project-management---overview",
+    "href": "management.html#project-management---overview",
+    "title": "Project and Time Management",
+    "section": "",
+    "text": "Organising your project work, and managing your time effectively, may seem like very basic skills that require no guidance/help. However, both are fundamental and underpin not only your work in this project, but will likely be important for your work/career going forward. It is possible to improve your project and time management skills (and thus become a more effective worker) - but this takes attention and focus.\n\n\n\n\n\n\nNote\n\n\n\nRemember, your project performance mark contributes to your overall mark for the BM954 module. This includes your ability to manage your project independently, meet deadlines, come prepared to meetings, etc.\n\n\n\n\n\n\n\n\nBack up your work!!!\n\n\n\nPlease make sure you back up your thesis work. IT issues such as computer failure are not considered grounds for an extension (and you don’t want to have to redo all your hard work anyway!) It is good practice to make sure you have at least three secure back-up copies of your work stored in different places.\n\n\nThis section is not intended to be a comprehensive guide to project and time management, but does provide a curated set of resources that may help you get started.\n\n\n\n\n\n\nBefore you begin your project, you should:\n\n\n\n☐ Have a plan for how you will manage (store) raw data, results, and other files. (Choose an organizational system that works for you, and stick with it.)\n☐ Select a reference manager, and input records for the papers that you are reading/likely to cite\n☐ Choose a format for keeping a lab notebook, to record your experiments and daily progress\n☐ Draft a timeline for your project, with specific milestones and agreed deadlines for draft submissions\n☐ Have considered the sustainability implications of your project, and come up with a plan for the most efficient and effective use of resources",
+    "crumbs": [
+      "Getting Started",
+      "Project and Time Management"
+    ]
+  },
+  {
+    "objectID": "management.html#project-management---sustainability",
+    "href": "management.html#project-management---sustainability",
+    "title": "Project and Time Management",
+    "section": "Project Management - Sustainability",
+    "text": "Project Management - Sustainability\nOne key factor to consider when planning and managing your project is sustainability. We are in the midst of a global climate crisis, and although biomedical research often works toward one or more of the UN Sustainable Development Goals, it also has a very large carbon footprint and has undeniable sustainability problems. (For example: the energy needed to maintain ultra-low temperature freezers or run large computing cores; the use of single-use disposable plastics; generation of hazardous waste; etc.)\nPart of managing your project is making sustainable choices and using resources effectively, whether this is minimizing the number of plastic pipet tips you use or making sustainable choices for data analysis, file management, or other computing needs.\n\nSuggested reading - sustainability in biomedical research\nFreese T, Elzinga N, Heinemann M, Lerch MM, Feringa BL. The relevance of sustainable laboratory practices. RSC Sustain. 2024;2(5):1300-1336. Published 2024 Mar 18. doi:10.1039/d4su00056k\nDurgan J, Rodríguez-Martínez M, Rouse B. Green Labs: a guide to developing sustainable science in your organization. Immunol Cell Biol. 2023;101(4):289-301. doi:10.1111/imcb.12624\nAragaw TA, Mekonnen BA. Understanding disposable plastics effects generated from the PCR testing labs during the COVID-19 pandemic. J Hazard Mater Adv. 2022;7:100126. doi:10.1016/j.hazadv.2022.100126\nLannelongue L, Grealey J, Bateman A, Inouye M. Ten simple rules to make your computing more environmentally sustainable. PLoS Comput Biol. 2021;17(9):e1009324. Published 2021 Sep 20. doi:10.1371/journal.pcbi.1009324\nVeyssi A, Samineni L, Mohanty RP. Bio-contaminated plastic micropipette tip sterilization stations: Environmentally, economically, and energetically viable solution. Waste Manag. 2025;196:71-79. doi:10.1016/j.wasman.2025.02.004\nGraham, M., Samuel, G. & Farley, M. Roadmap for low-carbon ultra-low temperature storage in biobanking. J Transl Med 22, 747 (2024). https://doi.org/10.1186/s12967-024-05383-5\nSarink MJ, Bode LGM, Croughs P, et al. Less Is More: When to Repeat Antimicrobial Susceptibility Testing. J Clin Microbiol. 2023;61(8):e0046323. doi:10.1128/jcm.00463-23",
+    "crumbs": [
+      "Getting Started",
+      "Project and Time Management"
+    ]
+  },
+  {
+    "objectID": "management.html#project-management-resources",
+    "href": "management.html#project-management-resources",
+    "title": "Project and Time Management",
+    "section": "Project Management Resources",
+    "text": "Project Management Resources\n\nProject management guidelines [Notebooks on data and project management prepared by Dr. Pritchard and Dr. Feeney for the 2022 session of BM432]. These include:\n\n01-Data Analysis in the Research Cycle\n02-Data and Project Management\n03-Reproducibility, Replicability, and FAIR Guidelines\n04-Keeping a Lab Notebook to Document Your Project\n05-Reference Management\n06-How to Use Reference Management Software",
+    "crumbs": [
+      "Getting Started",
+      "Project and Time Management"
+    ]
+  },
+  {
+    "objectID": "management.html#lab-notebooks-how-to-and-resources",
+    "href": "management.html#lab-notebooks-how-to-and-resources",
+    "title": "Project and Time Management",
+    "section": "Lab notebooks how-to and resources",
+    "text": "Lab notebooks how-to and resources\n\nHow to keep a lab notebook\n10 Tips For Organizing Your Lab Book\nHow to Keep a Lab Notebook for Bioinformatic Analyses\nTen Simple Rules for a Computational Biologist’s Laboratory Notebook\nBenchling (electronic lab notebooks)\n10 File Management Tips to Keep Your Electronic Files Organized",
+    "crumbs": [
+      "Getting Started",
+      "Project and Time Management"
+    ]
+  },
+  {
+    "objectID": "management.html#links-to-some-additional-useful-projecttime-management-resources",
+    "href": "management.html#links-to-some-additional-useful-projecttime-management-resources",
+    "title": "Project and Time Management",
+    "section": "Links to some additional useful Project/Time Management Resources",
+    "text": "Links to some additional useful Project/Time Management Resources\n\nYou may find it helpful to use project planning tools such as Trello, Asana, or similar tools that help to manage tasks/track completion/etc.\nPomodoro Timer (explanation of the Pomodoro Technique)\nForest (focusing app)\nEverNote (note-taking app)\n8 Time Management Tips for Students",
+    "crumbs": [
+      "Getting Started",
+      "Project and Time Management"
+    ]
+  },
+  {
+    "objectID": "expectations.html",
+    "href": "expectations.html",
+    "title": "Project Expectations",
+    "section": "",
+    "text": "This may be your first time working on a scientific project, and/or your first time producing a scientific document (thesis). These guidelines are here to give you an idea of what to expect, and should be read in conjunction with the BM954 guidance (available on the module MyPlace page.) Please read through these expectations and bring any questions or concerns that you would like to discuss with Dr. Feeney to our first meeting.\n\nScience:\n\nMaintain a lab notebook, either on paper or electronically. Human memory is fallible! Your notebook should be thorough and legible – if you come back to it in a month’s time, you should be able to reconstruct what you did.\n\nFor each experiment, please write the Objective, Background, Methods (including deviations from established methods), Results, and Conclusion (Your future self will thank you for doing this!)\n\nFiles should be saved with clear, concise file names and saved where you can find them again. Back up your work frequently and in more than one place – you do not want to lose all of your data!\nAt the end of the project, I expect you to provide me with the raw data files from your work: e.g. for a phylogenetic tree, I expect the .fasta file containing all of the sequences, the multiple sequence alignment of the sequences, and the .newick file for the tree. This is so that projects can be continued/expanded in future years.\n\n\n\nTeamwork/collegiality:\n\nScience is a team effort and it benefits from people working together in groups – we can accomplish more together than one person working alone can.\nListen respectfully to each other, learn from each other, and contribute as you can.\nBe respectful of others’ different life experiences, learn from them when appropriate, and contribute when appropriate. Do not insult or put down people who share their experiences. Harassment, sexism, racism, or exclusionary comments are not appropriate and prevent people from participating in science.\nRecognize that every person will bring strengths and weaknesses with them. Highlight each others strengths, and help each other overcome our weaknesses.\nIf you find that you have made a mistake: listen, offer a genuine apology, and commit to learning and doing better.\n\n\n\nKindness:\n\nBe kind to yourself. Be mindful of your limits, and aware of the fact that you are still in the middle of a global pandemic/distressing news cycles – give yourself credit for the hard work that you’re doing every day.\nBe kind to others. Give them the benefit of the doubt when needed; remember that online communication often misses nuance or meaning. Remember that everyone is struggling right now and may not be able to be their best selves.\nBe patient. Science can be hard work – things take longer to accomplish, particularly at first; you may need to repeat experiments or start over with a new dataset. This is all part of the process – you are making progress, even though it may not be readily apparent.\n\n\n\nCommunication:\n\nClear, open, honest communication – I cannot help if you don’t let me know that there’s a problem.\nMeetings at least once a week. The standard for meetings is that they are to be in person, on campus. In rare exceptions, meetings may be held via Zoom/Teams. [Online meeting etiquette: turning your camera, microphone on/off is completely up to you, no pressure either way.]\nBetween meetings, I’m available by e-mail to answer questions or you can schedule a drop-in Zoom (depending on our schedules).\nDon’t be afraid to ask for help:\n\nMe (…this is literally my job!)\nEach other\nThe micro group\nAsk questions in your lectures/open office sessions\nTwitter/BlueSky/etc. (you will often find interested experts in the field on social media, happy to chat about their favourite subject! Don’t be a bother/expect them to do your work for you, but do engage politely and respectfully.)\n\nHow to ask for help: … after Google, reading papers, looking at manuals and FAQs has proven unhelpful!\n\nBe detailed and specific! (“I tried it and it didn’t work” is not a useful question).\nExplain what you were trying to do, exactly how you tried to do it, exactly what happened (e.g. what error message you got) – include screenshots if they help to illustrate the problem. This will save a lot of time and back-and-forth e-mails\n\nTake ownership of your project: I am here to help and to guide you, but this is not my thesis (I have already done one!) Come prepared to meetings Think independently and critically Read broadly All of the above contributes to your project performance mark\nDon’t be afraid to tell me that I’m wrong:\n\nYour data may well contradict my hypotheses or ideas\nYou might find something in the literature that I wasn’t aware of\nYou may well have insights and clever thoughts that I won’t have\nDoing science is about being able to challenge the accepted dogma and prove ideas wrong\n\n\n\n\nWhat you can expect from me:\n\nKindness, team-work, and collegiality\nAdvice and guidance on planning and carrying out your experiments\nGuidance on how to write a scientific document\nFeedback on drafts and practice presentation\nGood communication\nE-mail responses within 24h (I will do my absolute best)\nFeedback on project performance\nReferences when you are applying for jobs/PhDs/etc. in the future (please do give me some advance notice of these, as it helps me to plan my work and make sure that the reference is submitted on time)\n\n\n\n\n\n\n\nA few tips and suggestions for success\n\n\n\n\nTake care of yourself (a healthy mind requires a healthy body)\nStay organized. Set yourself deadlines (but be flexible when need be)\nDon’t feel the need to write your draft in one go – it’s much better to work on it a little bit every day (marathon, not a sprint)\nBreak it down into small tasks\nGet into the habit of writing at least a few sentences daily\nTake breaks and let your mind rest/process ideas (take a walk, wash the dishes, drink some tea).\nTake breaks from the screen.\nWhen you read papers, and go to seminars/journal clubs: pay attention to the way that other people explain their science (what works? what doesn’t?)",
+    "crumbs": [
+      "Getting Started",
+      "Project Expectations"
+    ]
+  },
+  {
+    "objectID": "RStudio.html",
+    "href": "RStudio.html",
+    "title": "R Studio Resources",
+    "section": "",
+    "text": "Depending on your project, you may find the following resources useful - please note that this is by no means an exhaustive list, just a starting point - there are many other helpful resources out there. While you do not necessarily need to use R/R Studio for your data analysis, you will likely find that being able to work in R is an important transferable skill and important for your future career. Feel free to discuss with Dr. Feeney if you have any questions.\n\nGetting Started (ModernDive)\nR for Data Science (2nd edition)\nIntroduction to ggplot2\nggplot2 tutorial\n\n\n\nDemos for AY 2024-2025 projects\n\nRdemo1.R: R script used for demo 1\nRdemo1.csv: .csv data file used for demo 1\nRdemo2.R: R script used for demo 2\nRdemo2.csv: .csv data file used for demo 2\n\n\n\n\nSome intro R tutorials you may find useful:\n\nBM214 workshop 3: an intro to ggplot2 in the context of plotting growth curves and analysing reporter gene expression (2nd year intro microbiology workshop)\nBM327 workshop 2: an intro to ggplot2 in the context of identifying UTI adhesion factors (3rd year biomedical microbiology workshop)",
+    "crumbs": [
+      "Experimental Work",
+      "R Studio Resources"
+    ]
+  },
+  {
+    "objectID": "RStudio.html#general-r-studio-resourcesgetting-started",
+    "href": "RStudio.html#general-r-studio-resourcesgetting-started",
+    "title": "R Studio Resources",
+    "section": "",
+    "text": "Depending on your project, you may find the following resources useful - please note that this is by no means an exhaustive list, just a starting point - there are many other helpful resources out there. While you do not necessarily need to use R/R Studio for your data analysis, you will likely find that being able to work in R is an important transferable skill and important for your future career. Feel free to discuss with Dr. Feeney if you have any questions.\n\nGetting Started (ModernDive)\nR for Data Science (2nd edition)\nIntroduction to ggplot2\nggplot2 tutorial\n\n\n\nDemos for AY 2024-2025 projects\n\nRdemo1.R: R script used for demo 1\nRdemo1.csv: .csv data file used for demo 1\nRdemo2.R: R script used for demo 2\nRdemo2.csv: .csv data file used for demo 2\n\n\n\n\nSome intro R tutorials you may find useful:\n\nBM214 workshop 3: an intro to ggplot2 in the context of plotting growth curves and analysing reporter gene expression (2nd year intro microbiology workshop)\nBM327 workshop 2: an intro to ggplot2 in the context of identifying UTI adhesion factors (3rd year biomedical microbiology workshop)",
+    "crumbs": [
+      "Experimental Work",
+      "R Studio Resources"
+    ]
+  },
+  {
+    "objectID": "WritingExercises-overview.html",
+    "href": "WritingExercises-overview.html",
+    "title": "Writing Exercises",
+    "section": "",
+    "text": "A great deal of academic writing is, to put it quite simply, very bad. It may be unnecessarily verbose, confusing, or unclear. Or, it may be written with no reference to the reader’s likely background knowledge or experience, leaving ideas that are quite clear in the writer’s mind inaccessible for most readers. Worst of all, it may indeed sometimes be written in a deliberately deceptive way - as Calvin says, inflating weak ideas and obscuring poor reasoning (Figure 1). All of these writing “sins” should be avoided.\n\n\n\n‘Figure 1. Scientific writing. Image credit: Calvin and Hobbes, Bill Watterson.’\n\n\nWriting well is a skill that all scientists must develop with practice and through incorporating feedback from readers into their writing practice. Just as you would not expect to win a marathon or paint a masterpiece on the first attempt, you cannot expect your writing to be flawless when you first begin. Constant practice is essential.\n\n\n\nThere are two sets of writing exercises:\n\ncomposition exercises1 intended to assist with basic composition (sentence and paragraph structure, word choice, etc.)\nstructural exercises intended to help you understand how to structure the different elements of your thesis, and how to follow the scientific conventions for each.\n\nYou are expected to complete these exercises in your own time, but encouraged to discuss any of them with Dr. Feeney during your weekly meetings.\n\n\n\n\n\n\nImportant\n\n\n\nYou may complete these exercises at any time and in any order2, but you are expected to have completed all of the composition exercises before submitting an initial draft to Dr. Feeney.\n\n\nFinally, please note that writing well and easily is a matter of constant practice (Figure 2). Try to make an effort to write a little every day; and whenever you write, evaluate your own writing, and seek out feedback on ways that you can improve. These are skills that you will find useful not just for writing your thesis, but throughout your studies and in your future career.\n\n\n\nFigure 2. Writing shouldn’t be so hard. Image credit: PhD Comics.\n\n\n\n\n\n\nWriting composition exercise C01: Use definite, specific, concrete language; Put statements in positive form\nWriting exercise C02: Omit needless words\nWriting exercise C03: Active vs. passive voice and choice of verb tenses\nWriting exercise C04: Using transitional words\nWriting exercise C05: Sentence structure considerations (use parallel construction, keep related words together, place emphasis at the end of sentences)\nWriting exercise C06: Avoiding jargon, acronyms, and abbreviations\nWriting exercise C07: Word choice considerations\n\n\n\n\n\nWriting structure exercise S01: Evaluating Scientific Writing\nWriting structure exercise S02: Paragraph Structure; using topic sentences and organizing the logical flow of information in a paragraph\n\nSentence structure/form (more practice with some of Strunk & White’s Principles of Composition)\n\nWriting structure exercise S03: Formulating a hypothesis\nWriting structure exercise S04: Structuring your introduction\nWriting structure exercise S05: Writing a methods section\nWriting structure exercise S06: Experimental narratives\nWriting structure exercise S07: Figure legends - see also the “Guidance on writing a good figure title and legend” in Preparing Figures\nWriting structure exercise S08: Model Figures\nWriting structure exercise S09: Writing a discussion\nWriting structure exercise S10: Abstracts\nWriting structure exercise S11: Titles and Subtitles\nWriting structure exercise S12: Editing\n\n\n\n\nOne of the best ways to improve your writing is to read broadly and pay attention to the way that papers are written. Take note of which writing techniques are effective and which are less so, and then apply these ideas to your own writing.",
+    "crumbs": [
+      "General Thesis Writing",
+      "Writing Exercises"
+    ]
+  },
+  {
+    "objectID": "WritingExercises-overview.html#introduction-and-rationale",
+    "href": "WritingExercises-overview.html#introduction-and-rationale",
+    "title": "Writing Exercises",
+    "section": "",
+    "text": "A great deal of academic writing is, to put it quite simply, very bad. It may be unnecessarily verbose, confusing, or unclear. Or, it may be written with no reference to the reader’s likely background knowledge or experience, leaving ideas that are quite clear in the writer’s mind inaccessible for most readers. Worst of all, it may indeed sometimes be written in a deliberately deceptive way - as Calvin says, inflating weak ideas and obscuring poor reasoning (Figure 1). All of these writing “sins” should be avoided.\n\n\n\n‘Figure 1. Scientific writing. Image credit: Calvin and Hobbes, Bill Watterson.’\n\n\nWriting well is a skill that all scientists must develop with practice and through incorporating feedback from readers into their writing practice. Just as you would not expect to win a marathon or paint a masterpiece on the first attempt, you cannot expect your writing to be flawless when you first begin. Constant practice is essential.",
+    "crumbs": [
+      "General Thesis Writing",
+      "Writing Exercises"
+    ]
+  },
+  {
+    "objectID": "WritingExercises-overview.html#how-to-use-these-exercises",
+    "href": "WritingExercises-overview.html#how-to-use-these-exercises",
+    "title": "Writing Exercises",
+    "section": "",
+    "text": "There are two sets of writing exercises:\n\ncomposition exercises1 intended to assist with basic composition (sentence and paragraph structure, word choice, etc.)\nstructural exercises intended to help you understand how to structure the different elements of your thesis, and how to follow the scientific conventions for each.\n\nYou are expected to complete these exercises in your own time, but encouraged to discuss any of them with Dr. Feeney during your weekly meetings.\n\n\n\n\n\n\nImportant\n\n\n\nYou may complete these exercises at any time and in any order2, but you are expected to have completed all of the composition exercises before submitting an initial draft to Dr. Feeney.\n\n\nFinally, please note that writing well and easily is a matter of constant practice (Figure 2). Try to make an effort to write a little every day; and whenever you write, evaluate your own writing, and seek out feedback on ways that you can improve. These are skills that you will find useful not just for writing your thesis, but throughout your studies and in your future career.\n\n\n\nFigure 2. Writing shouldn’t be so hard. Image credit: PhD Comics.",
+    "crumbs": [
+      "General Thesis Writing",
+      "Writing Exercises"
+    ]
+  },
+  {
+    "objectID": "WritingExercises-overview.html#composition-exercises",
+    "href": "WritingExercises-overview.html#composition-exercises",
+    "title": "Writing Exercises",
+    "section": "",
+    "text": "Writing composition exercise C01: Use definite, specific, concrete language; Put statements in positive form\nWriting exercise C02: Omit needless words\nWriting exercise C03: Active vs. passive voice and choice of verb tenses\nWriting exercise C04: Using transitional words\nWriting exercise C05: Sentence structure considerations (use parallel construction, keep related words together, place emphasis at the end of sentences)\nWriting exercise C06: Avoiding jargon, acronyms, and abbreviations\nWriting exercise C07: Word choice considerations",
+    "crumbs": [
+      "General Thesis Writing",
+      "Writing Exercises"
+    ]
+  },
+  {
+    "objectID": "WritingExercises-overview.html#structural-exercises",
+    "href": "WritingExercises-overview.html#structural-exercises",
+    "title": "Writing Exercises",
+    "section": "",
+    "text": "Writing structure exercise S01: Evaluating Scientific Writing\nWriting structure exercise S02: Paragraph Structure; using topic sentences and organizing the logical flow of information in a paragraph\n\nSentence structure/form (more practice with some of Strunk & White’s Principles of Composition)\n\nWriting structure exercise S03: Formulating a hypothesis\nWriting structure exercise S04: Structuring your introduction\nWriting structure exercise S05: Writing a methods section\nWriting structure exercise S06: Experimental narratives\nWriting structure exercise S07: Figure legends - see also the “Guidance on writing a good figure title and legend” in Preparing Figures\nWriting structure exercise S08: Model Figures\nWriting structure exercise S09: Writing a discussion\nWriting structure exercise S10: Abstracts\nWriting structure exercise S11: Titles and Subtitles\nWriting structure exercise S12: Editing",
+    "crumbs": [
+      "General Thesis Writing",
+      "Writing Exercises"
+    ]
+  },
+  {
+    "objectID": "WritingExercises-overview.html#concluding-thoughts",
+    "href": "WritingExercises-overview.html#concluding-thoughts",
+    "title": "Writing Exercises",
+    "section": "",
+    "text": "One of the best ways to improve your writing is to read broadly and pay attention to the way that papers are written. Take note of which writing techniques are effective and which are less so, and then apply these ideas to your own writing.",
+    "crumbs": [
+      "General Thesis Writing",
+      "Writing Exercises"
+    ]
+  },
+  {
+    "objectID": "WritingExercises-overview.html#footnotes",
+    "href": "WritingExercises-overview.html#footnotes",
+    "title": "Writing Exercises",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe “Principles of Composition” exercises are largely based on Strunk & White’s The Elements of Style, which is an excellent resource (available online or at your friendly university library). In addition to the principles of composition we will be discussing, Strunk & White contains sections on grammar and spelling, which may be helpful. However, there are many other style guides and writing resources available which you may wish to consult (see (add link here) for an inexhaustive list).↩︎\nnote that a suggested schedule for completing the structural exercises is provided in the Project Schedule↩︎",
+    "crumbs": [
+      "General Thesis Writing",
+      "Writing Exercises"
+    ]
+  },
+  {
+    "objectID": "literature.html",
+    "href": "literature.html",
+    "title": "Literature Review",
+    "section": "",
+    "text": "You will receive extensive guidance on how to review and engage with the literature as part of BM954. This page is intended to supplement that guidance and give some general tips for how to conduct a good literature review.",
+    "crumbs": [
+      "Getting Started",
+      "Literature Review"
+    ]
+  },
+  {
+    "objectID": "literature.html#literature-review-tips",
+    "href": "literature.html#literature-review-tips",
+    "title": "Literature Review",
+    "section": "Literature review tips",
+    "text": "Literature review tips\nTip #1: From day 1, start using a reference manager to keep track of the papers you read. Use a sensible system to organize your notes. (There’s nothing like sitting down to write, and thinking - “I know I’ve read this somewhere - now where was it?” and then needing to spend five hours combing through the literature to find a paper you’ve already read.)\nTip #2: In general, make sure your space and workflow suit the type of work that you are doing. Depending on how you work best, you may find it helpful to remove all noise and distractions (or you may find it helpful to have some sort of background noise.) But in general, engaging with the scientific literature is easiest if you remove distractions and ensure that your workspace suits what you are doing (no Facebook notifications popping up to distract you; suitable materials for taking notes at hand and easily accessible; a comfortable workplace that helps you think well; etc.)\nTip #3: Be sure you have a sensible, and coherent, search strategy. Use search terms that make sense for your project, and refer to e.g., the PubMed User Guide or similar help documents if you need help understanding how to optimize your search strategies.\nTip #4: Read broadly, and think critically about what you read. Try to put papers in context with one another and build up a mental model of what is known in the field, including where there might be any contradictions (Remember: just because it’s been published doesn’t mean it’s true!) and where the gaps (interesting/unanswered questions and areas for future research) may be.\nTip #5: Read really broadly - many scientific discoveries have occurred because scientists were working across disciplines, or reading and learning about topics unrelated to their own particular research question. By being open to a wide range of papers, you will learn about methods and discoveries that may well have some application to your own work. (This will also come in handy when it comes to writing your discussion section - the best discussions “zoom” out and put the study’s findings in a broader context.)\n\n\n\n\n\n\nQuestions to ask yourself when completing your literature review\n\n\n\n\nHave I surveyed all of the relevant literature on this topic - including articles that might disagree with/contradict my hypothesis or ideas?\nAre there any relevant insights or comparisons I can add, by referring to literature on another topic/from another field?\nAm I giving the reader the background necessary for them to understand my research question and how I am addressing a gap in the literature?",
+    "crumbs": [
+      "Getting Started",
+      "Literature Review"
+    ]
+  },
+  {
+    "objectID": "literature.html#further-suggested-reading",
+    "href": "literature.html#further-suggested-reading",
+    "title": "Literature Review",
+    "section": "Further suggested reading",
+    "text": "Further suggested reading\nPautasso, Marco. “Ten simple rules for writing a literature review.” PLoS computational biology vol. 9,7 (2013): e1003149. doi:10.1371/journal.pcbi.1003149\nStrathclyde Library Guides: A number of guides to support student research",
+    "crumbs": [
+      "Getting Started",
+      "Literature Review"
+    ]
+  },
+  {
+    "objectID": "experimentaldesign.html",
+    "href": "experimentaldesign.html",
+    "title": "Experimental Design",
+    "section": "",
+    "text": "During the course of your thesis work, you will likely be carrying out a number of different experiments. These may take different forms: e.g., a wet lab experiment might involve disrupting a gene to test its function; a science communication experiment might involve using a survey to assess whether a particular piece of science communication is effective or not; a bioinformatics experiment might involve using a multiple sequence alignment tool to test whether a particular amino acid residue in a protein is well-conserved amongst a set of homologous proteins.\nRegardless of the type of experiment, you will want to make sure that you are carrying it out to the best of your ability. You need, for example, to ensure that you are using the most appropriate technique and including any appropriate controls.\nGood experimental design requires critical thought. You are not expected to blindly do experiments “because Dr. Feeney said so” or “because so-and-so did it this way”. Instead, you should make certain that you are thinking about your experiments and making the best and most appropriate choices.\n\n\n\n\n\n\nMorgan’s top tips for good experimental design\n\n\n\n\nControls, controls, controls. Do you have an appropriate positive control and negative control (if appropriate for this type of experiment)?\nWill you be able to correctly interpret the results of your experiment, or might you be misled by false positives/false negatives/other errors?\nMake sure you have a clear hypothesis/aim, and that your experiment is actually able to test that hypothesis/achieve that aim.\nChange one thing at a time. Don’t overcomplicate things, or try to do too much at once - simpler is generally better.\nHave a plan for data analysis and statistical analysis before you begin - this should not be an afterthought.\n\n\n\nThe other pages in this section contain various resources for the different types of experiments you might be carrying out as part of your project (e.g., bioinformatics, science communication, etc.) - but as always, this is not meant to be taken as an exhaustive list. You are advised to read broadly, think deeply about your experiments, and discuss your experimental design in detail with Dr. Feeney.\nSuggested reading about experimental design:\n\nMP968: Experimental Design Workshop: Dr Pritchard’s workshop, which includes a very useful introduction to thinking about statistics in the context of experimental design (also contains references for further reading on the topic)\nLet’s Experiment : A Guide for Scientists Working at the Bench: An IBiology course (requires signup, but free)\nCasadevall A, Fang FC. 2016. Rigorous science: a how-to guide. mBio 7(6):e01902-16. doi:10.1128/mBio.01902-16.\nRuxton, Graeme D., and Nick. Colegrave. Experimental Design for the Life Sciences. 2nd ed. Oxford; New York: Oxford University Press, 2006. Print. [Available in the Strathclyde library]",
+    "crumbs": [
+      "Experimental Work",
+      "Experimental Design"
     ]
   },
   {
@@ -447,11 +451,11 @@
     ]
   },
   {
-    "objectID": "bioinformatics.html#phage-resources",
-    "href": "bioinformatics.html#phage-resources",
+    "objectID": "bioinformatics.html#phage-project-resources",
+    "href": "bioinformatics.html#phage-project-resources",
     "title": "Bionformatics Resources",
-    "section": "Phage resources",
-    "text": "Phage resources\n\nActinobacteriophage Database\nPhage tutorial 1: In this first tutorial, we go through how to create and name a new history in Galaxy, identify and import phage genome sequences into Galaxy, and annotate and examine the imported phage genomes\nPhage tutorial 2: In this tutorial, we work through how to create a phylogenetic tree for a gene/protein of interest\nPhage tutorial 3: in this tutorial, we go through some of the possible downstream analyses that can be done once you have identified gene(s) or protein(s) of interest in your phage genome, including: BLAST analysis, structural prediction/analysis, analysis of physicochemical properties, and codon usage calculations\nPhage tutorial 4: This tutorial looks at different ways of analysing the host genomes, including BLAST analysis, searching for CRISPR-Cas systems and other antiphage defenses, and analysis of secondary (specialised) metabolite production",
+    "section": "Phage project resources",
+    "text": "Phage project resources\n\nActinobacteriophage Database\nPhage tutorial 1: In this first tutorial, we go through how to create and name a new history in Galaxy, identify and import phage genome sequences into Galaxy, and annotate and examine the imported phage genomes\nPhage tutorial 2: In this tutorial, we work through how to create a phylogenetic tree for a gene/protein of interest\nPhage tutorial 3: in this tutorial, we go through some of the possible downstream analyses that can be done once you have identified gene(s) or protein(s) of interest in your phage genome, including: BLAST analysis, structural prediction/analysis, analysis of physicochemical properties, and codon usage calculations\nPhage tutorial 4: This tutorial looks at different ways of analysing the host genomes, including BLAST analysis, searching for CRISPR-Cas systems and other antiphage defenses, and analysis of secondary (specialised) metabolite production",
     "crumbs": [
       "Experimental Work",
       "Bionformatics Resources"
@@ -480,25 +484,65 @@
     ]
   },
   {
-    "objectID": "AI.html",
-    "href": "AI.html",
-    "title": "Notes on the use of generative AI",
+    "objectID": "writingtips.html",
+    "href": "writingtips.html",
+    "title": "General Writing Tips",
     "section": "",
-    "text": "Important\n\n\n\nYou should make certain you have read, and understood, the university’s policy on the use of generative AI in coursework.\n\nGenerative Artifical Intelligence and Copyright\nStudent FAQs\nYou may be tempted to use generative AI in writing your thesis, or in helping to generate ideas, polish drafts, perform data analysis tasks, etc. etc.\nThe purpose of this section is not to terrify you about the dangers of AI, or convince you that it is inherently evil (it is not), but to make sure that you are aware of the inherent limitations in AI relevant for the tasks you are doing in your project, and the potential dangers of AI use (and misuse).\nBecause generative AI draws on large language models, which essentially rely on statistical relationships between words in their training set, it has inherent limitations and biases which often result in poor performance for academic work.\nFor example, a query about the famous, classic “PaJaMo” paper1 (which our 3rd year students study in Fundamental Microbiology), produces the following AI overview2:\nAt first glance, this might appear to be a plausible summary - at least, it contains content about the lac operon, and appears to be largely in agreement with modern knowledge of how the Lac repressor works.\nHowever, closer reading will show that this text is actually blatantly and flagrantly incorrect.",
+    "text": "Please go through the Thesis submission checklist and ensure that your thesis meets all the guidelines before submitting it. Please also work through the Writing Exercises and discuss with MF as needed.\n\n\n\n\n\n\nMorgan’s Top Tips for Writing a Great Thesis, Starting from Day One\n\n\n\n\nRead broadly & think critically. You will often get great ideas from reading papers outside your field, or be able to make connections to other systems/organisms/etc.\nOrganise your references as you go along. Use reference management software\nWrite clearly and concisely\nPay attention to sentence and paragraph structure\nBe specific & say what you mean\nUse figures where appropriate\nProofread\nCite appropriate references using a correct and consistent style\nPay attention to the instructions and the assessment criteria (available on Myplace)\n\n\n\n\n\n\nIdentify key results (outline/bullet points)\nStart writing by first making your figures (the “backbone” of your story)\nWrite the methods section (make sure you cover every experiment presented in your figures/tables)\nWrite your results section, going through each of your results (figures) in a logical order.\n\n\n\n\n\n\nOrganize your thoughts logically\n\n\n\nFor each experiment, explain:\n\nyour aim (the reason why you did the experiment)\nthe method (how you did the experiment)\nthe results (what you found)\nthe significance (what the results mean)\n\n--always in that order!!\n\n\nWrite your discussion (what do your results mean?)\n\n\n\n\n\n\nWriting a Good Discussion Section\n\n\n\nCan you create a model figure illustrating your results and placing them in the context of what was previously known?\nMake sure that any information essential for understanding your results (context) was present in the introduction. In your discussion, have you gone back to address all the key points raised in your intro?\nMake sure you do not just reiterate/rehash the points raised in your results section. Instead, make sure you put your results in the broader context (what is known in the literature? How do your results relate to other systems/types of cells/situations/etc.?)\n\n\nProofread, edit, and improve your draft based on feedback.\nWrite an abstract and decide on a title\n\n\n\n\n\n\n\nThree Common Scientific Writing Mistakes and How to Avoid Them\n\n\n\nProblem: Lack of attention to sentence structure\nExample: “Some students have really excellent ideas and are putting those ideas in their theses and making sure that they reference other people’s ideas from the literature correctly and using reference management software in appropriate ways and including a list of references at the end of their thesis. So great.”\nSolution: Be ruthless about editing your sentences until each sentence contains just one idea (the example above contained at least 4 separate ideas). It may help to read your writing aloud, as in the above example: take note of where you would naturally pause to take a breath.\nAt one end of the extreme, you have long, convoluted sentences that try to do too much (the first sentence in the example). At the other end, you have another type of grammatical disaster - beware sentence fragments.\n\nProblem: Use of scientific jargon and/or excessive acronyms\nExample: “We spun down the cells and washed them with PBS.”\nSolution: “spun down the cells” is something you might say colloquially (and that’s fine), However, in formal scientific language, you would say that the cells were centrifuged. Avoid colloquialisms and make sure you always define abbreviations (like PBS) at the first use.\n\nProblem: Lack of precision and/or attention to detail\nExample: “The genes in E. coli were translated and cheY was well conserved.”\nSolution: Pay careful attention to conventions in your field and precise usage of terms. Ask a friend or colleague to look over your writing and make sure that it conveys your intended meaning.\nHere, gene and species names should be italicized by convention (N.B. cheY refers to the gene, CheY refers to the protein). “Translated” is mis-used (remember that genes are transcribed). Finally, the sentence is, overall, frustratingly vague (which genes? what does “well conserved” mean?).\nA better and more meaningful version: “The genes involved in chemotaxis in E. coli were expressed under these experimental conditions (mid-logarithmic phase in MOPS minimal medium at 37° C). cheY was well-conserved, with homologs found in 99.4% of all analysed E. coli genomes.)\n\n\n\n\n\n\nUse a style guide, e.g. The Elements of Style\nHow to write a first-class paper\nTen simple rules for scientists: Improving your writing productivity\nNovelist Cormac McCarthy’s tips on how to write a great science pape\nTen simple rules for structuring papers\nImproving your scientific writing: a short guide\nSome tips for scientific writing\nTen Simple (Empirical) Rules for Writing Science\nSIMPLIFY Science Writing",
     "crumbs": [
       "General Thesis Writing",
-      "Notes on the use of generative AI"
+      "General Writing Tips"
     ]
   },
   {
-    "objectID": "AI.html#footnotes",
-    "href": "AI.html#footnotes",
-    "title": "Notes on the use of generative AI",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nPardee AB, Jacob F, Monod J. 1959. The genetic control and cytoplasmic expression of “inducibility” in the synthesis of β-galactosidase by E. coli. J Mol Biol 1:165–178.↩︎\non a Google query, “what did the PaJaMo paper show?”, 24 April 2025↩︎\nGilbert W, Müller-Hill B. Isolation of the lac repressor. Proc Natl Acad Sci U S A. 1966;56(6):1891-1898. doi:10.1073/pnas.56.6.1891↩︎",
+    "objectID": "writingtips.html#writing-checklist---for-when-you-are-ready-to-sit-down-and-start-writing",
+    "href": "writingtips.html#writing-checklist---for-when-you-are-ready-to-sit-down-and-start-writing",
+    "title": "General Writing Tips",
+    "section": "",
+    "text": "Identify key results (outline/bullet points)\nStart writing by first making your figures (the “backbone” of your story)\nWrite the methods section (make sure you cover every experiment presented in your figures/tables)\nWrite your results section, going through each of your results (figures) in a logical order.\n\n\n\n\n\n\nOrganize your thoughts logically\n\n\n\nFor each experiment, explain:\n\nyour aim (the reason why you did the experiment)\nthe method (how you did the experiment)\nthe results (what you found)\nthe significance (what the results mean)\n\n--always in that order!!\n\n\nWrite your discussion (what do your results mean?)\n\n\n\n\n\n\nWriting a Good Discussion Section\n\n\n\nCan you create a model figure illustrating your results and placing them in the context of what was previously known?\nMake sure that any information essential for understanding your results (context) was present in the introduction. In your discussion, have you gone back to address all the key points raised in your intro?\nMake sure you do not just reiterate/rehash the points raised in your results section. Instead, make sure you put your results in the broader context (what is known in the literature? How do your results relate to other systems/types of cells/situations/etc.?)\n\n\nProofread, edit, and improve your draft based on feedback.\nWrite an abstract and decide on a title\n\n\n\n\n\n\n\nThree Common Scientific Writing Mistakes and How to Avoid Them\n\n\n\nProblem: Lack of attention to sentence structure\nExample: “Some students have really excellent ideas and are putting those ideas in their theses and making sure that they reference other people’s ideas from the literature correctly and using reference management software in appropriate ways and including a list of references at the end of their thesis. So great.”\nSolution: Be ruthless about editing your sentences until each sentence contains just one idea (the example above contained at least 4 separate ideas). It may help to read your writing aloud, as in the above example: take note of where you would naturally pause to take a breath.\nAt one end of the extreme, you have long, convoluted sentences that try to do too much (the first sentence in the example). At the other end, you have another type of grammatical disaster - beware sentence fragments.\n\nProblem: Use of scientific jargon and/or excessive acronyms\nExample: “We spun down the cells and washed them with PBS.”\nSolution: “spun down the cells” is something you might say colloquially (and that’s fine), However, in formal scientific language, you would say that the cells were centrifuged. Avoid colloquialisms and make sure you always define abbreviations (like PBS) at the first use.\n\nProblem: Lack of precision and/or attention to detail\nExample: “The genes in E. coli were translated and cheY was well conserved.”\nSolution: Pay careful attention to conventions in your field and precise usage of terms. Ask a friend or colleague to look over your writing and make sure that it conveys your intended meaning.\nHere, gene and species names should be italicized by convention (N.B. cheY refers to the gene, CheY refers to the protein). “Translated” is mis-used (remember that genes are transcribed). Finally, the sentence is, overall, frustratingly vague (which genes? what does “well conserved” mean?).\nA better and more meaningful version: “The genes involved in chemotaxis in E. coli were expressed under these experimental conditions (mid-logarithmic phase in MOPS minimal medium at 37° C). cheY was well-conserved, with homologs found in 99.4% of all analysed E. coli genomes.)",
     "crumbs": [
       "General Thesis Writing",
-      "Notes on the use of generative AI"
+      "General Writing Tips"
     ]
+  },
+  {
+    "objectID": "writingtips.html#links-to-some-helpful-writing-tipsguides",
+    "href": "writingtips.html#links-to-some-helpful-writing-tipsguides",
+    "title": "General Writing Tips",
+    "section": "",
+    "text": "Use a style guide, e.g. The Elements of Style\nHow to write a first-class paper\nTen simple rules for scientists: Improving your writing productivity\nNovelist Cormac McCarthy’s tips on how to write a great science pape\nTen simple rules for structuring papers\nImproving your scientific writing: a short guide\nSome tips for scientific writing\nTen Simple (Empirical) Rules for Writing Science\nSIMPLIFY Science Writing",
+    "crumbs": [
+      "General Thesis Writing",
+      "General Writing Tips"
+    ]
+  },
+  {
+    "objectID": "methods.html",
+    "href": "methods.html",
+    "title": "Writing a Methods Section",
+    "section": "",
+    "text": "Check out this annotated example of how to write a methods section for an example of a generally good methods section and some key points. Also have a look at Writing exercise S05",
+    "crumbs": [
+      "Guidance on Specific Thesis Sections",
+      "Writing a Methods Section"
+    ]
+  },
+  {
+    "objectID": "methods.html#tips-for-writing-a-great-methods-section",
+    "href": "methods.html#tips-for-writing-a-great-methods-section",
+    "title": "Writing a Methods Section",
+    "section": "Tips for Writing a Great Methods Section",
+    "text": "Tips for Writing a Great Methods Section\n\nDescribe your experimental methods in enough detail that your reader could replicate the experiments.\nYour methods section is not a protocol (a step-by-step list of everything that was done.) You may assume that your reader is a competent scientist with the skills to perform basic lab calculations, techniques, etc.\nCite the appropriate literature (i.e. for any recipes, tools, protocols you have used).\nDo not include results or rationale for performing experiments (these belong elsewhere in your thesis).\nBe clear and concise; eliminate unnecessary words and steps.\nMake sure that your methods section includes all of the materials and methods you used in your thesis (This includes any bioinformatics methods such as BLAST!)\nAsk a friend or colleague to read your methods section and give feedback.\n\n\n\n\n\n\n\nProtip: Look at papers that have used similar methods: how are these methods sections written?\n\n\n\nYou want to make sure that your methods section generally follows the conventions in your field, so that readers will be able to understand it more easily.\nA few examples of specific conventions:\n\nfor wet-lab projects, centrifuge speeds are always given in xg, not in rpm or rcf\nfor sci comm projects, the design of your intervention/survey belongs in the methods section\nfor bioinformatics projects, always include the version number of any software used and details of parameters, etc.",
+    "crumbs": [
+      "Guidance on Specific Thesis Sections",
+      "Writing a Methods Section"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BM954 project resources (Dr. Feeney’s project students)",
+    "section": "",
+    "text": "Hello, and welcome! These resources are designed to assist you as you complete your MSc thesis with Dr. Feeney, and should be read in conjunction with official BM954 materials available on the course MyPlace page.\n\n\n\n\n\n\nNote\n\n\n\nYou may be here because you are doing your project work under Dr. Feeney’s supervision, or because you are doing an industrial placement project as part of the IBioIC MSc in industrial biotechnology, and Dr. Feeney is your academic supervisor for that project.\nFor students doing an industrial placement, you are welcome to make use of any of the resources on these pages; however, you should refer any questions about your project work, methods, and day-to-day questions about your project, to your industrial supervisor.\n\n\nPlease read through the project expectations document before our first meeting, and come prepared to discuss any questions you have.\nUseful resources can be accessed via the sidebar. Please report any broken links to Dr. Feeney and contact her with any questions about these materials."
   }
 ]
