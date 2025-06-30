@@ -56,9 +56,11 @@ Finally, please note that writing well and easily is a matter of constant practi
 
 1. [Writing structure exercise S01](./assets/WritingExercises/S01.docx): Evaluating Scientific Writing
 
-2. [Writing structure exercise S02](./assets/WritingExercises/Ss02.docx): Paragraph Structure; using topic sentences and organizing the logical flow of information in a paragraph
+2. [Writing structure exercise S02](./assets/WritingExercises/S02.docx): Paragraph Structure; using topic sentences and organizing the logical flow of information in a paragraph
 
-Sentence structure/form (more practice with some of Strunk & White's Principles of Composition)
+*Bonus* - [Additional exercise on paragraph structure](./assets/WritingExercises/AdditionalExercises01.docx)
+
+*Bonus* - [Additional exercise on sentence structure](./assets/WritingExercises/AdditionalExercises02.docx)(more practice with some of Strunk & White's Principles of Composition)
 
 3. [Writing structure exercise S03](./assets/WritingExercises/S03.docx): Formulating a hypothesis 
 
